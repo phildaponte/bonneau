@@ -1,0 +1,776 @@
+<!DOCTYPE html>
+<!--  This site was created in Webflow. http://www.webflow.com -->
+<!--  Last Published: Thu Apr 06 2017 00:08:32 GMT+0000 (UTC)  -->
+<html data-wf-page="58b87866febb96f91e917213" data-wf-site="58b87866febb96f91e91720f">
+<head>
+  <meta charset="utf-8">
+  <title>Entreposage Bonneau</title>
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/entreposage-bonneau.webflow.css" rel="stylesheet" type="text/css">
+  <script src="js/modernizr.js" type="text/javascript"></script>
+  <link href="https://daks2k3a4ib2z.cloudfront.net/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="https://daks2k3a4ib2z.cloudfront.net/img/webclip.png" rel="apple-touch-icon">
+  <style type="text/css">
+    .w-webflow-badge {
+      width: 0px !important;
+      opacity: 0 !important;
+    }
+  </style>
+  <style>
+    #map img {  
+    max-width: none;   
+}
+  </style>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCuy6Z3Z-mV3ZOljYV2ixjQWif753zR-eo"></script>
+  <script type="text/javascript">
+    // Create and Initialise the Map (required) our google map below
+            google.maps.event.addDomListener(window, 'load', init);
+            function init() {
+                // Basic options for a simple Google Map
+                // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
+        var mapOptions = {
+             // How zoomed in you want the map to start at (always required)
+                    zoom: 14,
+                    scrollwheel: false,
+                    // The latitude and longitude to center the map (always required)
+                    center: new google.maps.LatLng(45.324288, -73.243871), // Nova Scotia
+                    // How you would like to style the map. 
+                    // This is where you would paste any style found on [Snazzy Maps][1].
+                    // copy the Styles from Snazzy maps,  and paste that style info after the word "styles:"
+                    styles: [
+    {
+        "featureType": "all",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "visibility": "simplified"
+            },
+            {
+                "hue": "#ff7700"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative",
+        "elementType": "all",
+        "stylers": [
+            {
+                "visibility": "simplified"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.country",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "color": "#1d1d1d"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.province",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.province",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "color": "#ed5929"
+            },
+            {
+                "weight": "5.00"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.locality",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "color": "#787878"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.locality",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "visibility": "on"
+            },
+            {
+                "weight": "5.00"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.neighborhood",
+        "elementType": "labels.text",
+        "stylers": [
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.neighborhood",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#2d2d2d"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.neighborhood",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            },
+            {
+                "visibility": "on"
+            },
+            {
+                "weight": "5.00"
+            }
+        ]
+    },
+    {
+        "featureType": "administrative.land_parcel",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "saturation": "64"
+            }
+        ]
+    },
+    {
+        "featureType": "landscape",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#f4f4f4"
+            }
+        ]
+    },
+    {
+        "featureType": "landscape",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#f3e7c1"
+            }
+        ]
+    },
+    {
+        "featureType": "poi",
+        "elementType": "all",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "geometry",
+        "stylers": [
+            {
+                "color": "#2c2c2c"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#b0cac8"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "labels",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#ff0000"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "color": "#47494f"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#ffffff"
+            },
+            {
+                "weight": "5.00"
+            }
+        ]
+    },
+    {
+        "featureType": "road",
+        "elementType": "labels.icon",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#47494f"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#47494f"
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "labels.text",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "labels.text.fill",
+        "stylers": [
+            {
+                "color": "#ffffff"
+            }
+        ]
+    },
+    {
+        "featureType": "road.highway",
+        "elementType": "labels.text.stroke",
+        "stylers": [
+            {
+                "visibility": "on"
+            },
+            {
+                "color": "#47494f"
+            }
+        ]
+    },
+    {
+        "featureType": "road.arterial",
+        "elementType": "geometry.stroke",
+        "stylers": [
+            {
+                "color": "#d9d9d9"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    },
+    {
+        "featureType": "transit.station",
+        "elementType": "labels.icon",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "transit.station.airport",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "visibility": "simplified"
+            },
+            {
+                "lightness": "4"
+            },
+            {
+                "saturation": "-100"
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "all",
+        "stylers": [
+            {
+                "visibility": "off"
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "geometry.fill",
+        "stylers": [
+            {
+                "color": "#e1e1e1"
+            },
+            {
+                "visibility": "on"
+            }
+        ]
+    }
+]                };
+        var mapElement = document.getElementById('map');
+                // Create the Google Map using out element and options defined above
+                var map = new google.maps.Map(mapElement, mapOptions);
+        // Define the image to use for the map marker (58 x 44 px)
+                var image = 'https://daks2k3a4ib2z.cloudfront.net/5760caeed86198e524138e98/5882ea30c79642677bb41e14_logo-cube-20-01-17.svg';
+        // Define the Lattitude and Longitude for the map location
+                var myLatLng = new google.maps.LatLng(45.324288, -73.243871);
+        // Define the map marker characteristics
+                var mapMarker = new google.maps.Marker({
+                position: myLatLng,
+                map: map,
+                icon: image,
+                title:  'Frostbyte Interactive'
+                });
+}
+  </script>
+  <script src="https://instantcm.com/js/v2/latest/txt-min.js"></script>
+  <script type="text/javascript">
+    Txt.render({id: "a014c946-e197-4e6e-8a11-9f2dc4a5fe78"})
+  </script>
+</head>
+<body class="body-base-style">
+  <div class="nav-container w-hidden-medium w-hidden-small w-hidden-tiny w-nav" data-animation="over-left" data-collapse="medium" data-duration="400">
+    <a class="nav-brand w-nav-brand" href="#home"><img src="images/logo.svg" width="300">
+    </a>
+    <nav class="w-nav-menu" role="navigation"><a class="nav-link w-nav-link" href="#home">Accueil</a>
+      <div class="w-dropdown" data-delay="0">
+        <div class="nav-dropdown w-dropdown-toggle">
+          <div>Services</div>
+          <div class="w-icon-dropdown-toggle"></div>
+        </div>
+        <nav class="dropdown-list w-dropdown-list"><a class="dropdown-link w-dropdown-link" href="#mini-entrepot">Mini Entrepot</a><a class="dropdown-link w-dropdown-link" href="#commercial">Location commercial</a><a class="dropdown-link w-dropdown-link" href="#fournitures">Fournitures</a><a class="dropdown-link w-dropdown-link" href="#vehicules">Entreposage véhicule</a>
+        </nav>
+      </div>
+      <a class="nav-lightbox-link w-inline-block w-lightbox" href="#">
+        <div>Galerie</div>
+        <script class="w-json" type="application/json">
+          { "items": [{
+            "type": "image",
+            "_id": "58a2a485300755f20f857f36",
+            "fileName": "mini-entrepot.jpg",
+            "origFileName": "mini-entrepot.jpg",
+            "width": 1200,
+            "height": 800,
+            "fileSize": 994317,
+            "url": "images/mini-entrepot.jpg"
+          }, {
+            "type": "image",
+            "_id": "58a2a3166c9661402a21c00f",
+            "fileName": "image2.JPG",
+            "origFileName": "image2.JPG",
+            "width": 5984,
+            "height": 3846,
+            "fileSize": 4025441,
+            "url": "images/image2.JPG"
+          }, {
+            "type": "image",
+            "_id": "58a2a49560d5c6b10fa45546",
+            "fileName": "commercial-2.jpg",
+            "origFileName": "commercial-2.jpg",
+            "width": 1200,
+            "height": 800,
+            "fileSize": 961594,
+            "url": "images/commercial-2.jpg"
+          }] }
+        </script>
+      </a><a class="nav-link w-nav-link" href="#contact">Contact</a>
+    </nav>
+    <div class="nav-btn-container w-nav-button">
+      <div class="nav-btn">
+        <div class="btn-line-1"></div>
+        <div class="btn-line-2"></div>
+        <div class="btn-line-3"></div>
+      </div>
+    </div>
+  </div>
+  <div class="mobile-nav">
+    <a class="mobile-brand w-inline-block" href="#"><img class="mobile-brand-img" src="images/logo.svg" width="300">
+    </a>
+    <div class="mobile-nav-btn" data-ix="mobile-nav">
+      <div class="btn-line-1"></div>
+      <div class="btn-line-2"></div>
+      <div class="btn-line-float"></div>
+      <div class="btn-line-3"></div>
+    </div>
+    <div class="fullscreen-container" data-ix="init-fullscree-nav">
+      <div class="inner-container" data-ix="init-inner-nav"><a class="mobile-home w-inline-block" data-ix="mobile-nav-link" href="#home"><h1>Acceuil</h1></a><a class="mobile-entrepot w-inline-block" data-ix="mobile-nav-link" href="#mini-entrepot"><h1>Mini Entrepôts</h1></a><a class="mobile-commercial w-inline-block" data-ix="mobile-nav-link" href="#commercial"><h1>Location Commercial</h1></a><a class="mobile-vehicule w-inline-block" data-ix="mobile-nav-link" href="#vehicules"><h1>Entreposage Véhicule</h1></a><a class="mobile-fournitures w-inline-block" data-ix="mobile-nav-link" href="#fournitures"><h1>Fournitures</h1></a><a class="mobile-gallerie w-inline-block w-lightbox" data-ix="mobile-nav-link" href="#"><h1>Gallerie Photos</h1><script class="w-json" type="application/json">{ "items": [{
+  "type": "image",
+  "_id": "58a2a485300755f20f857f36",
+  "fileName": "mini-entrepot.jpg",
+  "origFileName": "mini-entrepot.jpg",
+  "width": 1200,
+  "height": 800,
+  "fileSize": 994317,
+  "url": "images/mini-entrepot.jpg"
+}, {
+  "type": "image",
+  "_id": "58a2a3166c9661402a21c00f",
+  "fileName": "image2.JPG",
+  "origFileName": "image2.JPG",
+  "width": 5984,
+  "height": 3846,
+  "fileSize": 4025441,
+  "url": "images/image2.JPG"
+}, {
+  "type": "image",
+  "_id": "58a2a49560d5c6b10fa45546",
+  "fileName": "commercial-2.jpg",
+  "origFileName": "commercial-2.jpg",
+  "width": 1200,
+  "height": 800,
+  "fileSize": 961594,
+  "url": "images/commercial-2.jpg"
+}] }</script></a><a class="mobile-contact w-inline-block" data-ix="mobile-nav-link" href="#contact"><h1>Contact</h1></a>
+      </div>
+    </div>
+  </div>
+  <div class="slider w-slider" data-animation="outin" data-autoplay="1" data-delay="6000" data-duration="500" data-infinite="1" id="home">
+    <div class="w-slider-mask">
+      <div class="w-slide">
+        <div class="slide-content"><img src="images/slide-1.svg" width="700">
+          <div class="slider-text">
+            <h3>Du plus petit au plus gros déménagement.</h3>
+            <h1>ON A CE QU'IL VOUS FAUT.</h1>
+          </div>
+        </div>
+      </div>
+      <div class="w-slide">
+        <div class="slide-content"><img src="images/slide-2.svg" width="700">
+          <div class="slider-text">
+            <h3>Vous cherchez un local?</h3>
+            <h1>ON A L'ESPACE&nbsp;POUR VOUS.</h1>
+          </div>
+        </div>
+      </div>
+      <div class="w-slide">
+        <div class="slide-content"><img src="images/slide-3.svg" width="700">
+          <div class="slider-text">
+            <h3>Petit, Moyen, Grand</h3>
+            <h1>ON A L'ESPACE&nbsp;POUR VOUS.</h1>
+          </div>
+        </div>
+      </div>
+      <div class="w-slide">
+        <div class="slide-content"><img src="images/slide-4.svg" width="700">
+          <div class="slider-text">
+            <h3>Prêt à remiser votre véhicule récréatif?</h3>
+            <h1>ON A L'ESPACE&nbsp;POUR VOUS.</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="slider-nav w-slider-nav"></div>
+  </div>
+  <div class="content-section dark reverse" id="newsletter">
+    <div class="content-img-bg newsletter"></div><img class="img-test" src="images/mini-entrepot.svg" width="300">
+    <div class="content-text">
+      <h4>Infolettre</h4>
+      <h2 class="h2-white">Gagnez 3 mois d'entreposage*</h2>
+      <p>En vous inscrivant à notre infolettre vous obtenez automatiquement une chance de gagner 3 mois d'entreposage (entrepot 4x8), Vous serez aussi informé des offres spéciales directement dans votre boîte de courriel.
+        <br>
+        <br><span class="mini-text">*Entrepot de 4x8</span>
+      </p>
+      <div class="embed w-embed">
+        <!--  Begin MailChimp Signup Form  -->
+        <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+        <div id="w-form">
+          <form action="//entreposagebonneau.us15.list-manage.com/subscribe/post?u=1c44a4edd0919aa96f57ba06a&amp;id=5fd092e81b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-container" target="_blank" novalidate="">
+            <input type="email" value="" name="EMAIL" class="email w-input form-input" id="mce-EMAIL" placeholder="email address" required="">
+            <!--  real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_1c44a4edd0919aa96f57ba06a_5fd092e81b" tabindex="-1" value="">
+            </div>
+            <div class="clear">
+              <input type="submit" value="Envoyer" name="subscribe" id="mc-embedded-subscribe" class="button w-button form-btn">
+            </div>
+          </form>
+        </div>
+        <!-- End mc_embed_signup -->
+      </div>
+    </div>
+  </div>
+  <div class="content-section" id="mini-entrepot">
+    <div class="w-form" data-ix="hidden-onload">
+      <form class="form-container" data-name="Email Form" id="email-form" name="email-form">
+        <input class="form-input w-input" data-name="Courriel" id="Courriel" maxlength="256" name="Courriel" placeholder="Entrez votre adresse courriel" required="required" type="email">
+        <input class="form-btn w-button" data-wait="Patientez..." type="submit" value="Envoyer">
+      </form>
+      <div class="w-form-done">
+        <div>Thank you! Your submission has been received!</div>
+      </div>
+      <div class="w-form-fail">
+        <div>Oops! Something went wrong while submitting the form</div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="content-img-bg"></div>
+      <div class="content-text">
+        <h4>Mini Entrepot</h4>
+        <h2>Entreposage libre service 24h</h2>
+        <p>Que ce soit pour vos objets personnels ou votre matériel d’entreprise, faites appel aux solutions d’entreposage Bonneau. Pratiques, innovantes, rentables et flexibles, les solutions d’entreposage libre service sauront répondre à tous vos besoins. Nos locaux de 20p.c. à 870 p.c., tous chauffés, sont accessibles à l'aide de puce électronique afin d'assurer une sécurité maximale.</p><a class="link-info" data-ix="hidden-onload" href="#">Affiche nos grandeurs disponibles</a>
+      </div>
+    </div>
+    <div class="hidden-section-size" data-ix="hidden-onload">
+      <div class="padding-div">
+        <h2 class="h2-size">Grandeurs disponibles</h2>
+        <ul class="size-list w-list-unstyled">
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+          <li class="list-item">
+            <div class="size">
+              <div class="size-text">9x12</div>
+            </div>
+            <div class="features">
+              <div>Climatise&nbsp;<span class="orange">|</span>&nbsp;S'ysteme d'alarme<span class="orange">&nbsp;|</span>
+                <br>Interieur&nbsp;<span class="orange">|&nbsp;</span>Rez de chaussez</div>
+            </div>
+            <div class="equal">
+              <div>Équivalent a un 2 1/2 - 3 1/2</div>
+            </div>
+            <div class="price">
+              <div class="price-text">119,00$</div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="content-section reverse" id="commercial">
+    <div class="commerce content-img-bg"></div>
+    <div class="content-text">
+      <h4>Location commercial</h4>
+      <h2>Vous rêvez d’ouvrir votre commerce?</h2>
+      <p>Notre programme de location spécialisée constitue un moyen très efficace de vendre ou de commercialiser vos produits dans des endroits très achalandés de nos propriétés.</p><a class="link-info" href="#">Contactez-nous pour visiter</a>
+    </div>
+  </div>
+  <div class="content-section" id="fournitures">
+    <div class="row">
+      <div class="content-img-bg fournitures"></div>
+      <div class="content-text">
+        <h4>Fournitures</h4>
+        <h2>Articles de déménagement</h2>
+        <p>Nos&nbsp;fournitures d'emballage&nbsp;permettent de protéger, stocker ou transporter vos affaires dans les meilleures conditions. Chez Entreposage Bonneau, vous trouverez uniquement des articles&nbsp;professionnels&nbsp;de qualité irréprochable!</p><a class="link-info" href="http://entreposagebonneau.com/fournitures-bonneau.pdf" target="_blank">Télécharger la listes de nos produits</a>
+      </div>
+    </div>
+  </div>
+  <div class="content-section reverse" id="vehicules">
+    <div class="content-img-bg vehicule"></div>
+    <div class="content-text">
+      <h4>Entreposage saisonnier</h4>
+      <h2>Entreposez votre véhicule saisonnier</h2>
+      <p>De nombreux véhicules saisonniers, gros et petits, peuvent être entreposés à l’intérieur ou à l’extérieur&nbsp;: motos, voitures, décapotables, voitures anciennes, grosses cylindrées, camionnettes et fourgonnettes. À partir de&nbsp;99.00$/mois +tx.</p><a class="link-info" href="#">Contactez-nous pour connaître nos disponibilité</a>
+    </div>
+  </div>
+  <div class="content-section" id="contact">
+    <div class="row">
+      <div class="map" id="map"></div>
+      <div class="content-text map-text">
+        <h4>Contact</h4>
+        <h2>Vous avez des questions?</h2>
+        <div class="contact-text">Téléphone
+          <br><span class="bold">450-346-9332</span>
+        </div>
+        <div class="contact-text">Télécopieur
+          <br><span class="bold">450-346-9122</span>
+        </div>
+        <div class="contact-text-wrapper">
+          <div>Email</div><a class="contact-link" href="mailto:info@entreposagebonneau.com?subject=Demande d&#39;informations">info@entreposagebonneau.com</a>
+        </div>
+        <div class="contact-text-wrapper">
+          <div>Adresse</div><a class="contact-link" href="#">125 Rue Conrad Gosselin,&nbsp;suite 11&nbsp;<br>Saint-Jean-sur-Richelieu, QCJ2X 0A1</a>
+        </div>
+        <div class="contact-text-wrapper">
+          <div>Social</div><a class="contact-link" href="#">Facebook</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-container">
+    <div class="footer-text">© Entreposage Bonneau 2017. Tous droits réservés</div>
+    <div class="footer-text"><span class="light">Réalisé par </span>Philippe da Ponte</div>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
+  <script src="js/webflow.js" type="text/javascript"></script>
+  <!-- [if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif] -->
+</body>
+</html>

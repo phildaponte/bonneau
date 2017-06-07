@@ -1,0 +1,769 @@
+<svg width="751" height="201" viewBox="0 0 751 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>slide-3.2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(490 613)" figma:type="canvas">
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M -489.1 -612.261L 260.9 -612.261L 260.9 -412.261L -489.1 -412.261L -489.1 -612.261Z" fill="#FFFFFF"/>
+</mask>
+<g id="slide-3.2" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(40.1767 -591.5)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(73.4767 -573.6)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(129.877 -573.6)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path3_fill" transform="translate(61.8766 -553.8)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path4_fill" transform="translate(61.8766 -462.6)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path5_fill" transform="translate(118.277 -553.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path6_fill" transform="translate(118.277 -462.5)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path7_fill" transform="translate(118.277 -550.4)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path8_fill" transform="translate(61.8766 -550.3)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path9_fill" transform="translate(118.277 -426.1)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path10_fill" transform="translate(65.2767 -426.1)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path11_fill" transform="translate(118.277 -459.2)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path12_fill" transform="translate(61.8766 -459.2)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path13_fill" transform="translate(61.9767 -571.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path14_fill" transform="translate(118.277 -571.9)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path15_fill" transform="translate(61.8766 -568.6)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path16_fill" transform="translate(118.277 -568.7)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path17_fill" transform="translate(118.277 -565.3)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path18_fill" transform="translate(111.677 -565.3)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path19_fill" transform="translate(73.6767 -563.6)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path20_fill" transform="translate(70.3766 -563.6)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path21_fill" transform="translate(108.377 -557.8)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path22_fill" transform="translate(108.377 -561.1)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path23_fill" transform="translate(108.377 -564.5)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path24_fill" transform="translate(126.577 -557.8)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path25_fill" transform="translate(126.577 -561.1)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path26_fill" transform="translate(126.577 -564.5)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path27_fill" transform="translate(118.277 -543.8)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path28_fill" transform="translate(78.5767 -543.8)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path29_fill" transform="translate(118.277 -533.8)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path30_fill" transform="translate(78.4767 -533.8)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path31_fill" transform="translate(118.277 -564.5)" fill="#B8B8BC" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path32_fill" transform="translate(112.477 -564.5)" fill="#D9D9DA" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path33_fill" transform="translate(162.977 -563.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path34_fill" transform="translate(159.677 -563.605)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path35_fill" transform="translate(86.2767 -563.6)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path36_fill" transform="translate(82.8766 -563.6)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path37_fill" transform="translate(98.7767 -563.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path38_fill" transform="translate(95.4767 -563.605)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path39_fill" transform="translate(150.377 -563.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path40_fill" transform="translate(147.077 -563.7)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path41_fill" transform="translate(137.777 -563.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path38_fill" transform="translate(134.477 -563.605)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path42_fill" transform="translate(118.277 -532.2)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path43_fill" transform="translate(80.0767 -532.3)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path44_fill" transform="translate(32.1767 -439.2)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path45_fill" transform="translate(28.8766 -442.5)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path46_fill" transform="translate(20.9767 -450.4)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path47_fill" transform="translate(38.3766 -433)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path48_fill" transform="translate(18.0767 -543.1)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path49_fill" transform="translate(20.2767 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path50_fill" transform="translate(23.6767 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path51_fill" transform="translate(27.0767 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path52_fill" transform="translate(30.4767 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path53_fill" transform="translate(33.8766 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path49_fill" transform="translate(37.2767 -537.9)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path54_fill" transform="translate(-214.823 -555.4)" fill="#D59763" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path55_fill" transform="translate(-168.023 -553.6)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path56_fill" transform="translate(-159.823 -555.4)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path57_fill" transform="translate(-184.923 -503.1)" fill="#E7C4A5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path58_fill" transform="translate(-158.223 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path59_fill" transform="translate(-154.323 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path60_fill" transform="translate(-150.123 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path61_fill" transform="translate(-145.823 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path62_fill" transform="translate(-141.523 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path63_fill" transform="translate(-137.623 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path64_fill" transform="translate(-133.823 -472.6)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path65_fill" transform="translate(-129.223 -472.7)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path66_fill" transform="translate(-125.523 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path67_fill" transform="translate(-121.423 -472.4)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path68_fill" transform="translate(-116.823 -472.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path69_fill" transform="translate(-142.223 -454.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path70_fill" transform="translate(-138.923 -451.4)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path71_fill" transform="translate(-169.423 -467.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path72_fill" transform="translate(-159.523 -467.1)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path73_fill" transform="translate(-149.223 -466.9)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path74_fill" transform="translate(-139.123 -466.9)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path75_fill" transform="translate(-129.123 -466.9)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path76_fill" transform="translate(-121.223 -466.9)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path77_fill" transform="translate(-111.723 -467.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path78_fill" transform="translate(-108.023 -527.9)" fill="#DEAD82" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path79_fill" transform="translate(-108.023 -481.1)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path80_fill" transform="translate(-108.023 -472.9)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path81_fill" transform="translate(-299.123 -426.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path82_fill" transform="translate(-344.723 -546.5)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path83_fill" transform="translate(-358.223 -544.8)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path84_fill" transform="translate(-325.923 -545.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path85_fill" transform="translate(-346.323 -494.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path86_fill" transform="translate(-361.423 -523)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path87_fill" transform="translate(-361.223 -529.8)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path88_fill" transform="translate(-309.923 -509.5)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path89_fill" transform="translate(-320.623 -541.1)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path90_fill" transform="translate(-344.323 -492.8)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path91_fill" transform="translate(-324.123 -544)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path92_fill" transform="translate(-329.823 -547.4)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path93_fill" transform="translate(-349.723 -497.6)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path94_fill" transform="translate(-310.723 -507.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path95_fill" transform="translate(-361.323 -527.6)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path96_fill" transform="translate(-309.823 -514.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path97_fill" transform="translate(-360.823 -534)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path98_fill" transform="translate(-359.623 -548.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path99_fill" transform="translate(-347.223 -549.759)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path100_fill" transform="translate(-340.723 -490.6)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path101_fill" transform="translate(-321.823 -502.9)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path102_fill" transform="translate(-314.123 -470)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path103_fill" transform="translate(-313.623 -470.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path104_fill" transform="translate(-299.523 -430.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path105_fill" transform="translate(-299.123 -425.9)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path106_fill" transform="translate(-294.523 -427.9)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path107_fill" transform="translate(-299.923 -440.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path108_fill" transform="translate(-308.523 -460.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path109_fill" transform="translate(-301.623 -444.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path110_fill" transform="translate(-306.823 -456.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path111_fill" transform="translate(-298.223 -436.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path112_fill" transform="translate(-303.323 -448.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path113_fill" transform="translate(-305.123 -452.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path114_fill" transform="translate(-296.423 -432.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path115_fill" transform="translate(-309.723 -462.338)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path116_fill" transform="translate(-308.723 -461.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path117_fill" transform="translate(-307.023 -457.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path118_fill" transform="translate(-305.323 -453.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path117_fill" transform="translate(-303.523 -449.2)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path119_fill" transform="translate(-301.823 -445.1)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path120_fill" transform="translate(-300.123 -441.1)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path121_fill" transform="translate(-298.323 -437.1)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path122_fill" transform="translate(-296.623 -433.1)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path123_fill" transform="translate(-313.061 -461)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path124_fill" transform="translate(-306.423 -446.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path125_fill" transform="translate(-304.723 -442.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path126_fill" transform="translate(-311.623 -458.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path127_fill" transform="translate(-308.223 -450.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path128_fill" transform="translate(-309.923 -454.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path129_fill" transform="translate(-303.023 -438.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path130_fill" transform="translate(-301.323 -434.3)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path131_fill" transform="translate(-311.823 -458.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path132_fill" transform="translate(-310.123 -454.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path133_fill" transform="translate(-308.323 -450.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path132_fill" transform="translate(-306.623 -446.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path134_fill" transform="translate(-304.923 -442.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path135_fill" transform="translate(-303.223 -438.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path136_fill" transform="translate(-301.423 -434.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path137_fill" transform="translate(-299.723 -430.7)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path138_fill" transform="translate(-315.723 -523)" fill="#B6BA48" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path139_fill" transform="translate(-342.323 -517.4)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path140_fill" transform="translate(-386.923 -537)" fill="#D59763" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path141_fill" transform="translate(-321.823 -508.8)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path142_fill" transform="translate(-314.023 -510.6)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path143_fill" transform="translate(-398.623 -462.5)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path144_fill" transform="translate(-400.723 -447.6)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path145_fill" transform="translate(-403 -466.017)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path146_fill" transform="translate(-288.023 -425.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path147_fill" transform="translate(-295.723 -427.4)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path148_fill" transform="translate(-315.223 -431.9)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path149_fill" transform="translate(-299.623 -428.3)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path150_fill" transform="translate(-311.323 -431)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path151_fill" transform="translate(-291.823 -426.5)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path152_fill" transform="translate(-303.523 -429.2)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path153_fill" transform="translate(-307.423 -430.1)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path154_fill" transform="translate(-318.449 -432.226)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path155_fill" transform="translate(-315.623 -432)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path156_fill" transform="translate(-311.723 -431.1)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path157_fill" transform="translate(-307.823 -430.2)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path158_fill" transform="translate(-303.923 -429.3)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path159_fill" transform="translate(-300.023 -428.4)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path160_fill" transform="translate(-296.123 -427.5)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path161_fill" transform="translate(-292.223 -426.6)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path162_fill" transform="translate(-288.323 -425.7)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path163_fill" transform="translate(-287.823 -422)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path164_fill" transform="translate(-318.449 -428.9)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path165_fill" transform="translate(-303.423 -425.6)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path166_fill" transform="translate(-299.523 -424.7)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path167_fill" transform="translate(-315.123 -428.3)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path168_fill" transform="translate(-307.323 -426.5)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path169_fill" transform="translate(-311.223 -427.4)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path170_fill" transform="translate(-295.623 -423.8)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path171_fill" transform="translate(-291.723 -422.9)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path172_fill" transform="translate(-60.5233 -603.652)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path173_fill" transform="translate(-28.0233 -603.652)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path174_fill" transform="translate(-17.6234 -585.9)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path175_fill" transform="translate(-54.9233 -530.6)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 20.4 169.8L 20.4 163.8L 20.4 3C 20.4 1.3 19.1 3.05176e-06 17.4 3.05176e-06C 15.7 3.05176e-06 14.4 1.3 14.4 3L 14.4 49.4L 2.44141e-05 49.4L 2.44141e-05 53.6L 14.4 53.6L 14.4 163.8L 14.4 169.8L 13.1 169.8L 13.1 174.6L 53.6 174.6L 53.6 169.8L 20.4 169.8Z"/>
+<path id="path1_fill" d="M 33.2 1.69999C 33.2 1.29999 33 0.799997 32.7 0.499997C 32.4 0.199997 32 -3.05176e-06 31.5 -3.05176e-06L 1.70002 -3.05176e-06C 0.800024 -3.05176e-06 1.2207e-05 0.699994 1.2207e-05 1.69999L 33.2 1.69999Z"/>
+<path id="path2_fill" d="M 33.2 1.69999C 33.2 1.29999 33 0.799997 32.7 0.499997C 32.4 0.199997 32 -3.05176e-06 31.5 -3.05176e-06L 1.69999 -3.05176e-06C 0.799988 -3.05176e-06 -2.44141e-05 0.699994 -2.44141e-05 1.69999L 33.2 1.69999Z"/>
+<path id="path3_fill" d="M 1.69999 3.39999L 56.4 3.39999L 56.4 1.7L 1.69999 1.7C 0.799988 1.7 -2.44141e-05 1 -2.44141e-05 -2.84217e-14L -2.44141e-05 5C -2.44141e-05 4.1 0.799988 3.39999 1.69999 3.39999Z"/>
+<path id="path4_fill" d="M 1.69999 3.40001L 56.4 3.40001L 56.4 1.69999L 1.69999 1.69999C 0.799988 1.69999 -2.44141e-05 1.00001 -2.44141e-05 1.2207e-05L -2.44141e-05 5.00001C -2.44141e-05 4.10001 0.799988 3.40001 1.69999 3.40001Z"/>
+<path id="path5_fill" d="M 54.7 1.6L 0 1.6L 0 3.29999L 54.7 3.29999C 55.6 3.29999 56.4 4.00001 56.4 5.00001L 56.4 6.10352e-06C 56.4 0.900006 55.6 1.6 54.7 1.6Z"/>
+<path id="path6_fill" d="M 54.7 1.59999L 0 1.59999L 0 3.30001L 54.7 3.30001C 55.6 3.30001 56.4 3.99999 56.4 4.99999L 56.4 -1.2207e-05C 56.4 0.899988 55.6 1.59999 54.7 1.59999Z"/>
+<path id="path7_fill" d="M 54.7 -6.10352e-06L 0 -6.10352e-06L 0 6.6L 39 6.6C 39.5 6.6 39.8 6.99999 39.8 7.39999L 39.8 9.1C 39.8 9.6 39.4 9.89999 39 9.89999L 0 9.89999L 0 16.5L 39 16.5C 39.5 16.5 39.8 16.9 39.8 17.3L 39.8 72.1C 39.8 72.6 39.4 72.9 39 72.9L 0 72.9L 0 89.5L 54.7 89.5C 55.6 89.5 56.4 88.8 56.4 87.8L 56.4 1.6C 56.4 0.7 55.6 -6.10352e-06 54.7 -6.10352e-06Z"/>
+<path id="path8_fill" d="M 1.69999 89.4L 56.4 89.4L 56.4 72.8L 17.4 72.8C 16.9 72.8 16.6 72.4 16.6 72L 16.6 17.3C 16.6 16.8 17 16.5 17.4 16.5L 56.4 16.5L 56.4 9.89999L 17.4 9.89999C 16.9 9.89999 16.6 9.50001 16.6 9.10001L 16.6 7.39999C 16.6 6.89999 17 6.60001 17.4 6.60001L 56.4 6.60001L 56.4 8.52651e-14L 1.69999 8.52651e-14C 0.799988 8.52651e-14 -2.44141e-05 0.700012 -2.44141e-05 1.70001L -2.44141e-05 87.9C -2.44141e-05 88.7 0.799988 89.4 1.69999 89.4Z"/>
+<path id="path9_fill" d="M 0 3.3L 49.7 3.3C 51.5 3.3 53 1.80001 53 1.2207e-05L 0 1.2207e-05L 0 3.3Z"/>
+<path id="path10_fill" d="M 0 1.2207e-05C 0 1.80001 1.49999 3.3 3.29999 3.3L 53 3.3L 53 1.2207e-05L 0 1.2207e-05Z"/>
+<path id="path11_fill" d="M 54.7 6.10352e-06L 0 6.10352e-06L 0 33.1L 53 33.1L 54.7 33.1C 55.6 33.1 56.4 32.4 56.4 31.4L 56.4 1.60001C 56.4 0.700012 55.6 6.10352e-06 54.7 6.10352e-06Z"/>
+<path id="path12_fill" d="M 3.4 33.1L 56.4 33.1L 56.4 6.10352e-06L 1.69999 6.10352e-06C 0.799988 6.10352e-06 -2.44141e-05 0.699988 -2.44141e-05 1.69999L -2.44141e-05 31.5C -2.44141e-05 32 0.199976 32.4 0.499976 32.7C 0.799976 33 1.20001 33.2 1.60001 33.2L 3.4 33.2L 3.4 33.1Z"/>
+<path id="path13_fill" d="M 56.3 3.3L 56.3 -6.10352e-06L 45.4 -6.10352e-06L 44.7 -6.10352e-06L 11.5 -6.10352e-06L 3.3 -6.10352e-06C 1.5 -6.10352e-06 1.2207e-05 1.5 1.2207e-05 3.3L 56.3 3.3Z"/>
+<path id="path14_fill" d="M 56.4 3.3C 56.4 2.4 56.1 1.59999 55.5 0.999994C 54.9 0.399994 54 -6.10352e-06 53.1 -6.10352e-06L 45.5 -6.10352e-06L 44.8 -6.10352e-06L 11.7 -6.10352e-06L 0 -6.10352e-06L 0 3.3L 56.4 3.3Z"/>
+<path id="path15_fill" d="M 1.69999 16.5L 56.4 16.5L 56.4 13.2L 50.6 13.2C 50.1 13.2 49.8 12.8 49.8 12.4L 49.8 4.1C 49.8 3.6 50.2 3.3 50.6 3.3L 56.4 3.3L 56.4 -3.05176e-06L -2.44141e-05 -3.05176e-06L -2.44141e-05 14.9C -2.44141e-05 15.8 0.799988 16.5 1.69999 16.5ZM 47.3 4.1C 47.8 4.1 48.1 4.50001 48.1 4.90001C 48.1 5.40001 47.7 5.69999 47.3 5.69999C 46.8 5.69999 46.5 5.30001 46.5 4.90001C 46.5 4.50001 46.9 4.1 47.3 4.1ZM 47.3 7.40001C 47.8 7.40001 48.1 7.79999 48.1 8.19999C 48.1 8.69999 47.7 9 47.3 9C 46.8 9 46.5 8.59999 46.5 8.19999C 46.5 7.79999 46.9 7.40001 47.3 7.40001ZM 47.3 10.7C 47.8 10.7 48.1 11.1 48.1 11.5C 48.1 12 47.7 12.3 47.3 12.3C 46.8 12.3 46.5 11.9 46.5 11.5C 46.5 11.1 46.9 10.7 47.3 10.7ZM 36.9 11.6C 35.1 11.6 33.6 10.1 33.6 8.3C 33.6 6.5 35.1 5 36.9 5C 38.7 5 40.2 6.5 40.2 8.3C 40.2 10.1 38.7 11.6 36.9 11.6ZM 24.3 4.90001C 26.1 4.90001 27.6 6.39999 27.6 8.19999C 27.6 9.99999 26.1 11.5 24.3 11.5C 22.5 11.5 21 9.99999 21 8.19999C 21 6.39999 22.5 4.90001 24.3 4.90001ZM 11.8 4.90001C 13.6 4.90001 15.1 6.39999 15.1 8.19999C 15.1 9.99999 13.6 11.5 11.8 11.5C 10 11.5 8.49998 9.99999 8.49998 8.19999C 8.49998 6.39999 9.90002 4.90001 11.8 4.90001Z"/>
+<path id="path16_fill" d="M 0 0.0999969L 0 3.4L 5.79999 3.4C 6.29999 3.4 6.59998 3.8 6.59998 4.2L 6.59998 12.5C 6.59998 13 6.19999 13.3 5.79999 13.3L 0 13.3L 0 16.6L 54.7 16.6C 55.6 16.6 56.4 15.9 56.4 14.9L 56.4 6.10352e-06L 0 6.10352e-06L 0 0.0999969ZM 9.09998 12.5C 8.59998 12.5 8.29999 12.1 8.29999 11.7C 8.29999 11.2 8.69998 10.9 9.09998 10.9C 9.59998 10.9 9.90002 11.3 9.90002 11.7C 9.90002 12.1 9.59998 12.5 9.09998 12.5ZM 9.09998 9.2C 8.59998 9.2 8.29999 8.8 8.29999 8.4C 8.29999 7.9 8.69998 7.6 9.09998 7.6C 9.59998 7.6 9.90002 8 9.90002 8.4C 9.90002 8.8 9.59998 9.2 9.09998 9.2ZM 9.09998 5.9C 8.59998 5.9 8.29999 5.5 8.29999 5.1C 8.29999 4.6 8.69998 4.29999 9.09998 4.29999C 9.59998 4.29999 9.90002 4.7 9.90002 5.1C 9.90002 5.5 9.59998 5.9 9.09998 5.9ZM 19.5 11.7C 17.7 11.7 16.2 10.2 16.2 8.4C 16.2 6.6 17.7 5.1 19.5 5.1C 21.3 5.1 22.8 6.6 22.8 8.4C 22.9 10.2 21.4 11.7 19.5 11.7ZM 32.1 11.7C 30.3 11.7 28.8 10.2 28.8 8.4C 28.8 6.6 30.3 5.1 32.1 5.1C 33.9 5.1 35.4 6.6 35.4 8.4C 35.4 10.2 33.9 11.7 32.1 11.7ZM 44.7 11.7C 42.9 11.7 41.4 10.2 41.4 8.4C 41.4 6.6 42.9 5.1 44.7 5.1C 46.5 5.1 48 6.6 48 8.4C 48 10.2 46.5 11.7 44.7 11.7Z"/>
+<path id="path17_fill" d="M 5.79999 9.89999C 6.29999 9.89999 6.59998 9.50001 6.59998 9.10001L 6.59998 0.800003C 6.59998 0.300003 6.19999 2.84217e-14 5.79999 2.84217e-14L 0 2.84217e-14L 0 0.800003L 5.40002 0.800003C 5.60002 0.800003 5.79999 0.999997 5.79999 1.2L 5.79999 8.7C 5.79999 8.9 5.60002 9.10001 5.40002 9.10001L 0 9.10001L 0 9.89999L 5.79999 9.89999Z"/>
+<path id="path18_fill" d="M 1.19998 9.10001C 0.999976 9.10001 0.800012 8.9 0.800012 8.7L 0.800012 1.2C 0.800012 0.999997 0.999976 0.800003 1.19998 0.800003L 6.6 0.800003L 6.6 0L 0.800012 0C 0.300012 0 2.44141e-05 0.400003 2.44141e-05 0.800003L 2.44141e-05 9.10001C 2.44141e-05 9.60001 0.400012 9.89999 0.800012 9.89999L 6.6 9.89999L 6.6 9.10001L 1.19998 9.10001Z"/>
+<path id="path19_fill" d="M 3.30001 3.3C 3.30001 1.5 1.80002 -3.05176e-06 2.44141e-05 -3.05176e-06L 2.44141e-05 6.6C 1.80002 6.6 3.30001 5.1 3.30001 3.3Z"/>
+<path id="path20_fill" d="M 3.30002 6.6L 3.30002 -3.05176e-06C 1.50002 -3.05176e-06 -2.44141e-05 1.5 -2.44141e-05 3.3C -2.44141e-05 5.1 1.40002 6.6 3.30002 6.6Z"/>
+<path id="path21_fill" d="M 0.800024 1.60001C 1.24185 1.60001 1.60001 1.24183 1.60001 0.800003C 1.60001 0.358175 1.24185 0 0.800024 0C 0.358197 0 -2.44141e-05 0.358175 -2.44141e-05 0.800003C -2.44141e-05 1.24183 0.358197 1.60001 0.800024 1.60001Z"/>
+<path id="path22_fill" d="M 0.800024 1.6C 1.24185 1.6 1.60001 1.24183 1.60001 0.8C 1.60001 0.358172 1.24185 -3.05176e-06 0.800024 -3.05176e-06C 0.358197 -3.05176e-06 -2.44141e-05 0.358172 -2.44141e-05 0.8C -2.44141e-05 1.24183 0.358197 1.6 0.800024 1.6Z"/>
+<path id="path23_fill" d="M 0.800024 1.59999C 1.24185 1.59999 1.60001 1.24183 1.60001 0.800006C 1.60001 0.358178 1.24185 3.05176e-06 0.800024 3.05176e-06C 0.358197 3.05176e-06 -2.44141e-05 0.358178 -2.44141e-05 0.800006C -2.44141e-05 1.24183 0.358197 1.59999 0.800024 1.59999Z"/>
+<path id="path24_fill" d="M 0.799976 1.60001C 1.2418 1.60001 1.60002 1.24183 1.60002 0.800003C 1.60002 0.358175 1.2418 0 0.799976 0C 0.358148 0 -1.2207e-05 0.358175 -1.2207e-05 0.800003C -1.2207e-05 1.24183 0.358148 1.60001 0.799976 1.60001Z"/>
+<path id="path25_fill" d="M 0.799976 1.6C 1.2418 1.6 1.60002 1.24183 1.60002 0.8C 1.60002 0.358172 1.2418 -3.05176e-06 0.799976 -3.05176e-06C 0.358148 -3.05176e-06 -1.2207e-05 0.358172 -1.2207e-05 0.8C -1.2207e-05 1.24183 0.358148 1.6 0.799976 1.6Z"/>
+<path id="path26_fill" d="M 0.799976 1.59999C 1.2418 1.59999 1.60002 1.24183 1.60002 0.800006C 1.60002 0.358178 1.2418 3.05176e-06 0.799976 3.05176e-06C 0.358148 3.05176e-06 -1.2207e-05 0.358178 -1.2207e-05 0.800006C -1.2207e-05 1.24183 0.358148 1.59999 0.799976 1.59999Z"/>
+<path id="path27_fill" d="M 39.8 2.5L 39.8 0.799988C 39.8 0.299988 39.4 0 39 0L 0 0L 0 3.29999L 39 3.29999C 39.4 3.29999 39.8 3 39.8 2.5Z"/>
+<path id="path28_fill" d="M 0.799976 0C 0.299976 0 -1.2207e-05 0.399988 -1.2207e-05 0.799988L -1.2207e-05 2.5C -1.2207e-05 3 0.399976 3.29999 0.799976 3.29999L 39.8 3.29999L 39.8 0L 0.799976 0Z"/>
+<path id="path29_fill" d="M 39.8 55.5L 39.8 0.799988C 39.8 0.299988 39.4 0 39 0L 0 0L 0 1.60001L 37.8 1.60001C 38 1.60001 38.2 1.8 38.2 2L 38.2 54.4C 38.2 54.6 38 54.8 37.8 54.8L 0 54.8L 0 56.4L 39 56.4C 39.4 56.3 39.8 56 39.8 55.5Z"/>
+<path id="path30_fill" d="M 2.00001 54.8C 1.80001 54.8 1.59999 54.6 1.59999 54.4L 1.59999 2C 1.59999 1.8 1.80001 1.60001 2.00001 1.60001L 39.8 1.60001L 39.8 -5.68434e-14L 0.8 -5.68434e-14C 0.3 -5.68434e-14 1.2207e-05 0.399988 1.2207e-05 0.799988L 1.2207e-05 55.5C 1.2207e-05 56 0.4 56.3 0.8 56.3L 39.8 56.3L 39.8 54.7L 2.00001 54.7L 2.00001 54.8Z"/>
+<path id="path31_fill" d="M 0 8.30001L 5.40002 8.30001C 5.60002 8.30001 5.79999 8.1 5.79999 7.9L 5.79999 0.399997C 5.79999 0.199997 5.60002 3.05176e-06 5.40002 3.05176e-06L 0 3.05176e-06L 0 8.30001Z"/>
+<path id="path32_fill" d="M 0.399976 3.05176e-06C 0.199976 3.05176e-06 1.2207e-05 0.199997 1.2207e-05 0.399997L 1.2207e-05 7.9C 1.2207e-05 8.1 0.199976 8.30001 0.399976 8.30001L 5.8 8.30001L 5.8 3.05176e-06L 0.399976 3.05176e-06Z"/>
+<path id="path33_fill" d="M 1.2207e-05 6.10352e-06L 1.2207e-05 6.6C 1.80001 6.6 3.3 5.09999 3.3 3.29999C 3.3 1.49999 1.80001 6.10352e-06 1.2207e-05 6.10352e-06Z"/>
+<path id="path34_fill" d="M 2.44141e-05 3.30472C 2.44141e-05 5.10472 1.50001 6.60473 3.30001 6.60473L 3.30001 0.00472173C 1.50001 -0.0952783 2.44141e-05 1.40472 2.44141e-05 3.30472Z"/>
+<path id="path35_fill" d="M 3.29999 3.3C 3.29999 1.5 1.8 -3.05176e-06 0 -3.05176e-06L 0 6.6C 1.8 6.6 3.29999 5.1 3.29999 3.3Z"/>
+<path id="path36_fill" d="M 3.30002 6.6L 3.30002 -3.05176e-06C 1.50002 -3.05176e-06 -2.44141e-05 1.5 -2.44141e-05 3.3C -2.44141e-05 5.1 1.50002 6.6 3.30002 6.6Z"/>
+<path id="path37_fill" d="M 0 6.10352e-06L 0 6.6C 1.8 6.6 3.29999 5.09999 3.29999 3.29999C 3.29999 1.49999 1.8 6.10352e-06 0 6.10352e-06Z"/>
+<path id="path38_fill" d="M 1.2207e-05 3.30472C 1.2207e-05 5.10472 1.5 6.60473 3.3 6.60473L 3.3 0.00472173C 1.5 -0.0952783 1.2207e-05 1.40472 1.2207e-05 3.30472Z"/>
+<path id="path39_fill" d="M -2.44141e-05 6.10352e-06L -2.44141e-05 6.6C 1.79998 6.6 3.30002 5.09999 3.30002 3.29999C 3.30002 1.49999 1.79998 6.10352e-06 -2.44141e-05 6.10352e-06Z"/>
+<path id="path40_fill" d="M 3.29998 6.10352e-06C 1.49998 6.10352e-06 -1.2207e-05 1.49999 -1.2207e-05 3.29999C -1.2207e-05 5.09999 1.49998 6.6 3.29998 6.6L 3.29998 6.10352e-06Z"/>
+<path id="path41_fill" d="M 0 6.10352e-06L 0 6.6C 1.8 6.6 3.29999 5.09999 3.29999 3.29999C 3.39999 1.49999 1.9 6.10352e-06 0 6.10352e-06Z"/>
+<path id="path42_fill" d="M 37.8 53.2C 38 53.2 38.2 53 38.2 52.8L 38.2 0.4C 38.2 0.2 38 6.10352e-06 37.8 6.10352e-06L 0 6.10352e-06L 0 53.2L 37.8 53.2Z"/>
+<path id="path43_fill" d="M -1.2207e-05 0.399994L -1.2207e-05 52.8C -1.2207e-05 53 0.200012 53.2 0.400012 53.2L 38.2 53.2L 38.2 0L 0.400012 0C 0.200012 0 -1.2207e-05 0.199994 -1.2207e-05 0.399994Z"/>
+<path id="path44_fill" d="M 8.00002 6.10352e-06C 12.4 6.10352e-06 16 3.60001 16 8.00001C 16 12.4 12.4 16 8.00002 16C 3.60002 16 2.44141e-05 12.4 2.44141e-05 8.00001C 2.44141e-05 3.60001 3.50002 6.10352e-06 8.00002 6.10352e-06Z"/>
+<path id="path45_fill" d="M -2.44141e-05 11.3C -2.44141e-05 17.5 5.10002 22.6 11.3 22.6C 17.6 22.6 22.6 17.5 22.6 11.3C 22.6 5.10001 17.5 -1.2207e-05 11.3 -1.2207e-05C 5.00002 -1.2207e-05 -2.44141e-05 5.00001 -2.44141e-05 11.3ZM 1.10001 11.3C 1.10001 5.70001 5.70002 1.09999 11.3 1.09999C 16.9 1.09999 21.5 5.70001 21.5 11.3C 21.5 16.9 16.9 21.5 11.3 21.5C 5.70002 21.5 1.10001 16.9 1.10001 11.3Z"/>
+<path id="path46_fill" d="M 1.2207e-05 19.2C 1.2207e-05 29.8 8.60002 38.4 19.2 38.4C 29.8 38.4 38.4 29.8 38.4 19.2C 38.4 8.60001 29.8 -6.10352e-06 19.2 -6.10352e-06C 8.60002 -6.10352e-06 1.2207e-05 8.60001 1.2207e-05 19.2ZM 7.89998 19.2C 7.89998 13 13 7.89999 19.2 7.89999C 25.5 7.89999 30.5 13 30.5 19.2C 30.5 25.4 25.4 30.5 19.2 30.5C 12.9 30.5 7.89998 25.4 7.89998 19.2Z"/>
+<path id="path47_fill" d="M 1.80002 3.59999C 2.79414 3.59999 3.60001 2.79412 3.60001 1.80001C 3.60001 0.805894 2.79414 -1.2207e-05 1.80002 -1.2207e-05C 0.805912 -1.2207e-05 -2.44141e-05 0.805894 -2.44141e-05 1.80001C -2.44141e-05 2.79412 0.805912 3.59999 1.80002 3.59999Z"/>
+<path id="path48_fill" d="M 20.5 6.40001L 3.2 6.40001C 1.5 6.40001 -1.2207e-05 4.99999 -1.2207e-05 3.19999C -1.2207e-05 1.39999 1.4 1.2207e-05 3.2 1.2207e-05L 20.5 1.2207e-05C 22.2 1.2207e-05 23.7 1.39999 23.7 3.19999C 23.6 4.99999 22.2 6.40001 20.5 6.40001Z"/>
+<path id="path49_fill" d="M 1 1.99999C 1.55228 1.99999 2 1.55228 2 0.999994C 2 0.447709 1.55228 -6.10352e-06 1 -6.10352e-06C 0.447715 -6.10352e-06 0 0.447709 0 0.999994C 0 1.55228 0.447715 1.99999 1 1.99999Z"/>
+<path id="path50_fill" d="M 1.00002 1.99999C 1.55231 1.99999 2.00002 1.55228 2.00002 0.999994C 2.00002 0.447709 1.55231 -6.10352e-06 1.00002 -6.10352e-06C 0.44774 -6.10352e-06 2.44141e-05 0.447709 2.44141e-05 0.999994C 2.44141e-05 1.55228 0.44774 1.99999 1.00002 1.99999Z"/>
+<path id="path51_fill" d="M 0.999988 1.99999C 1.55227 1.99999 1.99999 1.55228 1.99999 0.999994C 1.99999 0.447709 1.55227 -6.10352e-06 0.999988 -6.10352e-06C 0.447703 -6.10352e-06 -1.2207e-05 0.447709 -1.2207e-05 0.999994C -1.2207e-05 1.55228 0.447703 1.99999 0.999988 1.99999Z"/>
+<path id="path52_fill" d="M 1.00001 1.99999C 1.5523 1.99999 2.00001 1.55228 2.00001 0.999994C 2.00001 0.447709 1.5523 -6.10352e-06 1.00001 -6.10352e-06C 0.447727 -6.10352e-06 1.2207e-05 0.447709 1.2207e-05 0.999994C 1.2207e-05 1.55228 0.447727 1.99999 1.00001 1.99999Z"/>
+<path id="path53_fill" d="M 0.999976 1.99999C 1.55226 1.99999 1.99998 1.55228 1.99998 0.999994C 1.99998 0.447709 1.55226 -6.10352e-06 0.999976 -6.10352e-06C 0.447691 -6.10352e-06 -2.44141e-05 0.447709 -2.44141e-05 0.999994C -2.44141e-05 1.55228 0.447691 1.99999 0.999976 1.99999Z"/>
+<path id="path54_fill" d="M 111.9 -6.10352e-06L -6.10352e-06 -6.10352e-06L -6.10352e-06 139.4L 111.9 139.4L 111.9 -6.10352e-06Z"/>
+<path id="path55_fill" d="M 17.4 1.6L 15.8 -3.05176e-06L 14.2 1.6L 12.6 -3.05176e-06L 11.1 1.6L 9.50001 -3.05176e-06L 7.90001 1.6L 6.3 -3.05176e-06L 4.69999 1.6L 3.19999 -3.05176e-06L 1.59999 1.6L 1.2207e-05 -3.05176e-06L 1.2207e-05 96.5L 18.9 96.5L 18.9 0.100003L 17.4 1.6Z"/>
+<path id="path56_fill" d="M 2.39999 -6.10352e-06L -6.10352e-06 -6.10352e-06L -6.10352e-06 98.3L 2.39999 98.3L 2.39999 -6.10352e-06Z"/>
+<path id="path57_fill" d="M 95.9 1.2207e-05L -1.2207e-05 1.2207e-05L -1.2207e-05 87.1L 95.9 87.1L 95.9 1.2207e-05Z"/>
+<path id="path58_fill" d="M 0.600006 2.49999L 0.600006 1.80001L 2.29999 1.80001L 2.39999 1.59999L 2.39999 1.30001L 2.29999 1.2L 0.600006 1.2L 0.600006 0.499988L 2.70001 0.499988L 2.79999 0.400012L 2.79999 0.0999939L 2.70001 -1.2207e-05L 0.100006 -1.2207e-05L 0 0.0999939L 0 2.99999L 0.100006 3.09999L 2.70001 3.09999L 2.79999 2.99999L 2.79999 2.7L 2.70001 2.49999L 0.600006 2.49999Z"/>
+<path id="path59_fill" d="M 2.70001 -1.2207e-05L 2.6 0.0999939L 2.6 2.2L 0.700006 0.0999939L 0.6 -1.2207e-05L 0.1 -1.2207e-05L -6.10352e-06 0.0999939L -6.10352e-06 2.99999L 0.1 3.09999L 0.399988 3.09999L 0.499994 2.99999L 0.499994 0.7L 2.6 2.99999L 2.70001 3.09999L 2.99999 3.09999L 3.20001 2.99999L 3.20001 0.0999939L 2.99999 -1.2207e-05L 2.70001 -1.2207e-05Z"/>
+<path id="path60_fill" d="M 0.100012 -1.2207e-05L 6.10352e-06 0.0999939L 6.10352e-06 0.400012L 0.100012 0.499988L 1.29999 0.499988L 1.29999 2.99999L 1.4 3.09999L 1.79999 3.09999L 1.9 2.99999L 1.9 0.499988L 3.19999 0.499988L 3.29999 0.400012L 3.29999 0.0999939L 3.19999 -1.2207e-05L 0.100012 -1.2207e-05Z"/>
+<path id="path61_fill" d="M 2.89999 0.900012C 2.89999 0.500012 2.70001 -1.2207e-05 1.70001 -1.2207e-05L 0.1 -1.2207e-05L -6.10352e-06 0.0999939L -6.10352e-06 2.90001L 0.1 2.99999L 0.399988 2.99999L 0.499994 2.90001L 0.499994 1.80001L 1.39999 1.80001L 2.30001 2.99999L 2.39999 2.99999L 2.80001 2.99999L 2.89999 2.80001L 2.1 1.7C 2.5 1.7 2.89999 1.50001 2.89999 0.900012ZM 0.499994 0.499988L 1.6 0.499988C 2.2 0.499988 2.39999 0.600012 2.39999 0.900012C 2.39999 1.20001 2.2 1.30001 1.6 1.30001L 0.499994 1.30001L 0.499994 0.499988Z"/>
+<path id="path62_fill" d="M 0.599988 2.49999L 0.599988 1.80001L 2.3 1.80001L 2.40001 1.59999L 2.40001 1.30001L 2.3 1.2L 0.599988 1.2L 0.599988 0.499988L 2.59999 0.499988L 2.8 0.400012L 2.8 0.0999939L 2.59999 -1.2207e-05L 0.0999878 -1.2207e-05L 1.2207e-05 0.0999939L 1.2207e-05 2.99999L 0.0999878 3.09999L 2.69999 3.09999L 2.8 2.99999L 2.8 2.7L 2.69999 2.49999L 0.599988 2.49999Z"/>
+<path id="path63_fill" d="M 1.79999 -1.2207e-05L 0.100012 -1.2207e-05L 6.10352e-06 0.0999939L 6.10352e-06 2.90001L 0.100012 2.99999L 0.4 2.99999L 0.500006 2.90001L 0.500006 1.80001L 1.69999 1.80001C 2.69999 1.80001 2.9 1.30001 2.9 0.900012C 3 0.500012 2.79999 -1.2207e-05 1.79999 -1.2207e-05ZM 0.600012 0.499988L 1.69999 0.499988C 2.29999 0.499988 2.4 0.700012 2.4 0.900012C 2.4 1.10001 2.29999 1.30001 1.69999 1.30001L 0.600012 1.30001L 0.600012 0.499988Z"/>
+<path id="path64_fill" d="M 1.80001 1.2207e-05C 0.700012 1.2207e-05 -6.10352e-06 0.599988 -6.10352e-06 1.59999C -6.10352e-06 2.69999 0.900012 3.19999 1.80001 3.19999C 2.70001 3.19999 3.6 2.69999 3.6 1.59999C 3.6 0.699988 2.80001 1.2207e-05 1.80001 1.2207e-05ZM 1.80001 2.69999C 1.50001 2.69999 0.6 2.59999 0.6 1.59999C 0.6 0.999988 1.10001 0.599988 1.80001 0.599988C 2.50001 0.599988 2.99999 0.999988 2.99999 1.59999C 2.99999 2.59999 2.10001 2.69999 1.80001 2.69999Z"/>
+<path id="path65_fill" d="M 1.5 1.4C 0.9 1.3 0.5 1.30001 0.5 1.00001C 0.5 0.700006 0.999994 0.600012 1.39999 0.600012C 2.09999 0.600012 2.3 0.900006 2.5 1.00001L 2.70001 1.00001L 3 0.799994L 3 0.600012C 2.9 0.500012 2.5 6.10352e-06 1.5 6.10352e-06C 0.6 6.10352e-06 0.100006 0.300006 0.100006 1.00001C 0.100006 1.70001 0.900006 1.8 1.60001 1.9C 2.20001 2 2.60001 1.99999 2.60001 2.29999C 2.60001 2.69999 1.80001 2.79999 1.70001 2.79999C 0.900012 2.79999 0.7 2.49999 0.5 2.29999L 0.299988 2.29999L -5.68434e-14 2.50001L -5.68434e-14 2.69999C 0.2 2.99999 0.600006 3.4 1.60001 3.4C 2.70001 3.4 3.10001 2.9 3.10001 2.4C 3.00001 1.6 2.2 1.5 1.5 1.4Z"/>
+<path id="path66_fill" d="M 2.00001 -1.2207e-05L 1.59999 -1.2207e-05L 1.50001 0.0999939L 1.2207e-05 2.90001L 0.0999878 3.09999L 0.500012 3.09999L 0.599988 2.99999L 0.900006 2.30001L 2.59999 2.30001L 2.90001 2.99999L 3.00001 3.09999L 3.40001 3.09999L 3.50001 2.90001L 2.00001 -1.2207e-05ZM 2.40001 1.80001L 1.19999 1.80001L 1.8 0.599994L 2.40001 1.80001Z"/>
+<path id="path67_fill" d="M 1.80001 1.39999L 1.7 1.49999L 1.7 1.80001L 1.80001 1.89999L 2.80001 1.89999C 2.70001 2.39999 2.20001 2.49999 1.80001 2.49999C 1.10001 2.49999 0.599994 2.09999 0.599994 1.49999C 0.599994 0.799994 1 0.399988 1.7 0.399988C 1.9 0.399988 2.5 0.499994 2.7 0.999994L 2.90001 1.1L 3.2 0.899988L 3.2 0.800012C 3 0.300012 2.4 -6.10352e-06 1.7 -6.10352e-06C 0.6 -6.10352e-06 -1.2207e-05 0.6 -1.2207e-05 1.6C -1.2207e-05 2.4 0.5 3.20001 1.7 3.20001C 2.2 3.20001 2.5 3.09999 2.7 2.89999L 2.7 2.99999L 2.80001 3.1L 3.09999 3.1L 3.2 2.99999L 3.2 1.6L 3.09999 1.49999L 1.80001 1.49999L 1.80001 1.39999Z"/>
+<path id="path68_fill" d="M 2.6 2.49999L 0.499994 2.49999L 0.499994 1.80001L 2.20001 1.80001L 2.30001 1.59999L 2.30001 1.30001L 2.20001 1.2L 0.499994 1.2L 0.499994 0.499988L 2.6 0.499988L 2.70001 0.400012L 2.70001 0.0999939L 2.6 -1.2207e-05L 0.1 -1.2207e-05L -6.10352e-06 0.0999939L -6.10352e-06 2.99999L 0.1 3.09999L 2.6 3.09999L 2.70001 2.99999L 2.70001 2.7L 2.6 2.49999Z"/>
+<path id="path69_fill" d="M 12.4 12.4L 0 12.4L 0 -1.2207e-05L 12.4 -1.2207e-05L 12.4 12.4ZM 1.5 10.9L 10.9 10.9L 10.9 1.49999L 1.5 1.49999L 1.5 10.9Z"/>
+<path id="path70_fill" d="M 5.40001 2.89999C 5.70001 2.69999 5.99999 2.30001 5.99999 1.70001C 5.99999 0.600006 5.19999 -6.10352e-06 3.49999 -6.10352e-06L 0.0999939 -6.10352e-06L -1.2207e-05 0.1L -1.2207e-05 5.99999L 0.0999939 6.1L 3.7 6.1C 5.2 6.1 6.2 5.40001 6.2 4.20001C 6.1 3.70001 5.80001 3.19999 5.40001 2.89999ZM 3.49999 2.39999L 1.40001 2.39999L 1.40001 1.30001L 3.49999 1.30001C 4.29999 1.30001 4.49999 1.49999 4.49999 1.89999C 4.49999 2.19999 4.29999 2.39999 3.49999 2.39999ZM 1.40001 3.6L 3.59999 3.6C 4.59999 3.6 4.7 3.90001 4.7 4.30001C 4.7 4.80001 4.39999 4.99999 3.59999 4.99999L 1.40001 4.99999L 1.40001 3.6Z"/>
+<path id="path71_fill" d="M 7.80001 3.99999C 8.10001 3.69999 8.49999 3.20001 8.49999 2.30001C 8.49999 0.800006 7.39999 -1.2207e-05 5.09999 -1.2207e-05L 0.2 -1.2207e-05L -1.2207e-05 0.2L -1.2207e-05 8.30001L 0.2 8.49999L 5.40001 8.49999C 7.50001 8.49999 8.80001 7.50001 8.80001 5.90001C 8.80001 5.10001 8.30001 4.39999 7.80001 3.99999ZM 5.2 3.2L 2.09999 3.2L 2.09999 1.80001L 5.2 1.80001C 6.4 1.80001 6.49999 2.09999 6.49999 2.49999C 6.39999 2.89999 6.3 3.2 5.2 3.2ZM 1.99999 4.99999L 5.2 4.99999C 6.5 4.99999 6.7 5.40001 6.7 5.90001C 6.7 6.50001 6.4 6.80001 5.2 6.80001L 1.99999 6.80001L 1.99999 4.99999Z"/>
+<path id="path72_fill" d="M 4.40001 1.2207e-05C 1.70001 1.2207e-05 1.2207e-05 1.50001 1.2207e-05 3.90001C 1.2207e-05 4.40001 0.100006 5.50001 0.900006 6.40001C 1.70001 7.30001 2.80001 7.69999 4.40001 7.69999C 5.90001 7.69999 7.10001 7.20001 7.90001 6.40001C 8.70001 5.50001 8.8 4.40001 8.8 3.90001C 8.8 1.50001 7.20001 1.2207e-05 4.40001 1.2207e-05ZM 4.40001 6.19999C 3.50001 6.19999 1.90001 5.90001 1.90001 3.90001C 1.90001 1.90001 3.70001 1.69999 4.40001 1.69999C 5.20001 1.69999 6.90001 1.90001 6.90001 3.90001C 7.00001 5.90001 5.40001 6.19999 4.40001 6.19999Z"/>
+<path id="path73_fill" d="M 6.29999 -6.10352e-06L 6 0.300012L 6 4.70001L 1.79999 0.1L 1.60001 -6.10352e-06L 0.200012 -6.10352e-06L 0 0.300012L 0 7.20001L 0.200012 7.49999L 1.5 7.49999L 1.70001 7.20001L 1.70001 2.6L 6.20001 7.39999L 6.29999 7.49999L 7.60001 7.49999L 7.79999 7.20001L 7.79999 0.300012L 7.60001 -6.10352e-06L 6.29999 -6.10352e-06Z"/>
+<path id="path74_fill" d="M 6.29999 -6.10352e-06L 6.10001 0.300012L 6.10001 4.70001L 1.9 0.1L 1.69999 -6.10352e-06L 0.299994 -6.10352e-06L 6.10352e-06 0.300012L 6.10352e-06 7.20001L 0.299994 7.49999L 1.60001 7.49999L 1.79999 7.20001L 1.79999 2.6L 6.19999 7.39999L 6.4 7.49999L 7.60001 7.49999L 7.9 7.20001L 7.9 0.300012L 7.60001 -6.10352e-06L 6.29999 -6.10352e-06Z"/>
+<path id="path75_fill" d="M 1.79999 5.80001L 1.79999 4.49999L 5.79999 4.49999L 6.10001 4.20001L 6.10001 2.99999L 5.79999 2.80001L 1.79999 2.80001L 1.79999 1.70001L 6.50001 1.70001L 6.69999 1.39999L 6.69999 0.300012L 6.50001 -6.10352e-06L 0.199988 -6.10352e-06L 6.10352e-06 0.300012L 6.10352e-06 7.20001L 0.199988 7.49999L 6.60001 7.49999L 6.79999 7.20001L 6.79999 6.1L 6.60001 5.80001L 1.79999 5.80001Z"/>
+<path id="path76_fill" d="M 5.20001 -6.10352e-06L 3.60001 -6.10352e-06L 3.39999 0.1L 0 7.1L 0.200012 7.39999L 1.60001 7.39999L 1.79999 7.30001L 2.5 5.80001L 6.20001 5.80001L 6.89999 7.30001L 7.10001 7.39999L 8.5 7.39999L 8.70001 7.1L 5.29999 0.1L 5.20001 -6.10352e-06ZM 5.5 4.20001L 3.29999 4.20001L 4.39999 1.89999L 5.5 4.20001Z"/>
+<path id="path77_fill" d="M 8.79999 -1.2207e-05L 7.20001 -1.2207e-05L 7 0.2L 7 4.7C 7 5.8 6.7 6.90001 4.5 6.90001C 2.3 6.90001 2 5.8 2 4.7L 2 0.2L 1.79999 -1.2207e-05L 0.200012 -1.2207e-05L 1.13687e-13 0.2L 1.13687e-13 4.80001C 1.13687e-13 7.40001 1.6 8.7 4.5 8.7C 7.5 8.7 9 7.30001 9 4.80001L 9 0.2L 8.79999 -1.2207e-05Z"/>
+<path id="path78_fill" d="M 98.3 -6.10352e-06L 1.2207e-05 -6.10352e-06L 1.2207e-05 111.9L 98.3 111.9L 98.3 -6.10352e-06Z"/>
+<path id="path79_fill" d="M 94.9 17.3L 96.5 15.8L 94.9 14.2L 96.5 12.6L 94.9 11L 96.5 9.40001L 94.9 7.90001L 96.5 6.3L 94.9 4.69999L 96.5 3.09999L 94.9 1.50001L 96.5 1.2207e-05L 1.2207e-05 1.2207e-05L 1.2207e-05 18.9L 96.4 18.9L 94.9 17.3Z"/>
+<path id="path80_fill" d="M 98.3 -6.10352e-06L 1.2207e-05 -6.10352e-06L 1.2207e-05 2.39999L 98.3 2.39999L 98.3 -6.10352e-06Z"/>
+<path id="path81_fill" d="M 6.10352e-06 6.10352e-06L 0.199988 0.199988L 6.10352e-06 6.10352e-06Z"/>
+<path id="path82_fill" d="M 0.399994 5.2L 0.600006 5.59999L 1.39999 5.30001L 2.10001 6.90001L 1.29999 7.2L 1.5 7.59999L 2.29999 7.30001L 3 8.90001L 2.20001 9.2L 2.39999 9.59999L 3.20001 9.30001L 3.89999 10.9L 3 11.2L 3.20001 11.6L 4 11.3L 4.70001 12.9L 3.89999 13.2L 4.10001 13.6L 4.89999 13.3L 5.60001 14.9L 4.79999 15.2L 5 15.6L 5.79999 15.3L 6.5 16.9L 5.70001 17.2L 5.89999 17.6L 6.70001 17.3L 7.39999 18.9L 6.60001 19.2L 6.79999 19.6L 7.60001 19.3L 8.29999 20.9L 7.5 21.2L 7.70001 21.6L 8.5 21.3L 9.20001 22.9L 8.39999 23.2L 8.60001 23.6L 9.39999 23.3L 10.1 24.9L 9.29999 25.2L 9.5 25.6L 10.3 25.3L 11 26.9L 10.2 27.2L 10.4 27.6L 11.2 27.3L 11.9 28.9L 11.1 29.2L 11.3 29.6L 12.1 29.3L 12.8 30.9L 12 31.2L 12.2 31.6L 13 31.3L 13.7 32.9L 12.9 33.2L 13.1 33.6L 13.9 33.3L 14.6 34.9L 13.8 35.2L 14 35.6L 14.8 35.3L 15.5 36.9L 14.7 37.2L 14.9 37.6L 15.7 37.3L 16.4 38.9L 15.6 39.2L 15.8 39.6L 16.6 39.3L 17.3 40.9L 16.5 41.2L 16.7 41.6L 17.5 41.3L 18.2 42.9L 17.4 43.2L 17.6 43.6L 18.4 43.3L 19.1 44.9L 18.3 45.2L 18.5 45.6L 19.3 45.3L 20 46.9L 19.2 47.2L 19.4 47.6L 20.2 47.3L 20.9 48.9L 20.1 49.2L 20.3 49.6L 21.1 49.3L 21.8 50.9L 21 51.2L 21.2 51.6L 22 51.3L 24.5 57.1C 24.6 57 24.8 57 24.9 56.9L 22.4 51.1L 24 50.4L 26.4 56C 26.5 55.9 26.6 55.8 26.8 55.8L 24.4 50.3L 26 49.6L 28.2 54.7C 28.3 54.6 28.4 54.5 28.5 54.4L 26.4 49.5L 28 48.8L 29.9 53.1C 30 53 30.1 52.9 30.2 52.7L 28.4 48.6L 30 47.9L 31.4 51.1C 31.5 51 31.6 50.8 31.7 50.7L 30.4 47.7L 32 47L 32.8 48.8C 32.9 48.6 33 48.5 33.1 48.3L 32.5 46.8L 34.1 46.1C 34.2 45.9 34.2 45.7 34.3 45.5L 33.6 43.9L 34.9 43.3C 35 42.9 35.1 42.5 35.2 42.1L 34.7 41L 35.5 40.7C 35.5 40.5 35.6 40.4 35.6 40.2L 34.6 40.6L 33.9 39L 35.5 38.3L 35.8 38.9C 35.8 38.5 35.9 38.1 35.9 37.7L 35.8 37.8L 35.1 36.2L 36 35.8C 36 35.6 36 35.5 36 35.3L 34.9 35.8L 34.2 34.2L 35.8 33.5L 35.9 33.8C 35.9 33.4 35.8 32.9 35.8 32.5L 35.3 31.4L 35.7 31.2C 35.7 31.1 35.7 30.9 35.6 30.7L 35.1 30.9L 34.4 29.3L 35.3 28.9C 35.3 28.8 35.2 28.6 35.2 28.5L 34.2 28.9L 33.5 27.3L 34.8 26.7C 34.8 26.6 34.7 26.4 34.7 26.3L 33.3 26.9L 32.6 25.3L 34.2 24.6C 34.2 24.5 34.1 24.3 34.1 24.2L 32.5 24.9L 31.8 23.3L 33.5 22.6C 33.4 22.5 33.4 22.3 33.3 22.2L 31.5 23L 30.8 21.4L 32.6 20.6C 32.6 20.5 32.5 20.5 32.5 20.4C 32.5 20.3 32.4 20.3 32.4 20.2L 30.6 21L 29.9 19.4L 31.7 18.6C 31.6 18.5 31.6 18.3 31.5 18.2L 29.8 19L 29.1 17.4L 30.7 16.7C 30.6 16.6 30.6 16.4 30.5 16.3L 28.9 17L 28.2 15.4L 29.5 14.8C 29.4 14.7 29.3 14.6 29.3 14.4L 28 15L 27.3 13.4L 28.3 13C 28.2 12.9 28.1 12.8 28 12.6L 27.1 13L 26.4 11.4L 26.9 11.2C 26.8 11.1 26.7 11 26.6 10.9L 26.2 11.1L 25.7 9.90001C 25.4 9.60001 25.1 9.30001 24.8 8.90001L 24.9 9.2L 23.3 9.90001L 22.6 8.30001L 23.7 7.80001C 23.6 7.70001 23.5 7.59999 23.4 7.49999L 22.5 7.90001L 21.8 6.30001L 21.9 6.2C 21.7 6 21.4 5.79999 21.1 5.59999C 21 5.49999 21 5.50001 20.9 5.40001L 21.2 5.99999L 19.6 6.7L 18.9 5.09999L 19.9 4.7C 19.8 4.6 19.6 4.50001 19.5 4.40001L 18.7 4.7L 18.2 3.59999C 17.9 3.39999 17.5 3.19999 17.2 2.99999L 15.9 3.59999L 15.2 1.99999C 15 1.89999 14.8 1.8 14.6 1.7L 13 2.40001L 12.4 0.900012C 12.1 0.800012 11.8 0.7 11.5 0.7L 10.1 1.30001L 9.70001 0.300006C 9.50001 0.300006 9.40001 0.2 9.20001 0.2L 9.70001 1.40001L 8.10001 2.09999L 7.20001 -1.2207e-05C 7.00001 -1.2207e-05 6.90001 -1.2207e-05 6.70001 -1.2207e-05L 7.70001 2.30001L 6.10001 2.99999L 4.79999 0.0999939C 4.59999 0.0999939 4.49999 0.0999939 4.29999 0.0999939L 5.60001 3.2L 4 3.90001L 2.5 0.400012C 2.4 0.400012 2.20001 0.499988 2.10001 0.499988L 3.60001 4.09999L 2 4.80001L 0.399994 1.09999C 0.299994 1.09999 0.1 1.2 2.27374e-13 1.2L 1.60001 4.99999L 0.399994 5.2ZM 2.60001 7.09999L 4.20001 6.40001L 4.89999 7.99999L 3.29999 8.7L 2.60001 7.09999ZM 10.8 10.7L 11.5 12.3L 9.89999 13L 9.20001 11.4L 10.8 10.7ZM 9 11L 8.29999 9.40001L 9.89999 8.7L 10.6 10.3L 9 11ZM 24 40.2L 23.3 38.6L 24.9 37.9L 25.6 39.5L 24 40.2ZM 25.8 39.9L 26.5 41.5L 24.9 42.2L 24.2 40.6L 25.8 39.9ZM 23.1 38.2L 22.4 36.6L 24 35.9L 24.7 37.5L 23.1 38.2ZM 16.3 17.9L 17 19.5L 15.4 20.2L 14.7 18.6L 16.3 17.9ZM 14.5 18.1L 13.8 16.5L 15.4 15.8L 16.1 17.4L 14.5 18.1ZM 17.1 19.9L 17.8 21.5L 16.2 22.2L 15.5 20.6L 17.1 19.9ZM 21.7 29.3L 21 27.7L 22.6 27L 23.3 28.6L 21.7 29.3ZM 23.4 29L 24.1 30.6L 22.5 31.3L 21.8 29.7L 23.4 29ZM 20.8 27.3L 20.1 25.7L 21.7 25L 22.4 26.6L 20.8 27.3ZM 19.9 25.3L 19.2 23.7L 20.8 23L 21.5 24.6L 19.9 25.3ZM 19.1 23.3L 18.4 21.7L 20 21L 20.7 22.6L 19.1 23.3ZM 18.2 21.3L 17.5 19.7L 19.1 19L 19.8 20.6L 18.2 21.3ZM 18 21.9L 18.7 23.5L 17.1 24.2L 16.4 22.6L 18 21.9ZM 18.8 23.9L 19.5 25.5L 17.9 26.2L 17.2 24.6L 18.8 23.9ZM 19.7 25.9L 20.4 27.5L 18.8 28.2L 18.1 26.6L 19.7 25.9ZM 20.6 27.9L 21.3 29.5L 19.7 30.2L 19 28.6L 20.6 27.9ZM 21.4 29.9L 22.1 31.5L 20.5 32.2L 19.8 30.6L 21.4 29.9ZM 22.3 31.9L 23 33.5L 21.4 34.2L 20.7 32.6L 22.3 31.9ZM 23.2 33.9L 23.9 35.5L 22.3 36.2L 21.6 34.6L 23.2 33.9ZM 24.4 35.7L 26 35L 26.7 36.6L 25.1 37.3L 24.4 35.7ZM 24.3 35.3L 23.6 33.7L 25.2 33L 25.9 34.6L 24.3 35.3ZM 23.4 33.3L 22.7 31.7L 24.3 31L 25 32.6L 23.4 33.3ZM 24.7 30.8L 26.3 30.1L 27 31.7L 25.4 32.4L 24.7 30.8ZM 24.5 30.4L 23.8 28.8L 25.4 28.1L 26.1 29.7L 24.5 30.4ZM 23.7 28.4L 23 26.8L 24.6 26.1L 25.3 27.7L 23.7 28.4ZM 22.8 26.4L 22.1 24.8L 23.7 24.1L 24.4 25.7L 22.8 26.4ZM 21.9 24.4L 21.2 22.8L 22.8 22.1L 23.5 23.7L 21.9 24.4ZM 21.1 22.4L 20.4 20.8L 22 20.1L 22.7 21.7L 21.1 22.4ZM 20.2 20.4L 19.5 18.8L 21.1 18.1L 21.8 19.7L 20.2 20.4ZM 19.4 18.4L 18.7 16.8L 20.3 16.1L 21 17.7L 19.4 18.4ZM 19 18.6L 17.4 19.3L 16.7 17.7L 18.3 17L 19 18.6ZM 16.5 17.3L 15.8 15.7L 17.4 15L 18.1 16.6L 16.5 17.3ZM 15.6 15.3L 14.9 13.7L 16.5 13L 17.2 14.6L 15.6 15.3ZM 15.2 15.5L 13.6 16.2L 12.9 14.6L 14.5 13.9L 15.2 15.5ZM 12.8 14.1L 12.1 12.5L 13.7 11.8L 14.4 13.4L 12.8 14.1ZM 11.9 12.1L 11.2 10.5L 12.8 9.80001L 13.5 11.4L 11.9 12.1ZM 11.7 12.7L 12.4 14.3L 10.8 15L 10.1 13.4L 11.7 12.7ZM 12.5 14.7L 13.2 16.3L 11.6 17L 10.9 15.4L 12.5 14.7ZM 13.4 16.7L 14.1 18.3L 12.5 19L 11.8 17.4L 13.4 16.7ZM 14.3 18.7L 15 20.3L 13.4 21L 12.7 19.4L 14.3 18.7ZM 15.1 20.7L 15.8 22.3L 14.2 23L 13.5 21.4L 15.1 20.7ZM 16 22.7L 16.7 24.3L 15.1 25L 14.4 23.4L 16 22.7ZM 16.8 24.7L 17.5 26.3L 15.9 27L 15.2 25.4L 16.8 24.7ZM 17.7 26.7L 18.4 28.3L 16.8 29L 16.1 27.4L 17.7 26.7ZM 18.6 28.7L 19.3 30.3L 17.7 31L 17 29.4L 18.6 28.7ZM 19.4 30.7L 20.1 32.3L 18.5 33L 17.8 31.4L 19.4 30.7ZM 20.3 32.7L 21 34.3L 19.4 35L 18.7 33.4L 20.3 32.7ZM 21.2 34.7L 21.9 36.3L 20.3 37L 19.6 35.4L 21.2 34.7ZM 22 36.7L 22.7 38.3L 21.1 39L 20.4 37.4L 22 36.7ZM 22.9 38.7L 23.6 40.3L 22 41L 21.3 39.4L 22.9 38.7ZM 23.8 40.7L 24.5 42.3L 22.9 43L 22.2 41.4L 23.8 40.7ZM 24.6 42.7L 25.3 44.3L 23.7 45L 23 43.4L 24.6 42.7ZM 25 42.6L 26.6 41.9L 27.3 43.5L 25.7 44.2L 25 42.6ZM 27 41.7L 28.6 41L 29.3 42.6L 27.7 43.3L 27 41.7ZM 26.8 41.3L 26.1 39.7L 27.7 39L 28.4 40.6L 26.8 41.3ZM 26 39.3L 25.3 37.7L 26.9 37L 27.6 38.6L 26 39.3ZM 27.3 36.8L 28.9 36.1L 29.6 37.7L 28 38.4L 27.3 36.8ZM 27.1 36.4L 26.4 34.8L 28 34.1L 28.7 35.7L 27.1 36.4ZM 26.3 34.4L 25.6 32.8L 27.2 32.1L 27.9 33.7L 26.3 34.4ZM 27.6 32L 29.2 31.3L 29.9 32.9L 28.3 33.6L 27.6 32ZM 27.4 31.6L 26.7 30L 28.3 29.3L 29 30.9L 27.4 31.6ZM 26.5 29.6L 25.8 28L 27.4 27.3L 28.1 28.9L 26.5 29.6ZM 25.7 27.6L 25 26L 26.6 25.3L 27.3 26.9L 25.7 27.6ZM 24.8 25.6L 24.1 24L 25.7 23.3L 26.4 24.9L 24.8 25.6ZM 23.9 23.6L 23.2 22L 24.8 21.3L 25.5 22.9L 23.9 23.6ZM 23.1 21.6L 22.4 20L 24 19.3L 24.7 20.9L 23.1 21.6ZM 22.2 19.6L 21.5 18L 23.1 17.3L 23.8 18.9L 22.2 19.6ZM 21.4 17.6L 20.7 16L 22.3 15.3L 23 16.9L 21.4 17.6ZM 20.5 15.6L 19.8 14L 21.4 13.3L 22.1 14.9L 20.5 15.6ZM 20.1 15.7L 18.5 16.4L 17.8 14.8L 19.4 14.1L 20.1 15.7ZM 17.6 14.4L 16.9 12.8L 18.5 12.1L 19.2 13.7L 17.6 14.4ZM 16.8 12.4L 16.1 10.8L 17.7 10.1L 18.4 11.7L 16.8 12.4ZM 16.4 12.6L 14.8 13.3L 14.1 11.7L 15.7 11L 16.4 12.6ZM 13.9 11.3L 13.2 9.7L 14.8 8.99999L 15.5 10.6L 13.9 11.3ZM 13 9.30001L 12.3 7.7L 13.9 6.99999L 14.6 8.59999L 13 9.30001ZM 12.6 9.40001L 11 10.1L 10.3 8.49999L 11.9 7.80001L 12.6 9.40001ZM 10.2 8.09999L 9.5 6.49999L 11.1 5.80001L 11.8 7.40001L 10.2 8.09999ZM 9.79999 8.30001L 8.20001 8.99999L 7.5 7.40001L 9.10001 6.7L 9.79999 8.30001ZM 7.79999 9.2L 6.20001 9.90001L 5.5 8.30001L 7.10001 7.59999L 7.79999 9.2ZM 7.89999 9.59999L 8.60001 11.2L 7 11.9L 6.29999 10.3L 7.89999 9.59999ZM 8.79999 11.6L 9.5 13.2L 7.89999 13.9L 7.20001 12.3L 8.79999 11.6ZM 9.70001 13.6L 10.4 15.2L 8.79999 15.9L 8.10001 14.3L 9.70001 13.6ZM 10.5 15.6L 11.2 17.2L 9.60001 17.9L 8.89999 16.3L 10.5 15.6ZM 11.4 17.6L 12.1 19.2L 10.5 19.9L 9.79999 18.3L 11.4 17.6ZM 12.3 19.6L 13 21.2L 11.4 21.9L 10.7 20.3L 12.3 19.6ZM 13.1 21.6L 13.8 23.2L 12.2 23.9L 11.5 22.3L 13.1 21.6ZM 14 23.6L 14.7 25.2L 13.1 25.9L 12.4 24.3L 14 23.6ZM 14.8 25.6L 15.5 27.2L 13.9 27.9L 13.2 26.3L 14.8 25.6ZM 15.7 27.6L 16.4 29.2L 14.8 29.9L 14.1 28.3L 15.7 27.6ZM 16.6 29.6L 17.3 31.2L 15.7 31.9L 15 30.3L 16.6 29.6ZM 17.4 31.6L 18.1 33.2L 16.5 33.9L 15.8 32.3L 17.4 31.6ZM 18.3 33.6L 19 35.2L 17.4 35.9L 16.7 34.3L 18.3 33.6ZM 19.2 35.6L 19.9 37.2L 18.3 37.9L 17.6 36.3L 19.2 35.6ZM 20 37.6L 20.7 39.2L 19.1 39.9L 18.4 38.3L 20 37.6ZM 20.9 39.6L 21.6 41.2L 20 41.9L 19.3 40.3L 20.9 39.6ZM 21.8 41.6L 22.5 43.2L 20.9 43.9L 20.2 42.3L 21.8 41.6ZM 22.6 43.6L 23.3 45.2L 21.7 45.9L 21 44.3L 22.6 43.6ZM 23.5 45.6L 24.2 47.2L 22.6 47.9L 21.9 46.3L 23.5 45.6ZM 23.9 45.4L 25.5 44.7L 26.2 46.3L 24.6 47L 23.9 45.4ZM 25.9 44.6L 27.5 43.9L 28.2 45.5L 26.6 46.2L 25.9 44.6ZM 27.9 43.7L 29.5 43L 30.2 44.6L 28.6 45.3L 27.9 43.7ZM 29.9 42.8L 31.5 42.1L 32.2 43.7L 30.6 44.4L 29.9 42.8ZM 29.7 42.4L 29 40.8L 30.6 40.1L 31.3 41.7L 29.7 42.4ZM 28.8 40.4L 28.1 38.8L 29.7 38.1L 30.4 39.7L 28.8 40.4ZM 30.2 38L 31.8 37.3L 32.5 38.9L 30.9 39.6L 30.2 38ZM 30 37.6L 29.3 36L 30.9 35.3L 31.6 36.9L 30 37.6ZM 29.1 35.6L 28.4 34L 30 33.3L 30.7 34.9L 29.1 35.6ZM 30.4 33.1L 32 32.4L 32.7 34L 31.1 34.7L 30.4 33.1ZM 30.3 32.7L 29.6 31.1L 31.2 30.4L 31.9 32L 30.3 32.7ZM 29.4 30.7L 28.7 29.1L 30.3 28.4L 31 30L 29.4 30.7ZM 28.5 28.7L 27.8 27.1L 29.4 26.4L 30.1 28L 28.5 28.7ZM 27.7 26.7L 27 25.1L 28.6 24.4L 29.3 26L 27.7 26.7ZM 26.8 24.7L 26.1 23.1L 27.7 22.4L 28.4 24L 26.8 24.7ZM 25.9 22.7L 25.2 21.1L 26.8 20.4L 27.5 22L 25.9 22.7ZM 25.1 20.7L 24.4 19.1L 26 18.4L 26.7 20L 25.1 20.7ZM 24.2 18.7L 23.5 17.1L 25.1 16.4L 25.8 18L 24.2 18.7ZM 23.4 16.7L 22.7 15.1L 24.3 14.4L 25 16L 23.4 16.7ZM 22.5 14.7L 21.8 13.1L 23.4 12.4L 24.1 14L 22.5 14.7ZM 21.6 12.7L 20.9 11.1L 22.5 10.4L 23.2 12L 21.6 12.7ZM 21.2 12.9L 19.6 13.6L 18.9 12L 20.5 11.3L 21.2 12.9ZM 18.8 11.5L 18.1 9.90001L 19.7 9.2L 20.4 10.8L 18.8 11.5ZM 17.9 9.49999L 17.2 7.90001L 18.8 7.2L 19.5 8.80001L 17.9 9.49999ZM 17.5 9.7L 15.9 10.4L 15.2 8.80001L 16.8 8.09999L 17.5 9.7ZM 15 8.40001L 14.3 6.80001L 15.9 6.09999L 16.6 7.7L 15 8.40001ZM 14.2 6.40001L 13.5 4.80001L 15.1 4.09999L 15.8 5.7L 14.2 6.40001ZM 13.8 6.59999L 12.2 7.30001L 11.5 5.7L 13.1 4.99999L 13.8 6.59999ZM 11.3 5.30001L 10.6 3.7L 12.2 2.99999L 12.9 4.59999L 11.3 5.30001ZM 10.9 5.40001L 9.29999 6.09999L 8.60001 4.49999L 10.2 3.80001L 10.9 5.40001ZM 8.89999 6.30001L 7.29999 6.99999L 6.60001 5.40001L 8.20001 4.7L 8.89999 6.30001ZM 6.89999 7.2L 5.29999 7.90001L 4.60001 6.30001L 6.20001 5.59999L 6.89999 7.2ZM 3.5 9.09999L 5.10001 8.40001L 5.79999 9.99999L 4.20001 10.7L 3.5 9.09999ZM 4.29999 11.1L 5.89999 10.4L 6.60001 12L 5 12.7L 4.29999 11.1ZM 5.20001 13.1L 6.79999 12.4L 7.5 14L 5.89999 14.7L 5.20001 13.1ZM 6.10001 15.1L 7.70001 14.4L 8.39999 16L 6.79999 16.7L 6.10001 15.1ZM 6.89999 17.1L 8.5 16.4L 9.20001 18L 7.60001 18.7L 6.89999 17.1ZM 7.79999 19.1L 9.39999 18.4L 10.1 20L 8.5 20.7L 7.79999 19.1ZM 8.70001 21.1L 10.3 20.4L 11 22L 9.39999 22.7L 8.70001 21.1ZM 9.5 23.1L 11.1 22.4L 11.8 24L 10.2 24.7L 9.5 23.1ZM 10.4 25.1L 12 24.4L 12.7 26L 11.1 26.7L 10.4 25.1ZM 11.2 27.1L 12.8 26.4L 13.5 28L 11.9 28.7L 11.2 27.1ZM 12.1 29.1L 13.7 28.4L 14.4 30L 12.8 30.7L 12.1 29.1ZM 13 31.1L 14.6 30.4L 15.3 32L 13.7 32.7L 13 31.1ZM 13.8 33.1L 15.4 32.4L 16.1 34L 14.5 34.7L 13.8 33.1ZM 14.7 35.1L 16.3 34.4L 17 36L 15.4 36.7L 14.7 35.1ZM 15.6 37.1L 17.2 36.4L 17.9 38L 16.3 38.7L 15.6 37.1ZM 16.4 39.1L 18 38.4L 18.7 40L 17.1 40.7L 16.4 39.1ZM 17.3 41.1L 18.9 40.4L 19.6 42L 18 42.7L 17.3 41.1ZM 18.2 43.1L 19.8 42.4L 20.5 44L 18.9 44.7L 18.2 43.1ZM 19 45.1L 20.6 44.4L 21.3 46L 19.7 46.7L 19 45.1ZM 19.9 47.2L 21.5 46.5L 22.2 48.1L 20.6 48.8L 19.9 47.2ZM 21.4 50.8L 20.7 49.2L 22.3 48.5L 23 50.1L 21.4 50.8ZM 23.4 49.9L 22.7 48.3L 24.3 47.6L 25 49.2L 23.4 49.9ZM 25.4 49L 24.7 47.4L 26.3 46.7L 27 48.3L 25.4 49ZM 27.4 48.2L 26.7 46.6L 28.3 45.9L 29 47.5L 27.4 48.2ZM 29.4 47.3L 28.7 45.7L 30.3 45L 31 46.6L 29.4 47.3ZM 33 45.7L 31.4 46.4L 30.7 44.8L 32.3 44.1L 33 45.7ZM 34.2 42.9L 32.6 43.6L 31.9 42L 33.5 41.3L 34.2 42.9ZM 33.3 40.9L 31.7 41.6L 31 40L 32.6 39.3L 33.3 40.9ZM 34.5 38L 32.9 38.7L 32.2 37.1L 33.8 36.4L 34.5 38ZM 33.6 36L 32 36.7L 31.3 35.1L 32.9 34.4L 33.6 36ZM 34.7 33.1L 33.1 33.8L 32.4 32.2L 34 31.5L 34.7 33.1ZM 33.9 31.1L 32.3 31.8L 31.6 30.2L 33.2 29.5L 33.9 31.1ZM 33 29.1L 31.4 29.8L 30.7 28.2L 32.3 27.5L 33 29.1ZM 32.1 27.1L 30.5 27.8L 29.8 26.2L 31.4 25.5L 32.1 27.1ZM 31.3 25.1L 29.7 25.8L 29 24.2L 30.6 23.5L 31.3 25.1ZM 30.4 23.1L 28.8 23.8L 28.1 22.2L 29.7 21.5L 30.4 23.1ZM 29.5 21.1L 27.9 21.8L 27.2 20.2L 28.8 19.5L 29.5 21.1ZM 28.7 19.1L 27.1 19.8L 26.4 18.2L 28 17.5L 28.7 19.1ZM 27.8 17.1L 26.2 17.8L 25.5 16.2L 27.1 15.5L 27.8 17.1ZM 27 15.1L 25.4 15.8L 24.7 14.2L 26.3 13.5L 27 15.1ZM 26.1 13.1L 24.5 13.8L 23.8 12.2L 25.4 11.5L 26.1 13.1ZM 24.5 9.49999L 25.2 11.1L 23.6 11.8L 22.9 10.2L 24.5 9.49999ZM 22.4 9.99999L 20.8 10.7L 20.1 9.09999L 21.7 8.40001L 22.4 9.99999ZM 20.8 6.40001L 21.5 7.99999L 19.9 8.7L 19.2 7.09999L 20.8 6.40001ZM 18.6 6.90001L 17 7.59999L 16.3 5.99999L 17.9 5.30001L 18.6 6.90001ZM 17.1 3.30001L 17.8 4.90001L 16.2 5.59999L 15.5 3.99999L 17.1 3.30001ZM 14.2 2.09999L 14.9 3.7L 13.3 4.40001L 12.6 2.80001L 14.2 2.09999ZM 11.4 0.999988L 12.1 2.59999L 10.5 3.30001L 9.79999 1.7L 11.4 0.999988ZM 9.39999 1.80001L 10.1 3.40001L 8.5 4.09999L 7.79999 2.49999L 9.39999 1.80001ZM 7.29999 2.7L 8 4.30001L 6.39999 4.99999L 5.70001 3.40001L 7.29999 2.7ZM 5.29999 3.59999L 6 5.2L 4.39999 5.90001L 3.70001 4.30001L 5.29999 3.59999ZM 3.29999 4.40001L 4 5.99999L 2.39999 6.7L 1.70001 5.09999L 3.29999 4.40001Z"/>
+<path id="path83_fill" d="M 1.10001 13.8C 1.00001 14.2 0.899988 14.6 0.799988 15L 1.29999 16.1L 0.5 16.4C 0.5 16.6 0.399994 16.7 0.399994 16.9L 1.39999 16.5L 2.10001 18.1L 0.5 18.8L 0.200012 18.2C 0.200012 18.3 0.200012 18.4 0.200012 18.5C 0.200012 18.8 0.100006 19.1 0.100006 19.5L 0.200012 19.4L 0.899994 21L 5.68434e-14 21.4C 5.68434e-14 21.6 5.68434e-14 21.7 5.68434e-14 21.9L 1.10001 21.4L 1.79999 23L 0.200012 23.7L 0.100006 23.4C 0.100006 23.8 0.200012 24.3 0.200012 24.7L 0.700012 25.9L 0.299988 26.1C 0.299988 26.2 0.299994 26.4 0.399994 26.6L 0.899994 26.4L 1.60001 28L 0.700012 28.4C 0.700012 28.5 0.799988 28.7 0.799988 28.8L 1.79999 28.4L 2.5 30L 1.20001 30.6C 1.20001 30.7 1.29999 30.9 1.29999 31L 2.60001 30.4L 3.29999 32L 1.70001 32.7C 1.70001 32.8 1.79999 33 1.79999 33.1L 3.39999 32.4L 4.10001 34L 2.39999 34.7C 2.49999 34.8 2.5 35 2.5 35.1L 4.29999 34.3L 5 35.9L 3.20001 36.7C 3.20001 36.8 3.29999 36.8 3.29999 36.9C 3.29999 37 3.39999 37 3.39999 37.1L 5.20001 36.3L 5.89999 37.9L 4.10001 38.7C 4.20001 38.8 4.19999 39 4.29999 39.1L 6 38.4L 6.70001 40L 5.10001 40.7C 5.20001 40.8 5.19999 41 5.29999 41.1L 6.89999 40.4L 7.60001 42L 6.29999 42.6C 6.39999 42.7 6.5 42.8 6.5 43L 7.79999 42.4L 8.5 44L 7.5 44.4C 7.6 44.5 7.69999 44.6 7.79999 44.8L 8.70001 44.4L 9.39999 46L 8.89999 46.2C 8.99999 46.3 9.10001 46.4 9.20001 46.5L 9.60001 46.3L 10.1 47.4C 10.4 47.7 10.7 48 11 48.4L 10.9 48.1L 12.5 47.4L 13.2 49L 12.1 49.5C 12.2 49.6 12.3 49.7 12.4 49.8L 13.3 49.4L 14 51L 13.9 51.1C 14.2 51.4 14.5 51.6 14.9 51.9L 14.6 51.3L 16.2 50.6L 16.9 52.2L 15.9 52.6C 16 52.7 16.2 52.8 16.3 52.9L 17.1 52.6L 17.6 53.7C 17.9 53.9 18.3 54.1 18.6 54.3L 19.9 53.7L 20.6 55.3C 20.8 55.4 21 55.5 21.2 55.6L 22.8 54.9L 23.4 56.4C 23.6 56.5 23.8 56.5 23.9 56.6L 23.1 54.8L 24.7 54.1L 26 57.1C 26.2 57.1 26.3 57.2 26.5 57.2L 25.1 54L 26.7 53.3L 28.5 57.4C 28.7 57.4 28.8 57.4 29 57.4L 27.1 53.1L 28.7 52.4L 30.8 57.3C 31 57.3 31.1 57.3 31.3 57.3L 29.1 52.2L 30.7 51.5L 33.1 57C 33.2 57 33.4 56.9 33.5 56.9L 31.1 51.3L 32.7 50.6L 35.2 56.4C 35.3 56.4 35.5 56.3 35.6 56.2L 33.1 50.4L 33.9 50.1L 33.7 49.7L 32.9 50L 32.2 48.4L 33 48.1L 32.8 47.7L 32 48L 31.3 46.4L 32.1 46.1L 31.9 45.7L 31.1 46L 30.4 44.4L 31.2 44.1L 31 43.7L 30.2 44L 29.5 42.4L 30.3 42.1L 30.1 41.7L 29.3 42L 28.6 40.4L 29.4 40.1L 29.2 39.7L 28.4 40L 27.7 38.4L 28.5 38.1L 28.3 37.7L 27.5 38L 26.8 36.4L 27.6 36.1L 27.4 35.7L 26.6 36L 25.9 34.4L 26.7 34.1L 26.5 33.7L 25.7 34L 25 32.4L 25.8 32.1L 25.6 31.7L 24.8 32L 24.1 30.4L 24.9 30.1L 24.7 29.7L 23.9 30L 23.2 28.4L 24 28.1L 23.8 27.7L 23 28L 22.3 26.4L 23.1 26.1L 22.9 25.7L 22.1 26L 21.4 24.4L 22.2 24.1L 22 23.7L 21.2 24L 20.5 22.4L 21.3 22.1L 21.1 21.7L 20.3 22L 19.6 20.4L 20.4 20.1L 20.2 19.7L 19.4 20L 18.7 18.4L 19.5 18.1L 19.3 17.7L 18.5 18L 17.8 16.4L 18.6 16.1L 18.4 15.7L 17.6 16L 16.9 14.4L 17.7 14.1L 17.5 13.7L 16.7 14L 16 12.4L 16.8 12.1L 16.6 11.7L 15.8 12L 15.1 10.4L 15.9 10.1L 16.5 9.5L 15.7 9.79999L 15 8.20001L 15.8 7.89999L 15.6 7.5L 14.8 7.79999L 14.1 6.20001L 14.9 5.89999L 14.7 5.5L 13.9 5.79999L 13.2 4.20001L 14 3.89999L 13.8 3.5L 13 3.79999L 11.4 0C 11.3 0.1 11.1 0.100012 11 0.200012L 12.6 4L 11 4.70001L 9.5 1.10001C 9.4 1.20001 9.30001 1.29999 9.10001 1.39999L 10.6 4.89999L 9 5.60001L 7.70001 2.5C 7.60001 2.6 7.49999 2.69999 7.39999 2.79999L 8.70001 5.70001L 7.10001 6.39999L 6.10001 4.10001C 6.00001 4.20001 5.89999 4.3 5.79999 4.5L 6.70001 6.60001L 5.10001 7.29999L 4.60001 6.10001C 4.50001 6.20001 4.39999 6.4 4.29999 6.5L 4.70001 7.5L 3.29999 8.10001C 3.19999 8.40001 2.99999 8.59999 2.89999 8.89999L 3.5 10.4L 1.89999 11.1C 1.79999 11.3 1.70001 11.5 1.70001 11.7L 2.39999 13.3L 1.10001 13.8ZM 1 14.3L 2.60001 13.6L 3.29999 15.2L 1.70001 15.9L 1 14.3ZM 21.5 45.4L 20.8 43.8L 22.4 43.1L 23.1 44.7L 21.5 45.4ZM 23.3 45.1L 24 46.7L 22.4 47.4L 21.7 45.8L 23.3 45.1ZM 20.6 43.4L 19.9 41.8L 21.5 41.1L 22.2 42.7L 20.6 43.4ZM 10.9 21.9L 11.6 23.5L 10 24.2L 9.29999 22.6L 10.9 21.9ZM 9.10001 22.2L 8.39999 20.6L 10 19.9L 10.7 21.5L 9.10001 22.2ZM 11.7 23.9L 12.4 25.5L 10.8 26.2L 10.1 24.6L 11.7 23.9ZM 15.2 36.2L 14.5 34.6L 16.1 33.9L 16.8 35.5L 15.2 36.2ZM 16.9 35.9L 17.6 37.5L 16 38.2L 15.3 36.6L 16.9 35.9ZM 14.3 34.2L 13.6 32.6L 15.2 31.9L 15.9 33.5L 14.3 34.2ZM 13.4 32.2L 12.7 30.6L 14.3 29.9L 15 31.5L 13.4 32.2ZM 12.6 30.2L 11.9 28.6L 13.5 27.9L 14.2 29.5L 12.6 30.2ZM 11.7 28.2L 11 26.6L 12.6 25.9L 13.3 27.5L 11.7 28.2ZM 10.4 26.4L 8.79999 27.1L 8.10001 25.5L 9.70001 24.8L 10.4 26.4ZM 10.6 26.8L 11.3 28.4L 9.70001 29.1L 9 27.5L 10.6 26.8ZM 11.5 28.8L 12.2 30.4L 10.6 31.1L 9.89999 29.5L 11.5 28.8ZM 12.3 30.8L 13 32.4L 11.4 33.1L 10.7 31.5L 12.3 30.8ZM 13.2 32.8L 13.9 34.4L 12.3 35.1L 11.6 33.5L 13.2 32.8ZM 14.1 34.8L 14.8 36.4L 13.2 37.1L 12.5 35.5L 14.1 34.8ZM 14.9 36.8L 15.6 38.4L 14 39.1L 13.3 37.5L 14.9 36.8ZM 15.8 38.8L 16.5 40.4L 14.9 41.1L 14.2 39.5L 15.8 38.8ZM 16.2 38.6L 17.8 37.9L 18.5 39.5L 16.9 40.2L 16.2 38.6ZM 18.7 39.9L 19.4 41.5L 17.8 42.2L 17.1 40.6L 18.7 39.9ZM 19.5 41.9L 20.2 43.5L 18.6 44.2L 17.9 42.6L 19.5 41.9ZM 19.7 41.4L 19 39.8L 20.6 39.1L 21.3 40.7L 19.7 41.4ZM 18.9 39.4L 18.2 37.8L 19.8 37.1L 20.5 38.7L 18.9 39.4ZM 18 37.4L 17.3 35.8L 18.9 35.1L 19.6 36.7L 18 37.4ZM 17.2 35.4L 16.5 33.8L 18.1 33.1L 18.8 34.7L 17.2 35.4ZM 16.3 33.4L 15.6 31.8L 17.2 31.1L 17.9 32.7L 16.3 33.4ZM 15.4 31.4L 14.7 29.8L 16.3 29.1L 17 30.7L 15.4 31.4ZM 14.6 29.4L 13.9 27.8L 15.5 27.1L 16.2 28.7L 14.6 29.4ZM 13.7 27.4L 13 25.8L 14.6 25.1L 15.3 26.7L 13.7 27.4ZM 12.8 25.4L 12.1 23.8L 13.7 23.1L 14.4 24.7L 12.8 25.4ZM 12 23.4L 11.3 21.8L 12.9 21.1L 13.6 22.7L 12 23.4ZM 11.1 21.4L 10.4 19.8L 12 19.1L 12.7 20.7L 11.1 21.4ZM 10.2 19.3L 9.5 17.7L 11.1 17L 11.8 18.6L 10.2 19.3ZM 9.39999 17.3L 8.70001 15.7L 10.3 15L 11 16.6L 9.39999 17.3ZM 9 17.5L 7.39999 18.2L 6.70001 16.6L 8.29999 15.9L 9 17.5ZM 9.20001 17.9L 9.89999 19.5L 8.29999 20.2L 7.60001 18.6L 9.20001 17.9ZM 7.79999 20.4L 6.20001 21.1L 5.5 19.5L 7.10001 18.8L 7.79999 20.4ZM 8 20.8L 8.70001 22.4L 7.10001 23.1L 6.39999 21.5L 8 20.8ZM 8.89999 22.8L 9.60001 24.4L 8 25.1L 7.29999 23.5L 8.89999 22.8ZM 7.60001 25.3L 6 26L 5.29999 24.4L 6.89999 23.7L 7.60001 25.3ZM 7.70001 25.7L 8.39999 27.3L 6.79999 28L 6.10001 26.4L 7.70001 25.7ZM 8.60001 27.7L 9.29999 29.3L 7.70001 30L 7 28.4L 8.60001 27.7ZM 9.5 29.7L 10.2 31.3L 8.60001 32L 7.89999 30.4L 9.5 29.7ZM 10.3 31.7L 11 33.3L 9.39999 34L 8.70001 32.4L 10.3 31.7ZM 11.2 33.7L 11.9 35.3L 10.3 36L 9.60001 34.4L 11.2 33.7ZM 12.1 35.7L 12.8 37.3L 11.2 38L 10.5 36.4L 12.1 35.7ZM 12.9 37.7L 13.6 39.3L 12 40L 11.3 38.4L 12.9 37.7ZM 13.8 39.7L 14.5 41.3L 12.9 42L 12.2 40.4L 13.8 39.7ZM 14.7 41.7L 15.4 43.3L 13.8 44L 13.1 42.4L 14.7 41.7ZM 15.1 41.5L 16.7 40.8L 17.4 42.4L 15.8 43.1L 15.1 41.5ZM 17.5 42.8L 18.2 44.4L 16.6 45.1L 15.9 43.5L 17.5 42.8ZM 18.4 44.8L 19.1 46.4L 17.5 47.1L 16.8 45.5L 18.4 44.8ZM 18.8 44.6L 20.4 43.9L 21.1 45.5L 19.5 46.2L 18.8 44.6ZM 21.2 45.9L 21.9 47.5L 20.3 48.2L 19.6 46.6L 21.2 45.9ZM 22.1 47.9L 22.8 49.5L 21.2 50.2L 20.5 48.6L 22.1 47.9ZM 22.5 47.8L 24.1 47.1L 24.8 48.7L 23.2 49.4L 22.5 47.8ZM 24.5 46.9L 26.1 46.2L 26.8 47.8L 25.2 48.5L 24.5 46.9ZM 24.3 46.5L 23.6 44.9L 25.2 44.2L 25.9 45.8L 24.3 46.5ZM 23.5 44.5L 22.8 42.9L 24.4 42.2L 25.1 43.8L 23.5 44.5ZM 22.6 42.5L 21.9 40.9L 23.5 40.2L 24.2 41.8L 22.6 42.5ZM 21.7 40.5L 21 38.9L 22.6 38.2L 23.3 39.8L 21.7 40.5ZM 20.9 38.5L 20.2 36.9L 21.8 36.2L 22.5 37.8L 20.9 38.5ZM 20 36.5L 19.3 34.9L 20.9 34.2L 21.6 35.8L 20 36.5ZM 19.2 34.5L 18.5 32.9L 20.1 32.2L 20.8 33.8L 19.2 34.5ZM 18.3 32.5L 17.6 30.9L 19.2 30.2L 19.9 31.8L 18.3 32.5ZM 17.4 30.5L 16.7 28.9L 18.3 28.2L 19 29.8L 17.4 30.5ZM 16.6 28.5L 15.9 26.9L 17.5 26.2L 18.2 27.8L 16.6 28.5ZM 15.7 26.5L 15 24.9L 16.6 24.2L 17.3 25.8L 15.7 26.5ZM 14.8 24.5L 14.1 22.9L 15.7 22.2L 16.4 23.8L 14.8 24.5ZM 14 22.5L 13.3 20.9L 14.9 20.2L 15.6 21.8L 14 22.5ZM 13.1 20.5L 12.4 18.9L 14 18.2L 14.7 19.8L 13.1 20.5ZM 12.2 18.5L 11.5 16.9L 13.1 16.2L 13.8 17.8L 12.2 18.5ZM 11.4 16.5L 10.7 14.9L 12.3 14.2L 13 15.8L 11.4 16.5ZM 10.5 14.5L 9.79999 12.9L 11.4 12.2L 12.1 13.8L 10.5 14.5ZM 9.70001 12.5L 9 10.9L 10.6 10.2L 11.3 11.8L 9.70001 12.5ZM 9.29999 12.7L 7.70001 13.4L 7 11.8L 8.60001 11.1L 9.29999 12.7ZM 9.39999 13.1L 10.1 14.7L 8.5 15.4L 7.79999 13.8L 9.39999 13.1ZM 8.10001 15.5L 6.5 16.2L 5.79999 14.6L 7.39999 13.9L 8.10001 15.5ZM 6.10001 16.4L 4.5 17.1L 3.79999 15.5L 5.39999 14.8L 6.10001 16.4ZM 6.29999 16.8L 7 18.4L 5.39999 19.1L 4.70001 17.5L 6.29999 16.8ZM 5 19.2L 3.39999 19.9L 2.70001 18.3L 4.29999 17.6L 5 19.2ZM 5.20001 19.6L 5.89999 21.2L 4.29999 21.9L 3.60001 20.3L 5.20001 19.6ZM 6 21.6L 6.70001 23.2L 5.10001 23.9L 4.39999 22.3L 6 21.6ZM 4.70001 24.1L 3.10001 24.8L 2.39999 23.2L 4 22.5L 4.70001 24.1ZM 4.89999 24.5L 5.60001 26.1L 4 26.8L 3.29999 25.2L 4.89999 24.5ZM 5.70001 26.5L 6.39999 28.1L 4.79999 28.8L 4.10001 27.2L 5.70001 26.5ZM 6.60001 28.5L 7.29999 30.1L 5.70001 30.8L 5 29.2L 6.60001 28.5ZM 7.5 30.5L 8.20001 32.1L 6.60001 32.8L 5.89999 31.2L 7.5 30.5ZM 8.29999 32.5L 9 34.1L 7.39999 34.8L 6.70001 33.2L 8.29999 32.5ZM 9.20001 34.5L 9.89999 36.1L 8.29999 36.8L 7.60001 35.2L 9.20001 34.5ZM 10.1 36.5L 10.8 38.1L 9.20001 38.8L 8.5 37.2L 10.1 36.5ZM 10.9 38.5L 11.6 40.1L 10 40.8L 9.29999 39.2L 10.9 38.5ZM 11.8 40.5L 12.5 42.1L 10.9 42.8L 10.2 41.2L 11.8 40.5ZM 12.7 42.5L 13.4 44.1L 11.8 44.8L 11.1 43.2L 12.7 42.5ZM 13.5 44.5L 14.2 46.1L 12.6 46.8L 11.9 45.2L 13.5 44.5ZM 13.9 44.4L 15.5 43.7L 16.2 45.3L 14.6 46L 13.9 44.4ZM 16.4 45.7L 17.1 47.3L 15.5 48L 14.8 46.4L 16.4 45.7ZM 17.2 47.7L 17.9 49.3L 16.3 50L 15.6 48.4L 17.2 47.7ZM 17.6 47.5L 19.2 46.8L 19.9 48.4L 18.3 49.1L 17.6 47.5ZM 20.1 48.8L 20.8 50.4L 19.2 51.1L 18.5 49.5L 20.1 48.8ZM 21 50.8L 21.7 52.4L 20.1 53.1L 19.4 51.5L 21 50.8ZM 21.4 50.6L 23 49.9L 23.7 51.5L 22.1 52.2L 21.4 50.6ZM 23.4 49.8L 25 49.1L 25.7 50.7L 24.1 51.4L 23.4 49.8ZM 25.4 48.9L 27 48.2L 27.7 49.8L 26.1 50.5L 25.4 48.9ZM 27.4 48L 29 47.3L 29.7 48.9L 28.1 49.6L 27.4 48ZM 27.2 47.6L 26.5 46L 28.1 45.3L 28.8 46.9L 27.2 47.6ZM 26.3 45.6L 25.6 44L 27.2 43.3L 27.9 44.9L 26.3 45.6ZM 25.5 43.6L 24.8 42L 26.4 41.3L 27.1 42.9L 25.5 43.6ZM 24.6 41.6L 23.9 40L 25.5 39.3L 26.2 40.9L 24.6 41.6ZM 23.8 39.6L 23.1 38L 24.7 37.3L 25.4 38.9L 23.8 39.6ZM 22.9 37.6L 22.2 36L 23.8 35.3L 24.5 36.9L 22.9 37.6ZM 22 35.6L 21.3 34L 22.9 33.3L 23.6 34.9L 22 35.6ZM 21.2 33.6L 20.5 32L 22.1 31.3L 22.8 32.9L 21.2 33.6ZM 20.3 31.6L 19.6 30L 21.2 29.3L 21.9 30.9L 20.3 31.6ZM 19.4 29.6L 18.7 28L 20.3 27.3L 21 28.9L 19.4 29.6ZM 18.6 27.6L 17.9 26L 19.5 25.3L 20.2 26.9L 18.6 27.6ZM 17.7 25.6L 17 24L 18.6 23.3L 19.3 24.9L 17.7 25.6ZM 16.8 23.6L 16.1 22L 17.7 21.3L 18.4 22.9L 16.8 23.6ZM 16 21.6L 15.3 20L 16.9 19.3L 17.6 20.9L 16 21.6ZM 15.1 19.6L 14.4 18L 16 17.3L 16.7 18.9L 15.1 19.6ZM 14.2 17.6L 13.5 16L 15.1 15.3L 15.8 16.9L 14.2 17.6ZM 13.4 15.6L 12.7 14L 14.3 13.3L 15 14.9L 13.4 15.6ZM 12.5 13.6L 11.8 12L 13.4 11.3L 14.1 12.9L 12.5 13.6ZM 11.7 11.6L 11 10L 12.6 9.29999L 13.3 10.9L 11.7 11.6ZM 10.8 9.60001L 10.1 8L 11.7 7.29999L 12.4 8.89999L 10.8 9.60001ZM 10.4 9.79999L 8.79999 10.5L 8.10001 8.89999L 9.70001 8.20001L 10.4 9.79999ZM 8.39999 10.7L 6.79999 11.4L 6.10001 9.79999L 7.70001 9.10001L 8.39999 10.7ZM 6.39999 11.5L 4.79999 12.2L 4.10001 10.6L 5.70001 9.89999L 6.39999 11.5ZM 6.60001 11.9L 7.29999 13.5L 5.70001 14.2L 5 12.6L 6.60001 11.9ZM 5.29999 14.4L 3.70001 15.1L 3 13.5L 4.60001 12.8L 5.29999 14.4ZM 1.79999 16.3L 3.39999 15.6L 4.10001 17.2L 2.5 17.9L 1.79999 16.3ZM 0.700012 19.2L 2.29999 18.5L 3 20.1L 1.39999 20.8L 0.700012 19.2ZM 1.5 21.2L 3.10001 20.5L 3.79999 22.1L 2.20001 22.8L 1.5 21.2ZM 0.399994 24.1L 2 23.4L 2.70001 25L 1.10001 25.7L 0.399994 24.1ZM 1.29999 26.1L 2.89999 25.4L 3.60001 27L 2 27.7L 1.29999 26.1ZM 2.10001 28.1L 3.70001 27.4L 4.39999 29L 2.79999 29.7L 2.10001 28.1ZM 3 30.1L 4.60001 29.4L 5.29999 31L 3.70001 31.7L 3 30.1ZM 3.89999 32.1L 5.5 31.4L 6.20001 33L 4.60001 33.7L 3.89999 32.1ZM 4.70001 34.1L 6.29999 33.4L 7 35L 5.39999 35.7L 4.70001 34.1ZM 5.60001 36.1L 7.20001 35.4L 7.89999 37L 6.29999 37.7L 5.60001 36.1ZM 6.5 38.1L 8.10001 37.4L 8.79999 39L 7.20001 39.7L 6.5 38.1ZM 7.29999 40.1L 8.89999 39.4L 9.60001 41L 8 41.7L 7.29999 40.1ZM 8.20001 42.1L 9.79999 41.4L 10.5 43L 8.89999 43.7L 8.20001 42.1ZM 9 44.1L 10.6 43.4L 11.3 45L 9.70001 45.7L 9 44.1ZM 10.6 47.7L 9.89999 46.1L 11.5 45.4L 12.2 47L 10.6 47.7ZM 12.8 47.2L 14.4 46.5L 15.1 48.1L 13.5 48.8L 12.8 47.2ZM 14.3 50.8L 13.6 49.2L 15.2 48.5L 15.9 50.1L 14.3 50.8ZM 16.5 50.4L 18.1 49.7L 18.8 51.3L 17.2 52L 16.5 50.4ZM 18.1 54L 17.4 52.4L 19 51.7L 19.7 53.3L 18.1 54ZM 20.9 55.1L 20.2 53.5L 21.8 52.8L 22.5 54.4L 20.9 55.1ZM 22.9 54.2L 22.2 52.6L 23.8 51.9L 24.5 53.5L 22.9 54.2ZM 24.9 53.4L 24.2 51.8L 25.8 51.1L 26.5 52.7L 24.9 53.4ZM 26.9 52.5L 26.2 50.9L 27.8 50.2L 28.5 51.8L 26.9 52.5ZM 28.9 51.6L 28.2 50L 29.8 49.3L 30.5 50.9L 28.9 51.6ZM 32.5 50.1L 30.9 50.8L 30.2 49.2L 31.8 48.5L 32.5 50.1ZM 31.7 48.1L 30.1 48.8L 29.4 47.2L 31 46.5L 31.7 48.1ZM 30.8 46.1L 29.2 46.8L 28.5 45.2L 30.1 44.5L 30.8 46.1ZM 29.9 44.1L 28.3 44.8L 27.6 43.2L 29.2 42.5L 29.9 44.1ZM 29.1 42.1L 27.5 42.8L 26.8 41.2L 28.4 40.5L 29.1 42.1ZM 28.2 40.1L 26.6 40.8L 25.9 39.2L 27.5 38.5L 28.2 40.1ZM 27.4 38.1L 25.8 38.8L 25.1 37.2L 26.7 36.5L 27.4 38.1ZM 26.5 36.1L 24.9 36.8L 24.2 35.2L 25.8 34.5L 26.5 36.1ZM 25.6 34.1L 24 34.8L 23.3 33.2L 24.9 32.5L 25.6 34.1ZM 24.8 32.1L 23.2 32.8L 22.5 31.2L 24.1 30.5L 24.8 32.1ZM 23.9 30.1L 22.3 30.8L 21.6 29.2L 23.2 28.5L 23.9 30.1ZM 23 28.1L 21.4 28.8L 20.7 27.2L 22.3 26.5L 23 28.1ZM 22.2 26.1L 20.6 26.8L 19.9 25.2L 21.5 24.5L 22.2 26.1ZM 21.3 24.1L 19.7 24.8L 19 23.2L 20.6 22.5L 21.3 24.1ZM 20.4 22.1L 18.8 22.8L 18.1 21.2L 19.7 20.5L 20.4 22.1ZM 19.6 20.1L 18 20.8L 17.3 19.2L 18.9 18.5L 19.6 20.1ZM 18.7 18.1L 17.1 18.8L 16.4 17.2L 18 16.5L 18.7 18.1ZM 17.9 16.1L 16.3 16.8L 15.6 15.2L 17.2 14.5L 17.9 16.1ZM 17 14.1L 15.4 14.8L 14.7 13.2L 16.3 12.5L 17 14.1ZM 16.1 12.1L 14.5 12.8L 13.8 11.2L 15.4 10.5L 16.1 12.1ZM 15.3 10.1L 13.7 10.8L 13 9.20001L 14.6 8.5L 15.3 10.1ZM 14.4 8.10001L 12.8 8.79999L 12.1 7.20001L 13.7 6.5L 14.4 8.10001ZM 12.8 4.5L 13.5 6.10001L 11.9 6.79999L 11.2 5.20001L 12.8 4.5ZM 10.8 5.29999L 11.5 6.89999L 9.89999 7.60001L 9.20001 6L 10.8 5.29999ZM 8.79999 6.20001L 9.5 7.79999L 7.89999 8.5L 7.20001 6.89999L 8.79999 6.20001ZM 6.79999 7L 7.5 8.60001L 5.89999 9.29999L 5.20001 7.70001L 6.79999 7ZM 3.20001 8.60001L 4.79999 7.89999L 5.5 9.5L 3.89999 10.2L 3.20001 8.60001ZM 2.10001 11.5L 3.70001 10.8L 4.39999 12.4L 2.79999 13.1L 2.10001 11.5Z"/>
+<path id="path84_fill" d="M -1.2207e-05 3C 0.0999878 3 0.1 3.10001 0.2 3.10001C 0.3 3.20001 0.499994 3.29999 0.599994 3.39999C 0.899994 3.59999 1.29999 3.90001 1.59999 4.20001C 1.69999 4.30001 1.70001 4.29999 1.80001 4.39999L 2.99999 1.29999C 2.39999 0.899988 1.8 0.4 1.2 0L -1.2207e-05 3Z"/>
+<path id="path85_fill" d="M 3.1 1.5C 3 1.4 2.99999 1.39999 2.89999 1.29999C 2.59999 1.09999 2.29999 0.8 1.89999 0.5C 1.69999 0.3 1.50001 0.2 1.30001 0L -6.10352e-06 3.20001C 0.599994 3.70001 1.20001 4.10001 1.80001 4.60001L 3.1 1.5Z"/>
+<path id="path86_fill" d="M 13 25.4C 12.8 25.1 12.5 24.9 12.3 24.6C 12.2 24.5 12.1 24.4 12 24.3C 11.6 23.8 11.3 23.4 10.9 22.9C 10.8 22.8 10.7 22.7 10.6 22.5C 10.3 22 9.89999 21.5 9.59999 21C 9.49999 20.9 9.40001 20.8 9.40001 20.6C 9.10001 20.1 8.79999 19.6 8.49999 19.1C 8.39999 19 8.40001 18.8 8.30001 18.7C 8.00001 18.2 7.69999 17.7 7.49999 17.2C 7.39999 17.1 7.40001 16.9 7.30001 16.8C 7.00001 16.3 6.79999 15.8 6.59999 15.2C 6.59999 15.1 6.49999 15.1 6.49999 15C 6.49999 14.9 6.40001 14.9 6.40001 14.8C 6.20001 14.3 6.00001 13.7 5.80001 13.2C 5.70001 13.1 5.7 12.9 5.7 12.8C 5.5 12.2 5.29999 11.7 5.09999 11.1C 5.09999 11 4.99999 10.8 4.99999 10.7C 4.79999 10.1 4.69999 9.59999 4.49999 8.99999C 4.49999 8.89999 4.40001 8.69999 4.40001 8.59999C 4.30001 7.99999 4.09999 7.40001 3.99999 6.90001C 3.99999 6.80001 3.90001 6.59999 3.90001 6.49999C 3.80001 5.89999 3.69999 5.3 3.59999 4.7C 3.59999 4.5 3.59999 4.4 3.49999 4.2C 3.39999 3.8 3.40001 3.30001 3.40001 2.90001C 3.40001 2.50001 3.30001 1.99999 3.30001 1.59999C 3.30001 1.49999 3.30001 1.40001 3.30001 1.30001L -1.2207e-05 -1.2207e-05C -1.2207e-05 5.29999 1.09999 10.9 3.49999 16.3C 5.59999 21.1 8.4 25.3 11.7 28.8L 13 25.4Z"/>
+<path id="path87_fill" d="M 3.20001 3.5C 3.20001 3.4 3.20001 3.30001 3.20001 3.20001C 3.20001 2.80001 3.29999 2.39999 3.39999 1.89999C 3.39999 1.69999 3.4 1.59999 3.5 1.39999C 3.5 1.29999 3.5 1.30001 3.5 1.20001L 0.399994 0C 0.299994 0.7 0.1 1.50001 0 2.20001L 3.20001 3.5Z"/>
+<path id="path88_fill" d="M 0.2 -1.2207e-05C 0.2 0.299988 0.199994 0.500006 0.0999939 0.800006C 0.0999939 1.20001 -1.2207e-05 1.59999 -1.2207e-05 1.99999C -1.2207e-05 2.09999 -1.2207e-05 2.20001 -1.2207e-05 2.30001L 3.09999 3.49999C 3.19999 2.79999 3.30001 2.00001 3.30001 1.30001L 0.2 -1.2207e-05Z"/>
+<path id="path89_fill" d="M 6.10352e-06 3.19999C 0.100006 3.29999 0.0999878 3.30001 0.199988 3.40001C 0.499988 3.70001 0.800012 4.00001 1.10001 4.40001C 1.40001 4.70001 1.70001 5.10001 2.00001 5.40001C 2.10001 5.50001 2.19999 5.59999 2.29999 5.69999C 2.69999 6.19999 3 6.59999 3.4 7.09999C 3.5 7.19999 3.59999 7.30001 3.69999 7.50001C 3.99999 8.00001 4.39999 8.50001 4.69999 9.00001C 4.79999 9.10001 4.9 9.20001 4.9 9.40001C 5.2 9.90001 5.49999 10.4 5.79999 10.9C 5.89999 11 5.90001 11.2 6.00001 11.3C 6.30001 11.8 6.59999 12.3 6.79999 12.8C 6.89999 12.9 6.90001 13.1 7.00001 13.2C 7.30001 13.7 7.49999 14.2 7.69999 14.8C 7.69999 14.9 7.79999 14.9 7.79999 15C 7.79999 15.1 7.9 15.1 7.9 15.2C 8.1 15.7 8.30001 16.3 8.50001 16.8C 8.60001 16.9 8.59999 17.1 8.69999 17.2C 8.89999 17.8 9.09999 18.3 9.29999 18.9C 9.29999 19 9.4 19.2 9.4 19.3C 9.6 19.9 9.7 20.4 9.9 21C 9.9 21.1 10 21.3 10 21.4C 10.1 22 10.3 22.6 10.4 23.1C 10.4 23.2 10.5 23.4 10.5 23.5C 10.6 24.1 10.7 24.7 10.8 25.3C 10.8 25.5 10.8 25.6 10.9 25.8C 10.9 26.2 11 26.5 11 26.9L 14.4 28.2C 14.2 23.5 13 18.5 11 13.7C 8.60001 8.19999 5.40001 3.60001 1.50001 1.2207e-05L 6.10352e-06 3.19999Z"/>
+<path id="path90_fill" d="M 4.80001 2.39999C 4.70001 2.39999 4.6 2.29999 4.6 2.29999C 4.3 2.09999 3.9 1.90001 3.6 1.70001C 3.2 1.40001 2.79999 1.19999 2.39999 0.899994C 2.29999 0.799994 2.09999 0.700006 1.99999 0.600006C 1.69999 0.400006 1.50001 0.2 1.20001 1.13687e-13L -6.10352e-06 3.10001C 1.19999 4.00001 2.50001 4.69999 3.80001 5.39999L 4.80001 2.39999Z"/>
+<path id="path91_fill" d="M 6.10352e-06 3.09999C 0.300006 3.29999 0.499994 3.5 0.799994 3.7C 1.29999 4.1 1.79999 4.49999 2.29999 4.99999C 2.39999 5.09999 2.50001 5.20001 2.60001 5.30001C 2.90001 5.60001 3.20001 5.9 3.50001 6.2L 4.79999 2.90001C 3.69999 1.80001 2.49999 0.899988 1.29999 -1.2207e-05L 6.10352e-06 3.09999Z"/>
+<path id="path92_fill" d="M -6.10352e-06 2.99999C 0.599994 3.29999 1.20001 3.59999 1.70001 3.89999C 2.10001 4.09999 2.40001 4.29999 2.70001 4.49999C 3.10001 4.69999 3.40001 4.90001 3.80001 5.20001L 4.99999 2.1C 3.69999 1.3 2.4 0.599994 1.1 -6.10352e-06L -6.10352e-06 2.99999Z"/>
+<path id="path93_fill" d="M 4.70001 3.40001C 4.40001 3.10001 4.09999 2.89999 3.79999 2.59999C 3.69999 2.49999 3.6 2.4 3.5 2.3C 3.1 1.9 2.79999 1.59999 2.39999 1.19999C 2.09999 0.899994 1.8 0.599994 1.5 0.199994C 1.4 0.0999939 1.39999 0.100012 1.29999 1.2207e-05L 0 3.40001C 1.1 4.50001 2.19999 5.59999 3.39999 6.59999L 4.70001 3.40001Z"/>
+<path id="path94_fill" d="M 0.899994 6.10352e-06C 0.899994 0.300006 0.799988 0.700006 0.799988 1.00001C 0.799988 1.20001 0.700012 1.30001 0.700012 1.50001C 0.600012 2.00001 0.499994 2.5 0.399994 2.9C 0.299994 3.3 0.200006 3.70001 0.100006 4.10001C 0.100006 4.20001 0.1 4.29999 1.13687e-13 4.29999L 3 5.50001C 3.4 4.10001 3.69999 2.69999 3.89999 1.19999L 0.899994 6.10352e-06Z"/>
+<path id="path95_fill" d="M 3.20001 5.90001C 3.20001 5.50001 3.20001 5.09999 3.20001 4.59999C 3.20001 4.39999 3.20001 4.29999 3.20001 4.09999C 3.20001 3.49999 3.20001 2.79999 3.30001 2.19999C 3.30001 1.89999 3.29999 1.59999 3.39999 1.19999L 0.300012 1.2207e-05C 0.100012 1.50001 -6.10352e-06 2.99999 -6.10352e-06 4.59999L 3.20001 5.90001Z"/>
+<path id="path96_fill" d="M -6.10352e-06 6.10352e-06C -6.10352e-06 0.100006 -6.10352e-06 0.199994 -6.10352e-06 0.299994C -6.10352e-06 0.699994 0.1 1.20001 0.1 1.60001C 0.1 2.10001 0.1 2.60001 0.1 3.10001C 0.1 3.30001 0.1 3.40001 0.1 3.60001C 0.1 4.00001 0.1 4.39999 0.1 4.79999L 3.30001 6.10001C 3.40001 4.60001 3.39999 3 3.39999 1.4L -6.10352e-06 6.10352e-06Z"/>
+<path id="path97_fill" d="M 3.1 5.40001C 3.2 5.00001 3.30001 4.6 3.30001 4.2C 3.40001 3.8 3.5 3.39999 3.6 2.99999C 3.8 2.39999 3.9 1.8 4.1 1.2L 1.1 -1.2207e-05C 0.6 1.39999 0.199994 2.8 -6.10352e-06 4.2L 3.1 5.40001Z"/>
+<path id="path98_fill" d="M 6.10352e-06 14.2L 3.00001 15.4C 3.00001 15.3 3.10001 15.2 3.10001 15.1C 3.20001 14.9 3.19999 14.7 3.29999 14.5C 3.59999 13.8 3.89999 13 4.29999 12.3C 4.39999 12 4.59999 11.8 4.69999 11.5C 4.99999 11 5.30001 10.4 5.60001 9.9C 5.70001 9.8 5.8 9.60001 5.9 9.50001C 6.3 9.00001 6.70001 8.4 7.10001 7.9C 7.20001 7.8 7.3 7.70001 7.4 7.50001C 7.8 7.00001 8.29999 6.59999 8.69999 6.19999C 8.79999 6.09999 8.90001 6 9.00001 5.9C 9.50001 5.5 9.9 5.09999 10.4 4.79999C 10.5 4.69999 10.6 4.60001 10.8 4.50001C 11.3 4.20001 11.8 3.90001 12.3 3.60001C 12.4 3.50001 12.6 3.5 12.7 3.4C 13 3.3 13.2 3.10001 13.5 3.00001L 12.2 6.10352e-06C 6.39999 2.70001 2.20001 7.79999 6.10352e-06 14.2Z"/>
+<path id="path99_fill" d="M 2 4.35883C 2.1 4.35883 2.29999 4.25882 2.39999 4.25882C 2.99999 4.05882 3.50001 3.85882 4.10001 3.75882C 4.20001 3.75882 4.4 3.65885 4.5 3.65885C 5.1 3.55885 5.69999 3.45883 6.29999 3.35883C 6.49999 3.35883 6.59999 3.35883 6.79999 3.35883C 7.39999 3.35883 8.00001 3.25882 8.70001 3.25882C 8.90001 3.25882 9.00001 3.25882 9.20001 3.25882C 9.90001 3.25882 10.5 3.35883 11.2 3.45883C 11.4 3.45883 11.5 3.55884 11.7 3.55884C 12.3 3.65884 12.9 3.75883 13.5 3.95883C 13.8 4.05883 14.1 4.15885 14.4 4.15885C 15.1 4.35885 15.9 4.65883 16.6 4.95883C 16.8 5.05883 17 5.15882 17.2 5.25882C 17.3 5.25882 17.4 5.35883 17.5 5.35883L 18.7 2.35883C 12.5 -0.441172 5.9 -0.841154 5.68434e-14 1.65885L 1.29999 4.65885C 1.49999 4.55885 1.8 4.45883 2 4.35883Z"/>
+<path id="path100_fill" d="M 30.5 29.8L 26.6 20.8C 25.8 19.5 24.8 18 23.6 16.4C 20.5 12.3 16.9 8.89999 13.1 6.19999C 15.5 6.09999 17.9 5.50001 20.2 4.50001L 18.9 1.50001C 18.6 1.60001 18.4 1.7 18.1 1.8C 18 1.9 17.8 1.90001 17.7 2.00001C 17.1 2.20001 16.6 2.40001 16 2.50001C 15.9 2.50001 15.7 2.59999 15.6 2.59999C 15 2.69999 14.4 2.80001 13.8 2.90001C 13.6 2.90001 13.5 2.90001 13.3 2.90001C 12.7 2.90001 12.1 3.00001 11.4 3.00001C 11.2 3.00001 11.1 3.00001 10.9 3.00001C 10.2 3.00001 9.59999 2.9 8.89999 2.8C 8.69999 2.8 8.59999 2.69999 8.39999 2.69999C 7.69999 2.59999 6.99999 2.39999 6.29999 2.19999C 6.09999 2.09999 5.89999 2.10001 5.79999 2.00001C 4.99999 1.80001 4.30001 1.49999 3.60001 1.19999C 3.40001 1.09999 3.2 1.00001 3 0.900006C 2.4 0.600006 1.80001 0.300012 1.20001 1.2207e-05L -5.68434e-14 3.00001C 1.2 3.60001 2.40001 4.19999 3.70001 4.59999C 19.5 10.9 26.5 27.2 26.5 27.2L 28 30.7L 30.5 29.8Z"/>
+<path id="path101_fill" d="M 11.1 -6.10352e-06C 10.9 0.599994 10.7 1.29999 10.5 1.89999C 10.4 2.09999 10.4 2.29999 10.3 2.49999C 10 3.29999 9.70001 4.00001 9.30001 4.70001C 9.20001 4.90001 9.09999 5.00001 8.99999 5.20001C 8.69999 5.80001 8.29999 6.49999 7.89999 6.99999C 7.79999 7.09999 7.7 7.29999 7.6 7.39999C 7.2 7.89999 6.79999 8.49999 6.39999 8.99999C 6.29999 9.09999 6.2 9.19999 6.1 9.39999C 5.7 9.89999 5.20001 10.3 4.80001 10.7C 4.70001 10.8 4.59999 10.9 4.49999 11C 3.99999 11.4 3.6 11.8 3.1 12.1C 3 12.2 2.90001 12.3 2.70001 12.3C 2.20001 12.6 1.70001 12.9 1.20001 13.2C 1.10001 13.3 0.900012 13.3 0.800012 13.4C 0.500012 13.5 0.299994 13.7 -6.10352e-06 13.8L 1.30001 16.8C 3.60001 15.8 5.59999 14.4 7.39999 12.7C 6.69999 17.4 6.8 22.3 7.6 27.4C 7.9 29.4 8.30001 31.1 8.70001 32.6L 12.6 41.6L 12.1 41.8L 15.1 40.5L 13.6 37C 13.6 37 6.50001 20.7 12.8 4.89999C 13.3 3.69999 13.8 2.4 14.1 1.1L 11.1 -6.10352e-06Z"/>
+<path id="path102_fill" d="M 6.10352e-06 0.300006L 3.9 9.2L 4.4 8.99999L 0.500006 -1.2207e-05L 6.10352e-06 0.300006Z"/>
+<path id="path103_fill" d="M 3.9 9.19999L 4.4 9.00001L 0.500006 6.10352e-06L 6.10352e-06 0.199988L 3.9 9.19999Z"/>
+<path id="path104_fill" d="M 4.90001 4.29999L 3.09999 0L 1.2207e-05 2.5L 0.599988 3.79999L 0.400006 6.29999L 4.90001 4.29999Z"/>
+<path id="path105_fill" d="M 6.10352e-06 1.89999L 0.4 2.89999C 0.6 3.49999 1.29999 3.69999 1.79999 3.49999L 5.29999 1.99999L 4.4 -6.10352e-06L 6.10352e-06 1.89999Z"/>
+<path id="path106_fill" d="M 0.8 3.89999L 4.3 2.39999C 4.8 2.19999 5.10001 1.49999 4.90001 0.999994L 4.50001 -6.10352e-06L 1.2207e-05 1.89999L 0.8 3.89999Z"/>
+<path id="path107_fill" d="M -1.2207e-05 2.4L 1.59999 6.00001L 4.7 3.60001L 3.09999 6.10352e-06L -1.2207e-05 2.4Z"/>
+<path id="path108_fill" d="M 1.2207e-05 2.4L 1.50001 6.00001L 4.59999 3.50001L 3.09999 6.10352e-06L 1.2207e-05 2.4Z"/>
+<path id="path109_fill" d="M 6.10352e-06 2.4L 1.50001 6.00001L 4.60001 3.60001L 3.10001 6.10352e-06L 6.10352e-06 2.4Z"/>
+<path id="path110_fill" d="M -6.10352e-06 2.4L 1.49999 6.00001L 4.6 3.50001L 3.1 6.10352e-06L -6.10352e-06 2.4Z"/>
+<path id="path111_fill" d="M 0 2.4L 1.60001 6.00001L 4.70001 3.60001L 3.10001 6.10352e-06L 0 2.4Z"/>
+<path id="path112_fill" d="M -6.10352e-06 2.4L 1.49999 6.00001L 4.6 3.60001L 3.1 6.10352e-06L -6.10352e-06 2.4Z"/>
+<path id="path113_fill" d="M 6.10352e-06 2.4L 1.60001 6.00001L 4.69999 3.50001L 3.10001 6.10352e-06L 6.10352e-06 2.4Z"/>
+<path id="path114_fill" d="M 1.80001 6.69999L 6.30001 4.79999L 4.49999 3.19999L 3.09999 6.10352e-06L -1.2207e-05 2.4L 1.80001 6.69999Z"/>
+<path id="path115_fill" d="M 0 1.33749L 1 3.63751L 4.10001 1.23751L 3.70001 0.337488C 3.60001 0.0374878 3.3 -0.0625 3 0.0375L 0 1.33749Z"/>
+<path id="path116_fill" d="M 0 2.50001L 0.200012 2.9L 3.29999 0.500006L 3.10001 6.10352e-06L 0 2.50001Z"/>
+<path id="path117_fill" d="M 1.2207e-05 2.50001L 0.199994 2.9L 3.3 0.500006L 3.09999 6.10352e-06L 1.2207e-05 2.50001Z"/>
+<path id="path118_fill" d="M -6.10352e-06 2.50001L 0.200006 2.9L 3.30001 0.500006L 3.1 6.10352e-06L -6.10352e-06 2.50001Z"/>
+<path id="path119_fill" d="M -6.10352e-06 2.40001L 0.200006 2.8L 3.30001 0.400006L 3.1 1.2207e-05L -6.10352e-06 2.40001Z"/>
+<path id="path120_fill" d="M 6.10352e-06 2.40001L 0.199988 2.8L 3.29999 0.400006L 3.10001 1.2207e-05L 6.10352e-06 2.40001Z"/>
+<path id="path121_fill" d="M -6.10352e-06 2.40001L 0.1 2.8L 3.20001 0.400006L 3.1 1.2207e-05L -6.10352e-06 2.40001Z"/>
+<path id="path122_fill" d="M 0.199988 2.8L 3.29999 0.400006L 3.10001 1.2207e-05L 6.10352e-06 2.40001L 0.199988 2.8Z"/>
+<path id="path123_fill" d="M 4.3375 2.30001L 3.3375 -1.2207e-05L 2.8375 0.2L 0.3375 1.30001C 0.0375 1.40001 -0.0624878 1.69999 0.0375122 1.99999L 1.23749 4.7L 4.3375 2.30001Z"/>
+<path id="path124_fill" d="M 3.09999 0L -1.2207e-05 2.5L 1.49999 6.10001L 4.59999 3.60001L 3.09999 0Z"/>
+<path id="path125_fill" d="M 3.10001 0L 0 2.5L 1.5 6.10001L 4.60001 3.60001L 3.10001 0Z"/>
+<path id="path126_fill" d="M 4.60001 3.60001L 3.10001 0L 6.10352e-06 2.5L 1.50001 6L 4.60001 3.60001Z"/>
+<path id="path127_fill" d="M 4.70001 3.60001L 3.10001 0L 0 2.5L 1.60001 6L 4.70001 3.60001Z"/>
+<path id="path128_fill" d="M 4.59999 3.60001L 3.09999 0L -1.2207e-05 2.5L 1.59999 6L 4.59999 3.60001Z"/>
+<path id="path129_fill" d="M 3.09999 0L 1.2207e-05 2.5L 1.59999 6.10001L 4.69999 3.60001L 3.09999 0Z"/>
+<path id="path130_fill" d="M 4.70001 3.60001L 3.1 0L -6.10352e-06 2.5L 1.6 6.10001L 4.70001 3.60001Z"/>
+<path id="path131_fill" d="M 3.30001 0.4L 3.1 6.10352e-06L -6.10352e-06 2.4L 0.200006 2.9L 3.30001 0.4Z"/>
+<path id="path132_fill" d="M 3.29999 0.4L 3.10001 6.10352e-06L 6.10352e-06 2.4L 0.199988 2.9L 3.29999 0.4Z"/>
+<path id="path133_fill" d="M 3.20001 0.4L 2.99999 6.10352e-06L -6.10352e-06 2.4L 0.1 2.9L 3.20001 0.4Z"/>
+<path id="path134_fill" d="M 3.09999 6.10352e-06L -1.2207e-05 2.50001L 0.2 2.9L 3.30001 0.4L 3.09999 6.10352e-06Z"/>
+<path id="path135_fill" d="M 3.10001 6.10352e-06L 0 2.50001L 0.200012 2.9L 3.29999 0.4L 3.10001 6.10352e-06Z"/>
+<path id="path136_fill" d="M 3.09999 6.10352e-06L -1.2207e-05 2.50001L 0.0999939 2.9L 3.2 0.4L 3.09999 6.10352e-06Z"/>
+<path id="path137_fill" d="M 3.29999 0.4L 3.10001 6.10352e-06L 0 2.50001L 0.200012 2.9L 3.29999 0.4Z"/>
+<path id="path138_fill" d="M 36.6 -1.2207e-05L 0 -1.2207e-05L 0 15L 36.6 15L 36.6 -1.2207e-05Z"/>
+<path id="path139_fill" d="M 69.3 -6.10352e-06L -6.10352e-06 -6.10352e-06L -6.10352e-06 15L 69.3 15L 69.3 -6.10352e-06Z"/>
+<path id="path140_fill" d="M 147.8 3.09999L 144.7 -1.2207e-05L 118.5 26.4L 29.6 26.4L 3.09999 -1.2207e-05L 3.05176e-06 3.09999L 26.7 29.8L 26.7 120.4L 120.6 120.4L 120.6 30.5L 147.8 3.09999Z"/>
+<path id="path141_fill" d="M 16.6 1.5L 15.1 0L 13.5 1.5L 12 0L 10.5 1.5L 8.99999 0L 7.49999 1.5L 5.99999 0L 4.49999 1.5L 2.99999 0L 1.49999 1.5L -6.10352e-06 0L -6.10352e-06 92.2L 18 92.2L 18 0L 16.6 1.5Z"/>
+<path id="path142_fill" d="M 2.3 1.2207e-05L 1.2207e-05 1.2207e-05L 1.2207e-05 93.9L 2.3 93.9L 2.3 1.2207e-05Z"/>
+<path id="path143_fill" d="M 2.6 15.5L 3.00001 15.6L 3.2 14.8L 4.79999 15.2L 4.6 16L 5.00001 16.1L 5.2 15.3L 6.79999 15.7L 6.6 16.5L 7.00001 16.6L 7.2 15.8L 8.79999 16.2L 8.6 17L 9.00001 17.1L 9.2 16.3L 10.8 16.7L 10.6 17.5L 11 17.6L 11.2 16.8L 12.8 17.2L 12.6 18L 13 18.1L 13.2 17.3L 14.8 17.7L 14.6 18.5L 15 18.6L 15.2 17.8L 16.8 18.2L 16.6 19L 17 19.1L 17.2 18.3L 18.8 18.7L 18.6 19.5L 19 19.6L 19.2 18.8L 20.8 19.2L 20.6 20L 21 20.1L 21.2 19.3L 22.8 19.7L 22.6 20.5L 23 20.6L 23.2 19.8L 24.8 20.2L 24.6 21L 25 21.1L 25.2 20.3L 26.8 20.7L 26.6 21.5L 27 21.6L 27.2 20.8L 28.8 21.2L 28.6 22L 29 22.1L 29.2 21.3L 30.8 21.7L 30.6 22.5L 31 22.6L 31.2 21.8L 32.8 22.2L 32.6 23L 33 23.1L 33.2 22.3L 34.8 22.7L 34.6 23.5L 35 23.6L 35.2 22.8L 36.8 23.2L 36.6 24L 37 24.1L 37.2 23.3L 38.8 23.7L 38.6 24.5L 39 24.6L 39.2 23.8L 40.8 24.2L 40.6 25L 41 25.1L 41.2 24.3L 42.8 24.7L 42.6 25.5L 43 25.6L 43.2 24.8L 44.8 25.2L 44.6 26L 45 26.1L 45.2 25.3L 46.8 25.7L 46.6 26.5L 47 26.6L 47.2 25.8L 48.8 26.2L 48.6 27L 49 27.1L 49.2 26.3L 54.8 27.6C 54.8 27.5 54.8 27.3 54.9 27.2L 49.3 25.9L 49.7 24.3L 55.1 25.6C 55.1 25.5 55.1 25.3 55.1 25.2L 49.8 24L 50.2 22.4L 55.1 23.5C 55.1 23.4 55.1 23.2 55.1 23.1L 50.3 22L 50.7 20.4L 54.9 21.4C 54.9 21.3 54.8 21.1 54.8 21L 50.8 20.1L 51.2 18.5L 54.3 19.2C 54.2 19.1 54.2 18.9 54.1 18.8L 51.2 18.1L 51.6 16.5L 53.4 16.9C 53.3 16.7 53.2 16.6 53.2 16.4L 51.8 16.1L 52.2 14.5C 52.1 14.3 52 14.2 51.9 14L 50.4 13.6L 50.7 12.3C 50.5 12 50.2 11.7 50 11.5L 48.9 11.2L 49.1 10.5C 49 10.4 48.9 10.3 48.8 10.2L 48.6 11.2L 47 10.8L 47.4 9.2L 48 9.30001C 47.7 9.00001 47.4 8.79999 47.2 8.59999L 47.2 8.7L 45.6 8.30001L 45.8 7.40001C 45.7 7.30001 45.6 7.19999 45.4 7.09999L 45.2 8.09999L 43.6 7.7L 44 6.09999L 44.3 6.2C 44 6 43.6 5.79999 43.3 5.59999L 42.2 5.30001L 42.3 4.99999C 42.2 4.89999 42.1 4.90001 41.9 4.80001L 41.8 5.30001L 40.2 4.90001L 40.4 3.99999C 40.3 3.89999 40.2 3.90001 40 3.80001L 39.8 4.7L 38.2 4.30001L 38.5 3.09999C 38.4 2.99999 38.3 3.00001 38.1 2.90001L 37.8 4.2L 36.2 3.80001L 36.6 2.30001C 36.5 2.30001 36.3 2.2 36.2 2.2L 35.8 3.80001L 34.2 3.40001L 34.6 1.7C 34.5 1.7 34.3 1.59999 34.2 1.59999L 33.8 3.30001L 32.2 2.90001L 32.6 1.09999C 32.5 1.09999 32.5 1.09999 32.4 1.09999C 32.3 1.09999 32.3 1.09999 32.2 1.09999L 31.8 2.90001L 30.2 2.49999L 30.6 0.800006C 30.5 0.800006 30.3 0.8 30.2 0.7L 29.8 2.40001L 28.2 1.99999L 28.6 0.400012C 28.5 0.400012 28.3 0.400006 28.2 0.300006L 27.8 1.80001L 26.2 1.40001L 26.5 0.0999939C 26.4 0.0999939 26.2 0.0999939 26.1 0.0999939L 25.8 1.30001L 24.2 0.900012L 24.4 -1.2207e-05C 24.3 -1.2207e-05 24.1 -1.2207e-05 24 -1.2207e-05L 23.8 0.900012L 22.2 0.499988L 22.3 -1.2207e-05C 22.2 -1.2207e-05 22 -1.2207e-05 21.9 -1.2207e-05L 21.8 0.400012L 20.7 0.0999939C 20.3 0.0999939 19.9 0.2 19.5 0.2L 19.8 0.300006L 19.4 1.90001L 17.8 1.49999L 18 0.499988C 17.9 0.499988 17.7 0.599994 17.6 0.599994L 17.4 1.49999L 15.8 1.09999L 15.8 0.999988C 15.5 1.09999 15.2 1.1 14.9 1.2C 14.8 1.2 14.7 1.20001 14.7 1.30001L 15.3 1.40001L 14.9 2.99999L 13.3 2.59999L 13.5 1.59999C 13.4 1.69999 13.2 1.70001 13.1 1.80001L 12.9 2.49999L 11.8 2.2C 11.5 2.3 11.1 2.5 10.8 2.7L 10.5 3.99999L 9.00001 3.59999C 8.80001 3.69999 8.70001 3.80001 8.50001 3.90001L 8.1 5.49999L 6.7 5.2C 6.5 5.4 6.3 5.5 6.1 5.7L 5.79999 6.99999L 4.9 6.80001C 4.8 6.90001 4.7 6.99999 4.6 7.09999L 5.79999 7.40001L 5.4 8.99999L 3.29999 8.49999C 3.19999 8.59999 3.10001 8.70001 3.00001 8.80001L 5.2 9.30001L 4.79999 10.9L 1.9 10.2C 1.8 10.3 1.8 10.4 1.7 10.6L 4.7 11.3L 4.29999 12.9L 0.9 12.1C 0.8 12.2 0.800003 12.3 0.700003 12.5L 4.2 13.3L 3.79999 14.9L 0.0999969 14.1C 0.0999969 14.2 6.10352e-06 14.4 6.10352e-06 14.5L 3.7 15.4L 2.6 15.5ZM 5.2 14.9L 5.6 13.3L 7.2 13.7L 6.79999 15.3L 5.2 14.9ZM 12.4 10.8L 14 11.2L 13.6 12.8L 12 12.4L 12.4 10.8ZM 11.6 12.2L 10 11.8L 10.4 10.2L 12 10.6L 11.6 12.2ZM 41.3 17.1L 39.7 16.7L 40.1 15.1L 41.7 15.5L 41.3 17.1ZM 42.1 15.6L 43.7 16L 43.3 17.6L 41.7 17.2L 42.1 15.6ZM 39.4 16.6L 37.8 16.2L 38.2 14.6L 39.8 15L 39.4 16.6ZM 20.6 10.6L 22.2 11L 21.8 12.6L 20.2 12.2L 20.6 10.6ZM 19.9 12.1L 18.3 11.7L 18.7 10.1L 20.3 10.5L 19.9 12.1ZM 22.6 11.1L 24.2 11.5L 23.8 13.1L 22.2 12.7L 22.6 11.1ZM 32 12.9L 30.4 12.5L 30.8 10.9L 32.4 11.3L 32 12.9ZM 32.8 11.4L 34.4 11.8L 34 13.4L 32.4 13L 32.8 11.4ZM 30.1 12.4L 28.5 12L 28.9 10.4L 30.5 10.8L 30.1 12.4ZM 28.1 12L 26.5 11.6L 26.9 9.99999L 28.5 10.4L 28.1 12ZM 26.2 11.5L 24.6 11.1L 25 9.49999L 26.6 9.90001L 26.2 11.5ZM 24.2 11.1L 22.6 10.7L 23 9.09999L 24.6 9.49999L 24.2 11.1ZM 24.5 11.5L 26.1 11.9L 25.7 13.5L 24.1 13.1L 24.5 11.5ZM 26.5 12L 28.1 12.4L 27.7 14L 26.1 13.6L 26.5 12ZM 28.4 12.4L 30 12.8L 29.6 14.4L 28 14L 28.4 12.4ZM 30.4 12.9L 32 13.3L 31.6 14.9L 30 14.5L 30.4 12.9ZM 32.3 13.3L 33.9 13.7L 33.5 15.3L 31.9 14.9L 32.3 13.3ZM 34.3 13.8L 35.9 14.2L 35.5 15.8L 33.9 15.4L 34.3 13.8ZM 36.2 14.2L 37.8 14.6L 37.4 16.2L 35.8 15.8L 36.2 14.2ZM 38.3 14.3L 38.7 12.7L 40.3 13.1L 39.9 14.7L 38.3 14.3ZM 37.9 14.2L 36.3 13.8L 36.7 12.2L 38.3 12.6L 37.9 14.2ZM 35.9 13.8L 34.3 13.4L 34.7 11.8L 36.3 12.2L 35.9 13.8ZM 34.8 11.5L 35.2 9.90001L 36.8 10.3L 36.4 11.9L 34.8 11.5ZM 34.4 11.4L 32.8 11L 33.2 9.40001L 34.8 9.80001L 34.4 11.4ZM 32.5 10.9L 30.9 10.5L 31.3 8.90001L 32.9 9.30001L 32.5 10.9ZM 30.5 10.5L 28.9 10.1L 29.3 8.49999L 30.9 8.90001L 30.5 10.5ZM 28.6 9.99999L 27 9.59999L 27.4 7.99999L 29 8.40001L 28.6 9.99999ZM 26.6 9.59999L 25 9.2L 25.4 7.59999L 27 7.99999L 26.6 9.59999ZM 24.7 9.09999L 23.1 8.7L 23.5 7.09999L 25.1 7.49999L 24.7 9.09999ZM 22.7 8.7L 21.1 8.30001L 21.5 6.7L 23.1 7.09999L 22.7 8.7ZM 22.6 8.99999L 22.2 10.6L 20.6 10.2L 21 8.59999L 22.6 8.99999ZM 20.3 10.2L 18.7 9.80001L 19.1 8.2L 20.7 8.59999L 20.3 10.2ZM 18.4 9.7L 16.8 9.30001L 17.2 7.7L 18.8 8.09999L 18.4 9.7ZM 18.3 10.1L 17.9 11.7L 16.3 11.3L 16.7 9.7L 18.3 10.1ZM 16 11.2L 14.4 10.8L 14.8 9.2L 16.4 9.59999L 16 11.2ZM 14 10.7L 12.4 10.3L 12.8 8.7L 14.4 9.09999L 14 10.7ZM 14.3 11.2L 15.9 11.6L 15.5 13.2L 13.9 12.8L 14.3 11.2ZM 16.3 11.7L 17.9 12.1L 17.5 13.7L 15.9 13.2L 16.3 11.7ZM 18.2 12.1L 19.8 12.5L 19.4 14.1L 17.8 13.7L 18.2 12.1ZM 20.2 12.6L 21.8 13L 21.4 14.6L 19.8 14.2L 20.2 12.6ZM 22.1 13L 23.7 13.4L 23.3 15L 21.7 14.6L 22.1 13ZM 24.1 13.5L 25.7 13.9L 25.3 15.5L 23.7 15.1L 24.1 13.5ZM 26 13.9L 27.6 14.3L 27.2 15.9L 25.6 15.5L 26 13.9ZM 28 14.4L 29.6 14.8L 29.2 16.4L 27.6 16L 28 14.4ZM 29.9 14.8L 31.5 15.2L 31.1 16.8L 29.5 16.4L 29.9 14.8ZM 31.9 15.3L 33.5 15.7L 33.1 17.3L 31.5 16.9L 31.9 15.3ZM 33.8 15.7L 35.4 16.1L 35 17.7L 33.4 17.3L 33.8 15.7ZM 35.8 16.2L 37.4 16.6L 37 18.2L 35.4 17.8L 35.8 16.2ZM 37.7 16.6L 39.3 17L 38.9 18.6L 37.3 18.2L 37.7 16.6ZM 39.7 17.1L 41.3 17.5L 40.9 19.1L 39.3 18.7L 39.7 17.1ZM 41.6 17.6L 43.2 18L 42.8 19.6L 41.2 19.2L 41.6 17.6ZM 43.6 18L 45.2 18.4L 44.8 20L 43.2 19.6L 43.6 18ZM 43.7 17.6L 44.1 16L 45.7 16.4L 45.3 18L 43.7 17.6ZM 44.1 15.7L 44.5 14.1L 46.1 14.5L 45.7 16.1L 44.1 15.7ZM 43.7 15.6L 42.1 15.2L 42.5 13.6L 44.1 14L 43.7 15.6ZM 41.8 15.1L 40.2 14.7L 40.6 13.1L 42.2 13.5L 41.8 15.1ZM 40.7 12.8L 41.1 11.2L 42.7 11.6L 42.3 13.2L 40.7 12.8ZM 40.3 12.7L 38.7 12.3L 39.1 10.7L 40.7 11.1L 40.3 12.7ZM 38.3 12.3L 36.7 11.9L 37.1 10.3L 38.7 10.7L 38.3 12.3ZM 37.2 9.99999L 37.6 8.40001L 39.2 8.80001L 38.8 10.4L 37.2 9.99999ZM 36.8 9.90001L 35.2 9.49999L 35.6 7.90001L 37.2 8.30001L 36.8 9.90001ZM 34.9 9.40001L 33.3 8.99999L 33.7 7.40001L 35.3 7.80001L 34.9 9.40001ZM 32.9 8.99999L 31.3 8.59999L 31.7 6.99999L 33.3 7.40001L 32.9 8.99999ZM 31 8.49999L 29.4 8.09999L 29.8 6.49999L 31.4 6.90001L 31 8.49999ZM 29 8.09999L 27.4 7.7L 27.8 6.09999L 29.4 6.49999L 29 8.09999ZM 27.1 7.59999L 25.5 7.2L 25.9 5.59999L 27.5 5.99999L 27.1 7.59999ZM 25.1 7.2L 23.5 6.80001L 23.9 5.2L 25.5 5.59999L 25.1 7.2ZM 23.2 6.7L 21.6 6.30001L 22 4.7L 23.6 5.09999L 23.2 6.7ZM 21.2 6.30001L 19.6 5.90001L 20 4.30001L 21.6 4.7L 21.2 6.30001ZM 21.1 6.59999L 20.7 8.2L 19.1 7.80001L 19.5 6.2L 21.1 6.59999ZM 18.8 7.80001L 17.2 7.40001L 17.6 5.80001L 19.2 6.2L 18.8 7.80001ZM 16.9 7.30001L 15.3 6.90001L 15.7 5.30001L 17.3 5.7L 16.9 7.30001ZM 16.8 7.7L 16.4 9.30001L 14.8 8.90001L 15.2 7.30001L 16.8 7.7ZM 14.5 8.80001L 12.9 8.40001L 13.3 6.80001L 14.9 7.2L 14.5 8.80001ZM 12.5 8.40001L 10.9 7.99999L 11.3 6.40001L 12.9 6.80001L 12.5 8.40001ZM 12.4 8.7L 12 10.3L 10.4 9.90001L 10.8 8.30001L 12.4 8.7ZM 10.1 9.80001L 8.50001 9.40001L 8.9 7.80001L 10.5 8.2L 10.1 9.80001ZM 10 10.2L 9.6 11.8L 8.00001 11.4L 8.4 9.80001L 10 10.2ZM 9.6 12.2L 9.2 13.8L 7.6 13.4L 8.00001 11.8L 9.6 12.2ZM 10 12.3L 11.6 12.7L 11.2 14.3L 9.6 13.9L 10 12.3ZM 11.9 12.7L 13.5 13.1L 13.1 14.7L 11.5 14.3L 11.9 12.7ZM 13.9 13.2L 15.5 13.6L 15.1 15.2L 13.5 14.8L 13.9 13.2ZM 15.8 13.6L 17.4 14L 17 15.6L 15.4 15.2L 15.8 13.6ZM 17.8 14.1L 19.4 14.5L 19 16.1L 17.4 15.7L 17.8 14.1ZM 19.7 14.5L 21.3 14.9L 20.9 16.5L 19.3 16.1L 19.7 14.5ZM 21.7 15L 23.3 15.4L 22.9 17L 21.3 16.6L 21.7 15ZM 23.6 15.4L 25.2 15.8L 24.8 17.4L 23.2 17L 23.6 15.4ZM 25.6 15.9L 27.2 16.3L 26.8 17.9L 25.2 17.5L 25.6 15.9ZM 27.5 16.3L 29.1 16.7L 28.7 18.3L 27.1 17.9L 27.5 16.3ZM 29.5 16.8L 31.1 17.2L 30.7 18.8L 29.1 18.4L 29.5 16.8ZM 31.4 17.2L 33 17.6L 32.6 19.2L 31 18.8L 31.4 17.2ZM 33.4 17.7L 35 18.1L 34.6 19.7L 33 19.3L 33.4 17.7ZM 35.3 18.1L 36.9 18.5L 36.5 20.1L 34.9 19.7L 35.3 18.1ZM 37.3 18.6L 38.9 19L 38.5 20.6L 36.9 20.2L 37.3 18.6ZM 39.2 19.1L 40.8 19.5L 40.4 21.1L 38.8 20.7L 39.2 19.1ZM 41.2 19.5L 42.8 19.9L 42.4 21.5L 40.8 21.1L 41.2 19.5ZM 43.1 20L 44.7 20.4L 44.3 22L 42.7 21.6L 43.1 20ZM 45.1 20.4L 46.7 20.8L 46.3 22.4L 44.7 22L 45.1 20.4ZM 45.2 20L 45.6 18.4L 47.2 18.8L 46.8 20.4L 45.2 20ZM 45.6 18.1L 46 16.5L 47.6 16.9L 47.2 18.5L 45.6 18.1ZM 46.1 16.1L 46.5 14.5L 48.1 14.9L 47.7 16.5L 46.1 16.1ZM 46.5 14.2L 46.9 12.6L 48.5 13L 48.1 14.6L 46.5 14.2ZM 46.1 14.1L 44.5 13.7L 44.9 12.1L 46.5 12.5L 46.1 14.1ZM 44.2 13.6L 42.6 13.2L 43 11.6L 44.6 12L 44.2 13.6ZM 43.1 11.3L 43.5 9.7L 45.1 10.1L 44.7 11.7L 43.1 11.3ZM 42.7 11.2L 41.1 10.8L 41.5 9.2L 43.1 9.59999L 42.7 11.2ZM 40.7 10.8L 39.1 10.4L 39.5 8.80001L 41.1 9.2L 40.7 10.8ZM 39.6 8.49999L 40 6.90001L 41.6 7.30001L 41.2 8.90001L 39.6 8.49999ZM 39.2 8.40001L 37.6 7.99999L 38 6.40001L 39.6 6.80001L 39.2 8.40001ZM 37.3 7.90001L 35.7 7.49999L 36.1 5.90001L 37.7 6.30001L 37.3 7.90001ZM 35.3 7.49999L 33.7 7.09999L 34.1 5.49999L 35.7 5.90001L 35.3 7.49999ZM 33.4 6.99999L 31.8 6.59999L 32.2 4.99999L 33.8 5.40001L 33.4 6.99999ZM 31.4 6.59999L 29.9 6.2L 30.3 4.59999L 31.9 4.99999L 31.4 6.59999ZM 29.5 6.09999L 27.9 5.7L 28.3 4.09999L 29.9 4.49999L 29.5 6.09999ZM 27.5 5.7L 25.9 5.30001L 26.3 3.7L 27.9 4.09999L 27.5 5.7ZM 25.6 5.2L 24 4.80001L 24.4 3.2L 26 3.59999L 25.6 5.2ZM 23.6 4.80001L 22 4.40001L 22.4 2.80001L 24 3.2L 23.6 4.80001ZM 21.7 4.30001L 20.1 3.90001L 20.5 2.30001L 22.1 2.7L 21.7 4.30001ZM 19.7 3.90001L 18.1 3.49999L 18.5 1.90001L 20.1 2.30001L 19.7 3.90001ZM 19.6 4.2L 19.2 5.80001L 17.6 5.40001L 18 3.80001L 19.6 4.2ZM 17.3 5.40001L 15.7 4.99999L 16.1 3.40001L 17.7 3.80001L 17.3 5.40001ZM 15.4 4.90001L 13.8 4.49999L 14.2 2.90001L 15.8 3.30001L 15.4 4.90001ZM 15.3 5.30001L 14.9 6.90001L 13.3 6.49999L 13.7 4.90001L 15.3 5.30001ZM 13 6.40001L 11.4 5.99999L 11.8 4.40001L 13.4 4.80001L 13 6.40001ZM 11 5.90001L 9.4 5.49999L 9.79999 3.90001L 11.4 4.30001L 11 5.90001ZM 10.9 6.30001L 10.5 7.90001L 8.9 7.49999L 9.29999 5.90001L 10.9 6.30001ZM 8.6 7.40001L 7.00001 6.99999L 7.4 5.40001L 9.00001 5.80001L 8.6 7.40001ZM 8.50001 7.80001L 8.1 9.40001L 6.50001 8.99999L 6.9 7.40001L 8.50001 7.80001ZM 8.1 9.80001L 7.7 11.4L 6.1 11L 6.50001 9.40001L 8.1 9.80001ZM 7.6 11.7L 7.2 13.3L 5.6 12.9L 6.00001 11.3L 7.6 11.7ZM 7.2 15.3L 7.6 13.7L 9.2 14.1L 8.79999 15.7L 7.2 15.3ZM 9.1 15.8L 9.50001 14.2L 11.1 14.6L 10.7 16.2L 9.1 15.8ZM 11.1 16.2L 11.5 14.6L 13.1 15L 12.7 16.6L 11.1 16.2ZM 13 16.7L 13.4 15.1L 15 15.5L 14.6 17.1L 13 16.7ZM 15 17.1L 15.4 15.5L 17 15.9L 16.6 17.5L 15 17.1ZM 16.9 17.6L 17.3 16L 18.9 16.4L 18.5 18L 16.9 17.6ZM 18.9 18L 19.3 16.4L 20.9 16.8L 20.5 18.4L 18.9 18ZM 20.8 18.5L 21.2 16.9L 22.8 17.3L 22.4 18.9L 20.8 18.5ZM 22.8 18.9L 23.2 17.3L 24.8 17.7L 24.4 19.3L 22.8 18.9ZM 24.7 19.4L 25.1 17.8L 26.7 18.2L 26.3 19.8L 24.7 19.4ZM 26.7 19.9L 27.1 18.3L 28.7 18.7L 28.3 20.3L 26.7 19.9ZM 28.6 20.3L 29 18.7L 30.6 19.1L 30.2 20.7L 28.6 20.3ZM 30.6 20.8L 31 19.2L 32.6 19.6L 32.2 21.2L 30.6 20.8ZM 32.5 21.2L 32.9 19.6L 34.5 20L 34.1 21.6L 32.5 21.2ZM 34.5 21.7L 34.9 20.1L 36.5 20.5L 36.1 22.1L 34.5 21.7ZM 36.4 22.1L 36.8 20.5L 38.4 20.9L 38 22.5L 36.4 22.1ZM 38.4 22.6L 38.8 21L 40.4 21.4L 40 23L 38.4 22.6ZM 40.4 23L 40.8 21.4L 42.4 21.8L 42 23.4L 40.4 23ZM 42.3 23.5L 42.7 21.9L 44.3 22.3L 43.9 23.9L 42.3 23.5ZM 44.3 23.9L 44.7 22.3L 46.3 22.7L 45.9 24.3L 44.3 23.9ZM 47.8 24.7L 46.2 24.3L 46.6 22.7L 48.2 23.1L 47.8 24.7ZM 48.2 22.8L 46.6 22.4L 47 20.8L 48.6 21.2L 48.2 22.8ZM 48.7 20.8L 47.1 20.4L 47.5 18.8L 49.1 19.2L 48.7 20.8ZM 49.1 18.9L 47.5 18.5L 47.9 16.9L 49.5 17.3L 49.1 18.9ZM 49.6 16.9L 48 16.5L 48.4 14.9L 50 15.3L 49.6 16.9ZM 50.4 13.4L 50 15L 48.4 14.6L 48.8 13L 50.4 13.4ZM 48.9 11L 48.5 12.6L 46.9 12.2L 47.3 10.6L 48.9 11ZM 46.9 10.6L 46.5 12.2L 44.9 11.8L 45.3 10.2L 46.9 10.6ZM 45.4 8.2L 45 9.80001L 43.4 9.40001L 43.8 7.80001L 45.4 8.2ZM 43.5 7.7L 43.1 9.30001L 41.5 8.90001L 41.9 7.30001L 43.5 7.7ZM 42 5.30001L 41.6 6.90001L 40 6.49999L 40.4 4.90001L 42 5.30001ZM 40 4.90001L 39.6 6.49999L 38 6.09999L 38.4 4.49999L 40 4.90001ZM 38.1 4.40001L 37.7 5.99999L 36.1 5.59999L 36.5 3.99999L 38.1 4.40001ZM 36.1 3.99999L 35.7 5.59999L 34.1 5.2L 34.5 3.59999L 36.1 3.99999ZM 34.2 3.49999L 33.8 5.09999L 32.2 4.7L 32.6 3.09999L 34.2 3.49999ZM 32.2 2.99999L 31.8 4.59999L 30.2 4.2L 30.6 2.59999L 32.2 2.99999ZM 30.3 2.59999L 29.9 4.2L 28.3 3.80001L 28.7 2.2L 30.3 2.59999ZM 28.3 2.09999L 27.9 3.7L 26.3 3.30001L 26.7 1.7L 28.3 2.09999ZM 26.4 1.7L 26 3.30001L 24.4 2.90001L 24.8 1.30001L 26.4 1.7ZM 24.4 1.2L 24 2.80001L 22.4 2.40001L 22.8 0.800006L 24.4 1.2ZM 22.5 0.800006L 22.1 2.40001L 20.5 1.99999L 20.9 0.400012L 22.5 0.800006ZM 19 -1.2207e-05L 20.6 0.400012L 20.2 1.99999L 18.6 1.59999L 19 -1.2207e-05ZM 18.1 1.80001L 17.7 3.40001L 16.1 2.99999L 16.5 1.40001L 18.1 1.80001ZM 14.6 0.999988L 16.2 1.40001L 15.8 2.99999L 14.2 2.59999L 14.6 0.999988ZM 13.8 2.90001L 13.4 4.49999L 11.8 4.09999L 12.2 2.49999L 13.8 2.90001ZM 10.3 2.09999L 11.9 2.49999L 11.5 4.09999L 9.9 3.7L 10.3 2.09999ZM 7.9 3.59999L 9.50001 3.99999L 9.1 5.59999L 7.50001 5.2L 7.9 3.59999ZM 5.50001 5.09999L 7.1 5.49999L 6.7 7.09999L 5.1 6.7L 5.50001 5.09999ZM 5.00001 6.99999L 6.6 7.40001L 6.2 8.99999L 4.6 8.59999L 5.00001 6.99999ZM 4.6 8.99999L 6.2 9.40001L 5.79999 11L 4.2 10.6L 4.6 8.99999ZM 4.1 10.9L 5.7 11.3L 5.29999 12.9L 3.7 12.5L 4.1 10.9ZM 3.7 12.9L 5.29999 13.3L 4.9 14.9L 3.29999 14.5L 3.7 12.9Z"/>
+<path id="path144_fill" d="M 5.3 15.7C 5.5 16 5.8 16.3 6 16.5L 7.10001 16.7L 6.89999 17.4C 6.99999 17.5 7.1 17.6 7.2 17.7L 7.39999 16.7L 9 17.1L 8.60001 18.7L 8 18.6C 8.1 18.7 8.1 18.7 8.2 18.8C 8.4 19 8.59999 19.2 8.89999 19.4L 8.89999 19.3L 10.5 19.7L 10.3 20.6C 10.4 20.7 10.5 20.8 10.7 20.9L 10.9 19.9L 12.5 20.3L 12.1 21.9L 11.8 21.8C 12.1 22 12.5 22.2 12.8 22.4L 13.9 22.7L 13.8 23.1C 13.9 23.2 14 23.2 14.2 23.3L 14.3 22.8L 15.9 23.2L 15.7 24.1C 15.8 24.2 15.9 24.2 16.1 24.3L 16.3 23.4L 17.9 23.8L 17.6 25.1C 17.7 25.2 17.9 25.2 18 25.3L 18.3 24L 19.9 24.4L 19.5 25.9C 19.6 25.9 19.8 26 19.9 26L 20.3 24.4L 21.9 24.8L 21.5 26.5C 21.6 26.5 21.8 26.6 21.9 26.6L 22.3 24.9L 23.9 25.3L 23.5 27.1C 23.6 27.1 23.6 27.1 23.7 27.1C 23.8 27.1 23.8 27.1 23.9 27.1L 24.3 25.3L 25.9 25.7L 25.5 27.4C 25.6 27.4 25.8 27.4 25.9 27.5L 26.3 25.8L 27.9 26.2L 27.5 27.8C 27.6 27.8 27.8 27.8 27.9 27.9L 28.2 26.4L 29.8 26.8L 29.5 28.1C 29.6 28.1 29.8 28.1 29.9 28.1L 30.2 26.9L 31.8 27.3L 31.6 28.2C 31.7 28.2 31.9 28.2 32 28.2L 32.2 27.3L 33.8 27.7L 33.7 28.2C 33.8 28.2 34 28.2 34.1 28.2L 34.2 27.9L 35.3 28.2C 35.7 28.2 36.1 28.1 36.5 28.1L 36.2 28L 36.6 26.4L 38.2 26.8L 38 27.8C 38.1 27.8 38.3 27.8 38.4 27.7L 38.6 26.8L 40.2 27.2L 40.2 27.3C 40.6 27.2 40.9 27.1 41.3 27L 40.7 26.9L 41.1 25.3L 42.7 25.7L 42.5 26.7C 42.7 26.6 42.8 26.6 42.9 26.5L 43.1 25.8L 44.2 26.1C 44.5 26 44.9 25.8 45.2 25.7L 45.5 24.4L 47 24.8C 47.2 24.7 47.3 24.6 47.5 24.5L 47.9 22.9L 49.4 23.2C 49.5 23.1 49.7 23 49.8 22.9L 48 22.5L 48.4 20.9L 51.3 21.6C 51.4 21.5 51.5 21.4 51.6 21.3L 48.4 20.6L 48.8 19L 52.8 19.9C 52.9 19.8 53 19.7 53.1 19.6L 48.9 18.6L 49.3 17L 54.1 18.1C 54.2 18 54.2 17.9 54.3 17.7L 49.4 16.6L 49.8 15L 55.1 16.2C 55.2 16.1 55.2 16 55.3 15.8L 49.9 14.5L 50.3 12.9L 55.9 14.2C 55.9 14.1 56 13.9 56 13.8L 50.4 12.5L 50.6 11.7L 50.2 11.6L 50 12.4L 48.4 12L 48.6 11.2L 48.2 11.1L 48 11.9L 46.4 11.5L 46.6 10.7L 46.2 10.6L 46 11.4L 44.4 11L 44.6 10.2L 44.2 10.1L 44 10.9L 42.4 10.5L 42.6 9.69999L 42.2 9.59999L 42 10.4L 40.4 10L 40.6 9.19999L 40.2 9.09999L 40 9.90001L 38.4 9.50001L 38.6 8.69999L 38.2 8.59999L 38 9.40001L 36.4 9.00001L 36.6 8.19999L 36.2 8.09999L 36 8.90001L 34.4 8.50001L 34.6 7.69999L 34.2 7.59999L 34 8.40001L 32.4 8.00001L 32.6 7.19999L 32.2 7.09999L 32 7.90001L 30.4 7.50001L 30.6 6.69999L 30.2 6.59999L 30 7.40001L 28.4 7.00001L 28.6 6.19999L 28.2 6.09999L 28 6.90001L 26.4 6.50001L 26.6 5.69999L 26.2 5.59999L 26 6.40001L 24.4 6.00001L 24.6 5.19999L 24.2 5.09999L 24 5.90001L 22.4 5.50001L 22.6 4.69999L 22.2 4.59999L 22 5.40001L 20.4 5.00001L 20.6 4.19999L 20.2 4.09999L 20 4.90001L 18.4 4.50001L 18.6 3.69999L 18.2 3.59999L 18 4.40001L 16.4 4.00001L 16.6 3.19999L 16.2 3.09999L 16 3.90001L 14.4 3.50001L 14.6 2.69999L 14.2 2.59999L 14 3.40001L 12.4 3.00001L 12.6 2.19999L 12.2 2.09999L 12 2.90001L 10.4 2.50001L 10.6 1.69999L 10.2 1.59999L 10 2.40001L 8.39999 2.00001L 8.60001 1.19999L 8.2 1.09999L 8 1.90001L 6.39999 1.50001L 6.60001 0.699994L 6.2 0.599988L 6 1.40001L 4.39999 1.00001L 4.60001 0.199994L 4.2 0.0999878L 4 0.900006L 0.300003 1.2207e-05C 0.300003 0.100012 0.299997 0.300006 0.199997 0.400006L 3.89999 1.19999L 3.5 2.8L 1.13687e-13 2.00001C 1.13687e-13 2.10001 1.13687e-13 2.30001 1.13687e-13 2.40001L 3.39999 3.19999L 3 4.8L 1.13687e-13 4.09999C 1.13687e-13 4.19999 1.13687e-13 4.40001 1.13687e-13 4.50001L 2.89999 5.19999L 2.5 6.8L 0.300003 6.3C 0.300003 6.4 0.399994 6.59999 0.399994 6.69999L 2.5 7.19999L 2.10001 8.8L 0.899994 8.50001C 0.999994 8.60001 1.00001 8.80001 1.10001 8.90001L 2 9.09999L 1.7 10.4C 1.8 10.6 1.90001 10.9 2.10001 11.1L 3.5 11.4L 3.10001 13C 3.20001 13.2 3.29999 13.3 3.39999 13.5L 4.89999 13.9L 5.3 15.7ZM 5.7 16L 6.10001 14.4L 7.7 14.8L 7.3 16.4L 5.7 16ZM 39.8 17.8L 38.2 17.4L 38.6 15.8L 40.2 16.2L 39.8 17.8ZM 40.6 16.3L 42.2 16.7L 41.8 18.3L 40.2 17.9L 40.6 16.3ZM 37.9 17.3L 36.3 16.9L 36.7 15.3L 38.3 15.7L 37.9 17.3ZM 16.7 12.8L 18.3 13.2L 17.9 14.8L 16.3 14.4L 16.7 12.8ZM 15.9 14.3L 14.3 13.9L 14.7 12.3L 16.3 12.7L 15.9 14.3ZM 18.6 13.3L 20.2 13.7L 19.8 15.3L 18.2 14.9L 18.6 13.3ZM 29.6 17.5L 28 17.1L 28.4 15.5L 30 15.9L 29.6 17.5ZM 30.4 16L 32 16.4L 31.6 18L 30 17.6L 30.4 16ZM 27.7 17L 26.1 16.6L 26.5 15L 28.1 15.4L 27.7 17ZM 25.7 16.6L 24.1 16.2L 24.5 14.6L 26.1 15L 25.7 16.6ZM 23.7 16.1L 22.1 15.7L 22.5 14.1L 24.1 14.5L 23.7 16.1ZM 21.8 15.7L 20.2 15.3L 20.6 13.7L 22.2 14.1L 21.8 15.7ZM 19.8 15.6L 19.4 17.2L 17.8 16.8L 18.2 15.2L 19.8 15.6ZM 20.1 15.7L 21.7 16.1L 21.3 17.7L 19.7 17.3L 20.1 15.7ZM 22.1 16.1L 23.7 16.5L 23.3 18.1L 21.7 17.7L 22.1 16.1ZM 24 16.6L 25.6 17L 25.2 18.6L 23.6 18.2L 24 16.6ZM 26 17L 27.6 17.4L 27.2 19L 25.6 18.6L 26 17ZM 28 17.5L 29.6 17.9L 29.2 19.5L 27.6 19.1L 28 17.5ZM 29.9 18L 31.5 18.4L 31.1 20L 29.5 19.6L 29.9 18ZM 31.8 18.4L 33.4 18.8L 33 20.3L 31.4 19.9L 31.8 18.4ZM 31.9 18L 32.3 16.4L 33.9 16.8L 33.5 18.4L 31.9 18ZM 34.3 16.9L 35.9 17.3L 35.5 18.9L 33.9 18.5L 34.3 16.9ZM 36.2 17.4L 37.8 17.8L 37.4 19.4L 35.8 19L 36.2 17.4ZM 35.9 16.9L 34.3 16.5L 34.7 14.9L 36.3 15.3L 35.9 16.9ZM 34 16.4L 32.4 16L 32.8 14.4L 34.4 14.8L 34 16.4ZM 32 16L 30.4 15.6L 30.8 14L 32.4 14.4L 32 16ZM 30 15.5L 28.4 15.1L 28.8 13.5L 30.4 13.9L 30 15.5ZM 28.1 15.1L 26.5 14.7L 26.9 13.1L 28.5 13.5L 28.1 15.1ZM 26.1 14.6L 24.5 14.2L 24.9 12.6L 26.5 13L 26.1 14.6ZM 24.2 14.2L 22.6 13.8L 23 12.2L 24.6 12.6L 24.2 14.2ZM 22.2 13.7L 20.6 13.3L 21 11.7L 22.6 12.1L 22.2 13.7ZM 20.3 13.3L 18.7 12.9L 19.1 11.3L 20.7 11.7L 20.3 13.3ZM 18.3 12.8L 16.7 12.4L 17.1 10.8L 18.7 11.2L 18.3 12.8ZM 16.4 12.4L 14.8 12L 15.2 10.4L 16.8 10.8L 16.4 12.4ZM 14.4 11.9L 12.8 11.5L 13.2 9.90001L 14.8 10.3L 14.4 11.9ZM 12.5 11.5L 10.9 11.1L 11.3 9.50001L 12.9 9.90001L 12.5 11.5ZM 12.4 11.8L 12 13.4L 10.4 13L 10.8 11.4L 12.4 11.8ZM 12.8 11.9L 14.4 12.3L 14 13.9L 12.4 13.5L 12.8 11.9ZM 13.9 14.2L 13.5 15.8L 11.9 15.4L 12.3 13.8L 13.9 14.2ZM 14.3 14.3L 15.9 14.7L 15.5 16.3L 13.9 15.9L 14.3 14.3ZM 16.2 14.8L 17.8 15.2L 17.4 16.8L 15.8 16.4L 16.2 14.8ZM 17.4 17.1L 17 18.7L 15.4 18.3L 15.8 16.7L 17.4 17.1ZM 17.7 17.2L 19.3 17.6L 18.9 19.2L 17.3 18.8L 17.7 17.2ZM 19.7 17.6L 21.3 18L 20.9 19.6L 19.3 19.2L 19.7 17.6ZM 21.6 18.1L 23.2 18.5L 22.8 20.1L 21.2 19.7L 21.6 18.1ZM 23.6 18.5L 25.2 18.9L 24.8 20.5L 23.2 20.1L 23.6 18.5ZM 25.5 19L 27.1 19.4L 26.7 21L 25.1 20.6L 25.5 19ZM 27.5 19.4L 29.1 19.8L 28.7 21.4L 27.1 21L 27.5 19.4ZM 29.4 19.9L 31 20.3L 30.6 21.9L 29 21.5L 29.4 19.9ZM 31.4 20.4L 33 20.8L 32.6 22.4L 31 22L 31.4 20.4ZM 33.3 20.8L 34.9 21.2L 34.5 22.8L 32.9 22.4L 33.3 20.8ZM 33.4 20.4L 33.8 18.8L 35.4 19.2L 35 20.8L 33.4 20.4ZM 35.8 19.3L 37.4 19.7L 37 21.3L 35.4 20.9L 35.8 19.3ZM 37.7 19.8L 39.3 20.2L 38.9 21.8L 37.3 21.4L 37.7 19.8ZM 37.8 19.4L 38.2 17.8L 39.8 18.2L 39.4 19.8L 37.8 19.4ZM 40.1 18.3L 41.7 18.7L 41.3 20.3L 39.7 19.9L 40.1 18.3ZM 42.1 18.7L 43.7 19.1L 43.3 20.7L 41.7 20.3L 42.1 18.7ZM 42.1 18.3L 42.5 16.7L 44.1 17.1L 43.7 18.7L 42.1 18.3ZM 42.6 16.4L 43 14.8L 44.6 15.2L 44.2 16.8L 42.6 16.4ZM 42.2 16.3L 40.6 15.9L 41 14.3L 42.6 14.7L 42.2 16.3ZM 40.3 15.8L 38.7 15.4L 39.1 13.8L 40.7 14.2L 40.3 15.8ZM 38.3 15.4L 36.7 15L 37.1 13.4L 38.7 13.8L 38.3 15.4ZM 36.4 14.9L 34.8 14.5L 35.2 12.9L 36.8 13.3L 36.4 14.9ZM 34.4 14.5L 32.8 14.1L 33.2 12.5L 34.8 12.9L 34.4 14.5ZM 32.5 14L 30.9 13.6L 31.3 12L 32.9 12.4L 32.5 14ZM 30.5 13.6L 28.9 13.2L 29.3 11.6L 30.9 12L 30.5 13.6ZM 28.6 13.1L 27 12.7L 27.4 11.1L 29 11.5L 28.6 13.1ZM 26.6 12.7L 25 12.3L 25.4 10.7L 27 11.1L 26.6 12.7ZM 24.7 12.2L 23.1 11.8L 23.5 10.2L 25.1 10.6L 24.7 12.2ZM 22.7 11.8L 21.1 11.4L 21.5 9.8L 23.1 10.2L 22.7 11.8ZM 20.8 11.3L 19.2 10.9L 19.6 9.3L 21.2 9.69999L 20.8 11.3ZM 18.8 10.9L 17.2 10.5L 17.6 8.90001L 19.2 9.3L 18.8 10.9ZM 16.8 10.4L 15.2 10L 15.6 8.40001L 17.2 8.8L 16.8 10.4ZM 14.9 10L 13.3 9.59999L 13.7 8.00001L 15.3 8.40001L 14.9 10ZM 12.9 9.50001L 11.3 9.09999L 11.7 7.50001L 13.3 7.90001L 12.9 9.50001ZM 11 9.09999L 9.39999 8.69999L 9.8 7.09999L 11.4 7.50001L 11 9.09999ZM 9 8.59999L 7.39999 8.19999L 7.8 6.59999L 9.39999 7.00001L 9 8.59999ZM 9 9.00001L 8.60001 10.6L 7 10.2L 7.39999 8.59999L 9 9.00001ZM 9.3 9.09999L 10.9 9.50001L 10.5 11.1L 8.89999 10.7L 9.3 9.09999ZM 10.5 11.4L 10.1 13L 8.5 12.6L 8.89999 11L 10.5 11.4ZM 10 13.3L 9.60001 14.9L 8 14.5L 8.39999 12.9L 10 13.3ZM 10.4 13.4L 12 13.8L 11.6 15.4L 10 15L 10.4 13.4ZM 11.5 15.7L 11.1 17.3L 9.5 16.9L 9.89999 15.3L 11.5 15.7ZM 11.9 15.8L 13.5 16.2L 13.1 17.8L 11.5 17.4L 11.9 15.8ZM 13.8 16.3L 15.4 16.7L 15 18.3L 13.4 17.9L 13.8 16.3ZM 15 18.6L 14.6 20.2L 13 19.8L 13.4 18.2L 15 18.6ZM 15.3 18.7L 16.9 19.1L 16.5 20.7L 15 20.3L 15.3 18.7ZM 17.3 19.1L 18.9 19.5L 18.5 21.1L 16.9 20.7L 17.3 19.1ZM 19.2 19.6L 20.8 20L 20.4 21.6L 18.8 21.2L 19.2 19.6ZM 21.2 20L 22.8 20.4L 22.4 22L 20.8 21.6L 21.2 20ZM 23.1 20.5L 24.7 20.9L 24.3 22.5L 22.7 22.1L 23.1 20.5ZM 25.1 20.9L 26.7 21.3L 26.3 22.9L 24.7 22.5L 25.1 20.9ZM 27 21.4L 28.6 21.8L 28.2 23.4L 26.6 23L 27 21.4ZM 29 21.8L 30.6 22.2L 30.2 23.8L 28.6 23.4L 29 21.8ZM 30.9 22.3L 32.5 22.7L 32.1 24.3L 30.5 23.9L 30.9 22.3ZM 32.9 22.8L 34.5 23.2L 34.1 24.8L 32.5 24.4L 32.9 22.8ZM 34.8 23.2L 36.4 23.6L 36 25.2L 34.4 24.8L 34.8 23.2ZM 34.9 22.8L 35.3 21.2L 36.9 21.6L 36.5 23.2L 34.9 22.8ZM 37.2 21.7L 38.8 22.1L 38.4 23.7L 36.8 23.3L 37.2 21.7ZM 39.2 22.2L 40.8 22.6L 40.4 24.2L 38.8 23.8L 39.2 22.2ZM 39.3 21.8L 39.7 20.2L 41.3 20.6L 40.9 22.2L 39.3 21.8ZM 41.6 20.7L 43.2 21.1L 42.8 22.7L 41.2 22.3L 41.6 20.7ZM 43.6 21.1L 45.2 21.5L 44.8 23.1L 43.2 22.7L 43.6 21.1ZM 43.6 20.7L 44 19.1L 45.6 19.5L 45.2 21.1L 43.6 20.7ZM 44.1 18.8L 44.5 17.2L 46.1 17.6L 45.7 19.2L 44.1 18.8ZM 44.5 16.8L 44.9 15.2L 46.5 15.6L 46.1 17.2L 44.5 16.8ZM 45 14.9L 45.4 13.3L 47 13.7L 46.6 15.3L 45 14.9ZM 44.6 14.8L 43 14.4L 43.4 12.8L 45 13.2L 44.6 14.8ZM 42.7 14.3L 41.1 13.9L 41.5 12.3L 43.1 12.7L 42.7 14.3ZM 40.7 13.9L 39.1 13.5L 39.5 11.9L 41.1 12.3L 40.7 13.9ZM 38.8 13.4L 37.2 13L 37.6 11.4L 39.2 11.8L 38.8 13.4ZM 36.8 13L 35.2 12.6L 35.6 11L 37.2 11.4L 36.8 13ZM 34.9 12.5L 33.3 12.1L 33.7 10.5L 35.3 10.9L 34.9 12.5ZM 32.9 12.1L 31.3 11.7L 31.7 10.1L 33.3 10.5L 32.9 12.1ZM 31 11.6L 29.4 11.2L 29.8 9.59999L 31.4 10L 31 11.6ZM 29 11.2L 27.4 10.8L 27.8 9.19999L 29.4 9.59999L 29 11.2ZM 27.1 10.7L 25.5 10.3L 25.9 8.69999L 27.5 9.09999L 27.1 10.7ZM 25.1 10.3L 23.5 9.90001L 23.9 8.3L 25.5 8.69999L 25.1 10.3ZM 23.2 9.8L 21.6 9.40001L 22 7.8L 23.6 8.19999L 23.2 9.8ZM 21.2 9.40001L 19.6 9.00001L 20 7.40001L 21.6 7.8L 21.2 9.40001ZM 19.3 8.90001L 17.7 8.50001L 18.1 6.90001L 19.7 7.3L 19.3 8.90001ZM 17.3 8.50001L 15.7 8.09999L 16.1 6.50001L 17.7 6.90001L 17.3 8.50001ZM 15.3 8.00001L 13.7 7.59999L 14.1 6.00001L 15.7 6.40001L 15.3 8.00001ZM 13.4 7.59999L 11.8 7.19999L 12.2 5.59999L 13.8 6.00001L 13.4 7.59999ZM 11.4 7.09999L 9.8 6.69999L 10.2 5.09999L 11.8 5.50001L 11.4 7.09999ZM 9.5 6.69999L 7.89999 6.3L 8.3 4.69999L 9.89999 5.09999L 9.5 6.69999ZM 7.5 6.19999L 5.89999 5.8L 6.3 4.19999L 7.89999 4.59999L 7.5 6.19999ZM 7.5 6.59999L 7.10001 8.19999L 5.5 7.8L 5.89999 6.19999L 7.5 6.59999ZM 7 8.50001L 6.60001 10.1L 5 9.69999L 5.39999 8.09999L 7 8.50001ZM 6.60001 10.5L 6.2 12.1L 4.60001 11.7L 5 10.1L 6.60001 10.5ZM 6.89999 10.6L 8.5 11L 8.10001 12.6L 6.5 12.2L 6.89999 10.6ZM 8.10001 12.9L 7.7 14.5L 6.10001 14.1L 6.5 12.5L 8.10001 12.9ZM 7.60001 16.5L 8 14.9L 9.60001 15.3L 9.2 16.9L 7.60001 16.5ZM 9.10001 18.9L 9.5 17.3L 11.1 17.7L 10.7 19.3L 9.10001 18.9ZM 11.1 19.3L 11.5 17.7L 13.1 18.1L 12.7 19.7L 11.1 19.3ZM 12.6 21.7L 13 20.1L 14.6 20.5L 14.2 22.1L 12.6 21.7ZM 14.5 22.2L 14.9 20.6L 16.5 21L 16.1 22.6L 14.5 22.2ZM 16.5 22.7L 16.9 21.1L 18.5 21.5L 18.1 23.1L 16.5 22.7ZM 18.4 23.1L 18.8 21.5L 20.4 21.9L 20 23.5L 18.4 23.1ZM 20.4 23.6L 20.8 22L 22.4 22.4L 22 24L 20.4 23.6ZM 22.3 24L 22.7 22.4L 24.3 22.8L 23.9 24.4L 22.3 24ZM 24.3 24.5L 24.7 22.9L 26.3 23.3L 25.9 24.9L 24.3 24.5ZM 26.2 24.9L 26.6 23.3L 28.2 23.7L 27.8 25.3L 26.2 24.9ZM 28.2 25.4L 28.6 23.8L 30.2 24.2L 29.8 25.8L 28.2 25.4ZM 30.1 25.8L 30.5 24.2L 32.1 24.6L 31.7 26.2L 30.1 25.8ZM 32.1 26.3L 32.5 24.7L 34.1 25.1L 33.7 26.7L 32.1 26.3ZM 35.6 27.1L 34 26.7L 34.4 25.1L 36 25.5L 35.6 27.1ZM 36.4 25.2L 36.8 23.6L 38.4 24L 38 25.6L 36.4 25.2ZM 39.9 26L 38.3 25.6L 38.7 24L 40.3 24.4L 39.9 26ZM 40.8 24.2L 41.2 22.6L 42.8 23L 42.4 24.6L 40.8 24.2ZM 44.3 25L 42.7 24.6L 43.1 23L 44.7 23.4L 44.3 25ZM 46.7 23.5L 45.1 23.1L 45.5 21.5L 47.1 21.9L 46.7 23.5ZM 47.2 21.5L 45.6 21.1L 46 19.5L 47.6 19.9L 47.2 21.5ZM 47.6 19.6L 46 19.2L 46.4 17.6L 48 18L 47.6 19.6ZM 48.1 17.6L 46.5 17.2L 46.9 15.6L 48.5 16L 48.1 17.6ZM 48.5 15.7L 46.9 15.3L 47.3 13.7L 48.9 14.1L 48.5 15.7ZM 49.3 12.2L 48.9 13.8L 47.3 13.4L 47.7 11.8L 49.3 12.2ZM 47.4 11.7L 47 13.3L 45.4 12.9L 45.8 11.3L 47.4 11.7ZM 45.4 11.3L 45 12.9L 43.4 12.5L 43.8 10.9L 45.4 11.3ZM 43.5 10.8L 43.1 12.4L 41.5 12L 41.9 10.4L 43.5 10.8ZM 41.5 10.4L 41.1 12L 39.5 11.6L 39.9 10L 41.5 10.4ZM 39.6 9.90001L 39.2 11.5L 37.6 11.1L 38 9.50001L 39.6 9.90001ZM 37.6 9.50001L 37.2 11.1L 35.6 10.7L 36 9.09999L 37.6 9.50001ZM 35.7 9.00001L 35.3 10.6L 33.7 10.2L 34.1 8.59999L 35.7 9.00001ZM 33.7 8.59999L 33.3 10.2L 31.7 9.8L 32.1 8.19999L 33.7 8.59999ZM 31.8 8.09999L 31.4 9.69999L 29.8 9.3L 30.2 7.69999L 31.8 8.09999ZM 29.8 7.69999L 29.4 9.3L 27.8 8.90001L 28.2 7.3L 29.8 7.69999ZM 27.9 7.19999L 27.5 8.8L 25.9 8.40001L 26.3 6.8L 27.9 7.19999ZM 25.9 6.8L 25.5 8.40001L 23.9 8.00001L 24.3 6.40001L 25.9 6.8ZM 24 6.3L 23.6 7.90001L 22 7.50001L 22.4 5.90001L 24 6.3ZM 22 5.8L 21.6 7.40001L 20 7.00001L 20.4 5.40001L 22 5.8ZM 20.1 5.40001L 19.7 7.00001L 18.1 6.59999L 18.5 5.00001L 20.1 5.40001ZM 18.1 4.90001L 17.7 6.50001L 16.1 6.09999L 16.5 4.50001L 18.1 4.90001ZM 16.2 4.50001L 15.8 6.09999L 14.2 5.69999L 14.6 4.09999L 16.2 4.50001ZM 14.2 4.00001L 13.8 5.59999L 12.2 5.19999L 12.6 3.59999L 14.2 4.00001ZM 12.3 3.59999L 11.9 5.19999L 10.3 4.8L 10.7 3.19999L 12.3 3.59999ZM 10.3 3.09999L 9.89999 4.69999L 8.3 4.3L 8.7 2.69999L 10.3 3.09999ZM 8.39999 2.69999L 8 4.3L 6.39999 3.90001L 6.8 2.3L 8.39999 2.69999ZM 4.8 1.90001L 6.39999 2.3L 6 3.90001L 4.39999 3.50001L 4.8 1.90001ZM 4.39999 3.8L 6 4.19999L 5.60001 5.8L 4 5.40001L 4.39999 3.8ZM 3.89999 5.8L 5.5 6.19999L 5.10001 7.8L 3.5 7.40001L 3.89999 5.8ZM 3.5 7.69999L 5.10001 8.09999L 4.7 9.69999L 3.10001 9.3L 3.5 7.69999ZM 2.7 11.2L 3.10001 9.59999L 4.7 10L 4.3 11.6L 2.7 11.2ZM 4.2 13.6L 4.60001 12L 6.2 12.4L 5.8 14L 4.2 13.6Z"/>
+<path id="path145_fill" d="M 82.4767 33.417C 82.4767 33.417 66.5767 29.7169 58.2767 16.5169C 57.6767 15.5169 56.9767 14.417 56.2767 13.417C 55.4767 12.317 54.5767 11.317 53.5767 10.417C 53.0767 9.91697 52.5767 9.51695 52.0767 9.01695C 50.9767 8.11695 49.8767 7.21697 48.6767 6.41697C 45.0767 4.01697 40.7767 2.11695 36.0767 1.01695C 30.7767 -0.183052 25.5767 -0.283052 20.7767 0.516948C 19.3767 0.816948 17.9767 1.11695 16.6767 1.51695C 15.9767 1.71695 15.3767 1.91696 14.7767 2.21696C 13.4767 2.71696 12.2767 3.31697 11.1767 3.91697C 5.77666 6.91697 1.87666 11.617 0.476662 17.417C -0.823338 23.217 0.576659 29.117 4.17666 34.217C 4.97666 35.317 5.77666 36.317 6.67666 37.317C 7.17666 37.817 7.57667 38.317 8.07667 38.817C 9.07667 39.817 10.1767 40.7169 11.2767 41.5169C 15.1767 44.417 19.9767 46.617 25.2767 47.817C 29.9767 48.917 34.6767 49.1169 38.9767 48.5169C 40.3767 48.3169 41.7767 48.017 43.1767 47.717C 43.8767 47.517 44.4767 47.317 45.1767 47.117C 46.4767 46.717 47.7767 46.217 48.9767 45.617C 50.0767 45.117 51.1767 44.417 52.1767 43.817C 65.3767 35.617 81.3767 39.217 81.3767 39.217L 84.7767 40.0169L 85.3767 37.617L 76.6767 35.617C 75.2767 35.517 73.5767 35.417 71.7767 35.5169C 67.0767 35.6169 62.5767 36.317 58.4767 37.717C 59.6767 35.817 60.5767 33.8169 61.1767 31.5169C 61.6767 29.3169 61.7767 27.017 61.4767 24.817C 64.5767 27.817 68.2767 30.517 72.4767 32.617C 74.0767 33.417 75.5767 34.117 76.9767 34.617L 85.6767 36.617L 86.2767 34.217L 82.4767 33.417ZM 57.6767 31.617C 57.6767 31.717 57.5767 31.9169 57.5767 32.0169C 57.3767 32.5169 57.2767 33.0169 56.9767 33.5169C 56.8767 33.6169 56.8767 33.817 56.7767 33.917C 56.5767 34.417 56.2767 34.917 55.9767 35.417C 55.8767 35.517 55.8767 35.617 55.7767 35.817C 55.4767 36.317 55.1767 36.817 54.7767 37.217C 54.6767 37.317 54.5767 37.417 54.4767 37.5169C 54.0767 38.0169 53.6767 38.417 53.2767 38.917C 53.1767 39.017 53.0767 39.117 52.9767 39.217C 52.4767 39.717 51.9767 40.1169 51.4767 40.5169C 51.3767 40.6169 51.1767 40.717 51.0767 40.817C 50.4767 41.217 49.8767 41.6169 49.2767 42.0169C 49.0767 42.1169 48.9767 42.217 48.7767 42.317C 48.2767 42.617 47.6767 42.917 47.1767 43.217C 47.0767 43.217 47.0767 43.317 46.9767 43.317C 46.6767 43.517 46.2767 43.617 45.9767 43.717C 45.5767 43.917 45.1767 44.017 44.6767 44.217C 44.5767 44.317 44.3767 44.317 44.2767 44.417C 43.9767 44.517 43.6767 44.617 43.3767 44.717C 43.2767 44.717 43.1767 44.717 43.1767 44.817C 42.7767 44.917 42.4767 45.017 42.0767 45.117C 41.8767 45.217 41.5767 45.217 41.3767 45.317C 41.0767 45.417 40.6767 45.5169 40.3767 45.5169C 40.2767 45.5169 40.0767 45.617 39.9767 45.617C 39.4767 45.717 39.0767 45.817 38.5767 45.817C 38.1767 45.917 37.7767 45.917 37.3767 45.917C 37.2767 45.917 37.1767 45.917 37.1767 45.917C 36.8767 45.917 36.5767 45.917 36.1767 46.0169C 36.0767 46.0169 35.8767 46.0169 35.7767 46.0169C 35.2767 46.0169 34.6767 46.0169 34.0767 46.0169C 33.9767 46.0169 33.7767 46.0169 33.6767 46.0169C 33.1767 46.0169 32.5767 46.017 32.0767 45.917C 31.9767 45.917 31.7767 45.917 31.6767 45.917C 31.1767 45.917 30.5767 45.817 30.0767 45.717C 29.9767 45.717 29.7767 45.717 29.6767 45.617C 29.1767 45.517 28.5767 45.517 28.0767 45.417C 27.9767 45.417 27.7767 45.417 27.6767 45.317C 27.1767 45.217 26.6767 45.1169 26.0767 45.0169C 25.9767 45.0169 25.9767 45.0169 25.8767 45.0169C 25.7767 45.0169 25.7767 45.0169 25.6767 45.0169C 25.1767 44.917 24.6767 44.717 24.1767 44.617C 24.0767 44.617 23.8767 44.5169 23.7767 44.5169C 23.2767 44.3169 22.7767 44.2169 22.2767 44.0169C 22.1767 44.0169 21.9767 43.917 21.8767 43.917C 21.3767 43.717 20.8767 43.517 20.3767 43.317C 20.2767 43.217 20.1767 43.217 19.9767 43.117C 19.4767 42.917 18.9767 42.717 18.4767 42.417C 18.3767 42.317 18.2767 42.317 18.0767 42.217C 17.5767 42.017 17.0767 41.717 16.5767 41.417C 16.4767 41.317 16.3767 41.317 16.1767 41.217C 15.7767 41.017 15.4767 40.817 15.1767 40.617C 14.8767 40.417 14.4767 40.2169 14.1767 40.0169C 14.0767 40.0169 14.0767 39.917 13.9767 39.917C 13.6767 39.717 13.3767 39.517 12.9767 39.217C 12.8767 39.117 12.7767 39.017 12.5767 38.917C 12.0767 38.517 11.6767 38.217 11.1767 37.817C 10.9767 37.617 10.6767 37.417 10.4767 37.217C 10.3767 37.117 10.3767 37.1169 10.2767 37.0169C 9.97666 36.7169 9.67666 36.517 9.47666 36.217C 9.37666 36.117 9.27666 36.017 9.17666 35.917L 9.07667 35.817C 8.77667 35.517 8.57666 35.217 8.27666 34.917C 8.07666 34.617 7.77667 34.317 7.57667 34.117C 7.17667 33.617 6.87666 33.217 6.47666 32.717C 6.37666 32.617 6.37666 32.5169 6.27666 32.5169C 6.17666 32.3169 6.07666 32.2169 5.97666 32.0169C 5.57666 31.4169 5.17667 30.817 4.87667 30.117C 4.77667 29.917 4.67666 29.617 4.47666 29.417C 4.27666 28.917 4.07667 28.417 3.87667 27.917C 3.77667 27.717 3.77666 27.6169 3.67666 27.5169C 3.47666 26.9169 3.27666 26.317 3.17666 25.717C 3.17666 25.617 3.07667 25.417 3.07667 25.317C 2.97667 24.717 2.87666 24.217 2.77666 23.617C 2.77666 23.517 2.77666 23.317 2.77666 23.217C 2.77666 22.717 2.67667 22.1169 2.77666 21.5169C 2.77666 21.4169 2.77666 21.217 2.77666 21.117C 2.77666 20.617 2.87666 20.0169 2.97666 19.5169C 2.97666 19.4169 2.97667 19.217 3.07667 19.117C 3.07667 18.817 3.17667 18.617 3.27666 18.317C 3.37666 18.017 3.37666 17.8169 3.47666 17.5169C 3.47666 17.4169 3.57667 17.217 3.57667 17.117C 3.77667 16.617 3.87666 16.117 4.17666 15.617C 4.27666 15.517 4.27667 15.417 4.37667 15.217C 4.57667 14.717 4.87666 14.217 5.17666 13.717C 5.27666 13.617 5.27667 13.517 5.37667 13.317C 5.67667 12.817 5.97667 12.317 6.37667 11.917C 6.47667 11.817 6.57666 11.717 6.67666 11.617C 7.07666 11.117 7.47667 10.717 7.87667 10.217C 7.97667 10.117 8.07666 10.017 8.17666 9.91697C 8.57666 9.51697 8.97667 9.11697 9.37667 8.81697C 9.57667 8.61697 9.77666 8.51697 9.97666 8.31697C 10.5767 7.91697 11.1767 7.51695 11.7767 7.11695C 11.9767 7.01695 12.0767 6.91697 12.2767 6.81697C 12.3767 6.81697 12.4767 6.71696 12.5767 6.71696C 13.0767 6.41696 13.5767 6.21697 14.1767 5.91697C 14.4767 5.71697 14.8767 5.61697 15.1767 5.41697C 15.5767 5.31697 15.8767 5.11695 16.2767 5.01695C 16.3767 5.01695 16.3767 5.01697 16.4767 4.91697C 16.5767 4.81697 16.7767 4.81696 16.8767 4.71696C 17.2767 4.61696 17.5767 4.51697 17.9767 4.31697C 18.0767 4.31697 18.1767 4.31696 18.1767 4.21696C 18.4767 4.11696 18.7767 4.01695 19.0767 4.01695C 19.6767 3.91695 20.1767 3.71695 20.7767 3.61695C 20.8767 3.61695 21.0767 3.51695 21.1767 3.51695C 21.5767 3.41695 21.9767 3.41697 22.3767 3.31697C 22.4767 3.31697 22.5767 3.31697 22.6767 3.31697C 23.0767 3.31697 23.4767 3.21696 23.8767 3.21696C 24.2767 3.21696 24.6767 3.11695 25.0767 3.11695C 25.1767 3.11695 25.3767 3.11695 25.4767 3.11695C 25.9767 3.11695 26.5767 3.11695 27.0767 3.11695C 27.1767 3.11695 27.3767 3.11695 27.4767 3.11695C 27.9767 3.11695 28.5767 3.11696 29.0767 3.21696C 29.1767 3.21696 29.3767 3.21696 29.4767 3.21696C 29.9767 3.21696 30.5767 3.31697 31.0767 3.31697C 31.1767 3.31697 31.3767 3.31697 31.4767 3.41697C 31.9767 3.51697 32.5767 3.51695 33.0767 3.61695C 33.1767 3.61695 33.3767 3.61696 33.4767 3.71696C 33.9767 3.81696 34.4767 3.91695 35.0767 4.01695C 35.1767 4.01695 35.1767 4.01695 35.2767 4.01695C 35.3767 4.01695 35.3767 4.01695 35.4767 4.01695C 35.9767 4.11695 36.4767 4.31697 36.9767 4.41697C 37.0767 4.41697 37.2767 4.51695 37.3767 4.51695C 37.8767 4.71695 38.3767 4.81695 38.8767 5.01695C 38.9767 5.01695 39.1767 5.11695 39.2767 5.11695C 39.7767 5.31695 40.2767 5.51696 40.7767 5.71696C 40.8767 5.81696 40.9767 5.81697 41.1767 5.91697C 41.6767 6.11697 42.1767 6.31695 42.6767 6.61695C 42.7767 6.71695 42.9767 6.71697 43.0767 6.81697C 43.5767 7.01697 44.0767 7.31695 44.5767 7.61695C 44.6767 7.71695 44.7767 7.71697 44.9767 7.81697C 45.2767 8.01697 45.5767 8.11697 45.7767 8.31697C 45.8767 8.31697 45.8767 8.41697 45.9767 8.41697C 46.2767 8.61697 46.6767 8.81695 46.9767 9.01695C 47.3767 9.31695 47.7767 9.51697 48.1767 9.81697C 48.2767 9.91697 48.3767 10.017 48.5767 10.117C 48.8767 10.317 49.1767 10.517 49.3767 10.817C 49.5767 10.917 49.7767 11.117 49.8767 11.317C 50.1767 11.517 50.4767 11.8169 50.6767 12.0169C 50.7767 12.1169 50.7767 12.117 50.8767 12.217C 51.0767 12.417 51.2767 12.617 51.5767 12.817C 51.6767 12.917 51.7767 13.017 51.8767 13.117C 52.1767 13.417 52.4767 13.817 52.7767 14.117C 52.9767 14.417 53.2767 14.717 53.4767 14.917C 53.5767 15.017 53.5767 15.017 53.6767 15.117C 54.0767 15.617 54.3767 16.117 54.7767 16.617C 54.8767 16.817 54.9767 16.917 55.0767 17.117C 55.4767 17.717 55.8767 18.4169 56.1767 19.0169C 56.2767 19.2169 56.3767 19.3169 56.3767 19.5169C 56.6767 20.1169 56.8767 20.717 57.1767 21.317C 57.2767 21.517 57.2767 21.617 57.3767 21.717C 57.5767 22.317 57.7767 22.9169 57.8767 23.5169C 57.8767 23.6169 57.9767 23.817 57.9767 23.917C 58.0767 24.517 58.1767 25.017 58.2767 25.617C 58.2767 25.717 58.2767 25.9169 58.2767 26.0169C 58.2767 26.6169 58.3767 27.117 58.2767 27.717C 58.2767 27.817 58.2767 28.017 58.2767 28.117C 58.2767 28.617 58.1767 29.217 58.0767 29.717C 58.0767 29.817 58.0767 30.017 57.9767 30.117C 57.9767 30.417 57.8767 30.617 57.7767 30.917C 57.8767 31.117 57.7767 31.317 57.6767 31.617Z"/>
+<path id="path146_fill" d="M 6.40001 0.400012L 5.40001 0.2L 3.19999 0.7L 1.2207e-05 -1.2207e-05L 0.0999878 3.59999L 0.199994 7.2L 1.50001 7.49999L 3.19999 8.90001L 4.19999 9.09999C 4.69999 9.19999 5.30001 8.90001 5.40001 8.30001L 6.19999 4.90001L 7.00001 1.49999C 7.20001 0.999988 6.90001 0.500012 6.40001 0.400012Z"/>
+<path id="path147_fill" d="M 3.5 0.800012L 0 -6.10352e-06L 0.100006 3.6L 0.200012 7.30001L 3.70001 8.1L 3.60001 4.49999L 3.5 0.800012Z"/>
+<path id="path148_fill" d="M 3.5 0.800012L 0 -6.10352e-06L 0.100006 3.6L 0.200012 7.30001L 3.70001 8.1L 3.60001 4.39999L 3.5 0.800012Z"/>
+<path id="path149_fill" d="M 3.50001 0.799988L 6.10352e-06 0L 0.100012 3.60001L 0.199988 7.29999L 3.69999 8.10001L 3.60001 4.5L 3.50001 0.799988Z"/>
+<path id="path150_fill" d="M 3.49999 0.800006L -6.10352e-06 -1.2207e-05L 0.1 3.59999L 0.200006 7.30001L 3.70001 8.09999L 3.6 4.40001L 3.49999 0.800006Z"/>
+<path id="path151_fill" d="M 3.49999 0.800006L -6.10352e-06 -1.2207e-05L 0.1 3.7L 0.200006 7.30001L 3.70001 8.09999L 3.6 4.49999L 3.49999 0.800006Z"/>
+<path id="path152_fill" d="M 3.50001 0.799994L 1.2207e-05 6.10352e-06L 0.0999878 3.60001L 0.199994 7.29999L 3.69999 8.10001L 3.59999 4.50001L 3.50001 0.799994Z"/>
+<path id="path153_fill" d="M 3.49999 0.8L -1.2207e-05 1.2207e-05L 0.0999939 3.59999L 0.2 7.3L 3.7 8.09999L 3.59999 4.50001L 3.49999 0.8Z"/>
+<path id="path154_fill" d="M 2.82602 0.226001L 2.026 0.0260191C 1.726 -0.0739809 1.52603 0.126013 1.42603 0.426013L 0.726013 3.32601L 0.626007 3.82601L 0.0260008 6.226C -0.0739992 6.526 0.126025 6.72601 0.426025 6.82601L 3.12601 7.42601L 3.026 3.82601L 2.82602 0.226001Z"/>
+<path id="path155_fill" d="M 0.4 0.0999939L 6.10352e-06 -1.2207e-05L 0.100012 3.59999L 0.199988 7.30001L 0.600012 7.40001L 0.500006 3.7L 0.4 0.0999939Z"/>
+<path id="path156_fill" d="M 0.399994 0.0999878L 0 1.2207e-05L 0.100006 3.59999L 0.200012 7.3L 0.600006 7.40001L 0.5 3.69999L 0.399994 0.0999878Z"/>
+<path id="path157_fill" d="M 0.399988 0.100012L -6.10352e-06 6.10352e-06L 0.1 3.60001L 0.200006 7.29999L 0.6 7.4L 0.499994 3.69999L 0.399988 0.100012Z"/>
+<path id="path158_fill" d="M 0.400012 0.100006L -1.2207e-05 0L 0.0999939 3.70001L 0.2 7.29999L 0.599994 7.39999L 0.499988 3.70001L 0.400012 0.100006Z"/>
+<path id="path159_fill" d="M 0.400006 0.1L 1.2207e-05 -6.10352e-06L 0.0999878 3.70001L 0.199994 7.30001L 0.599988 7.39999L 0.500012 3.70001L 0.400006 0.1Z"/>
+<path id="path160_fill" d="M 0.4 0.0999939L 6.10352e-06 -1.2207e-05L 0.100012 3.7L 0.199988 7.30001L 0.600012 7.40001L 0.500006 3.7L 0.4 0.0999939Z"/>
+<path id="path161_fill" d="M 0.399994 0.0999878L 0 1.2207e-05L 0.100006 3.69999L 0.200012 7.3L 0.600006 7.40001L 0.5 3.8L 0.399994 0.0999878Z"/>
+<path id="path162_fill" d="M 0.499994 3.79999L 0.399988 0.100012L -6.10352e-06 6.10352e-06L 0.1 3.69999L 0.200006 7.29999L 0.6 7.4L 0.499994 3.79999Z"/>
+<path id="path163_fill" d="M 4.20001 0.999988L -6.10352e-06 -1.2207e-05L 0.1 3.7L 1.39999 3.99999L 3.20001 5.40001L 4.20001 0.999988Z"/>
+<path id="path164_fill" d="M 2.92603 0.499994L 0.726013 -6.10352e-06L 0.626007 0.499994L 0.0260008 2.89999C -0.0739992 3.19999 0.126025 3.39999 0.426025 3.49999L 3.12601 4.1L 2.92603 0.499994Z"/>
+<path id="path165_fill" d="M -1.2207e-05 1.2207e-05L 0.0999939 3.59999L 3.59999 4.40001L 3.49999 0.8L -1.2207e-05 1.2207e-05Z"/>
+<path id="path166_fill" d="M 1.2207e-05 6.10352e-06L 0.0999878 3.60001L 3.59999 4.4L 3.50001 0.799994L 1.2207e-05 6.10352e-06Z"/>
+<path id="path167_fill" d="M 3.50001 0.799988L 6.10352e-06 0L 0.100012 3.60001L 3.60001 4.39999L 3.50001 0.799988Z"/>
+<path id="path168_fill" d="M 3.49999 0.800006L -6.10352e-06 -1.2207e-05L 0.1 3.59999L 3.6 4.40001L 3.49999 0.800006Z"/>
+<path id="path169_fill" d="M 3.5 0.800012L 0 -6.10352e-06L 0.100006 3.6L 3.60001 4.39999L 3.5 0.800012Z"/>
+<path id="path170_fill" d="M 6.10352e-06 0L 0.100012 3.60001L 3.60001 4.5L 3.50001 0.799988L 6.10352e-06 0Z"/>
+<path id="path171_fill" d="M 3.5 0.800012L 0 -6.10352e-06L 0.100006 3.6L 3.60001 4.49999L 3.5 0.800012Z"/>
+<path id="path172_fill" d="M 49.8 17.6523L 54.8 13.2523L 43.5 6.95232C 43.5 6.95232 39.1 1.65232 38.2 0.652317C 37.3 -0.347683 36.5 -0.047689 35.7 0.552311C 34.9 1.15231 29.6 5.55232 28.7 6.45232C 27.8 7.35232 27.8 8.25231 28.6 8.85231L 29.2 9.65232C 28.6 10.2523 28.2 11.0523 28.2 11.9523L 4.09999 31.1523L 4.3 31.4523C 4.1 31.3523 3.80001 31.3523 3.50001 31.3523C 1.60001 31.3523 1.2207e-05 32.9523 1.2207e-05 34.8523C 1.2207e-05 36.6523 1.30001 38.0523 3.00001 38.2523L 16.7 64.9523L 16.8 64.9523C 16.7 65.2523 16.6 65.5523 16.6 65.9523C 16.6 67.0523 17.1 67.9523 17.8 68.5523L 17.8 70.3523L 8.09999 70.3523C 6.59999 70.3523 5.39998 71.5523 5.39998 73.0523C 5.39998 74.5523 6.59999 75.7523 8.09999 75.7523L 32.2 75.7523C 33.7 75.7523 34.9 74.5523 34.9 73.0523C 34.9 71.5523 33.7 70.3523 32.2 70.3523L 22.8 70.3523L 22.8 68.3523C 23.4 67.7523 23.8 66.8523 23.8 65.8523C 23.8 64.1523 22.6 62.7523 21 62.4523L 7.20002 35.5523L 7.09999 35.6523C 7.09999 35.4523 7.20002 35.2523 7.20002 34.9523L 31.2 15.8523L 30.9 15.4523C 31.2 15.5523 31.5 15.5523 31.8 15.5523C 32.5 15.5523 33.2 15.3523 33.8 14.9523L 37.8 27.3523L 42.9 23.2523L 49.8 17.6523ZM 17.6 22.5523L 18.5 23.8523L 6.8 33.1523C 6.5 32.6523 6.2 32.2523 5.8 31.9523L 17.6 22.5523ZM 11.3 50.5523L 12.6 49.6523L 19.2 62.4523C 18.7 62.6523 18.2 62.8523 17.8 63.2523L 11.3 50.5523ZM 12.2 48.9523L 10.9 49.8523L 4.89998 38.2523C 5.39998 38.0523 5.90002 37.7523 6.20002 37.3523L 12.2 48.9523ZM 19.2 23.2523L 18.3 21.9523L 28.7 13.6523C 28.9 14.1523 29.3 14.5523 29.7 14.8523L 19.2 23.2523Z"/>
+<path id="path173_fill" d="M 14.4 20.0523L 17.3 17.6523L 22.3 13.2523L 11 6.95232C 11 6.95232 6.60002 1.65232 5.70002 0.652317C 4.80002 -0.347683 4.00002 -0.047689 3.20002 0.552311C 2.80002 0.852311 1.40001 1.95232 1.2207e-05 3.15232L 6.09999 11.6523L 14.4 20.0523Z"/>
+<path id="path174_fill" d="M -2.44141e-05 5.6C -2.44141e-05 5.6 3.19999 6.49999 5.19999 4.49999C 7.19999 2.49999 6.9 -6.10352e-06 6.9 -6.10352e-06L -2.44141e-05 5.6Z"/>
+<path id="path175_fill" d="M -1.2207e-05 1.2207e-05C -1.2207e-05 1.50001 1.2 2.69999 2.7 2.69999L 26.8 2.69999C 28.3 2.69999 29.5 1.50001 29.5 1.2207e-05L -1.2207e-05 1.2207e-05Z"/>
+</defs>
+</svg>

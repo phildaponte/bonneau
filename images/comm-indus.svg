@@ -1,0 +1,616 @@
+<svg width="633" height="246" viewBox="0 0 633 246" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>comm-indus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(685 405)" figma:type="canvas">
+<g id="comm-indus" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="industrie" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 8" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path0_fill" transform="translate(-360 -396)" fill="#D59763" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-93 -330.922)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-194 -329.951)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-143 -330.922)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-246 -329.951)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 9" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path2_fill" transform="translate(-295 -285.1)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+</g>
+<g id="garage-door" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 6" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path2_fill" transform="translate(-114 -285)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="pair" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -285)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -277)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -270)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -262)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -255)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -247)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -240)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -232)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -224)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -217)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -208.825)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -202.1)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -195)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -187)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-114 -180)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -171.825)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-114 -165.1)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="garage-door" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 6" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path2_fill" transform="translate(-295 -285)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="pair" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -285)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -277)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -270)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -262)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -255)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -247)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -240)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -232)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -224)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -217)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -208.825)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -202.1)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -195)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -187)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path3_fill" transform="translate(-295 -180)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -171.825)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 17" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path4_fill" transform="translate(-295 -165.1)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Rectangle 10" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path5_fill" transform="translate(-346 -228.414)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path6_fill" transform="translate(-339.216 -203.382)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path7_fill" transform="translate(-351 -163)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-349 -329.951)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 19" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path1_fill" transform="translate(-298 -329.951)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 11" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path8_fill" transform="translate(-368 -405)" fill="#4F4F4F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-346 -366.861)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-346 -366.861)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-346 -366.861)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-295 -366.861)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask1_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-295 -366.861)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-295 -366.861)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-243 -366.861)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask2_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-243 -366.861)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-243 -366.861)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-191.5 -366.861)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask3_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-191.5 -366.861)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-191.5 -366.861)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-140 -367.832)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask4_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-140 -367.832)"/>
+</mask>
+<g mask="url(#mask4_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-140 -367.832)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Rectangle 12" style="mix-blend-mode:normal;" figma:type="rounded-rectangle">
+<use xlink:href="#path9_fill" transform="translate(-90 -367.832)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+<mask id="mask5_outline_ins">
+<use xlink:href="#path9_fill" fill="white" transform="translate(-90 -367.832)"/>
+</mask>
+<g mask="url(#mask5_outline_ins)">
+<use xlink:href="#path10_stroke_2x" transform="translate(-90 -367.832)" fill="#333333" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="boutique-2" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path11_fill" transform="translate(-526.8 -270.936)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path12_fill" transform="translate(-422.4 -226.736)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path13_fill" transform="translate(-420.3 -224.436)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path14_fill" transform="translate(-420.4 -224.436)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path15_fill" transform="translate(-513.2 -226.736)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path16_fill" transform="translate(-511.1 -224.436)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path17_fill" transform="translate(-511.2 -224.436)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path18_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -432.547 -227.429)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path19_fill" transform="translate(-467 -225.136)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path20_fill" transform="translate(-464.3 -222.236)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path21_fill" transform="translate(-464.3 -222.236)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path22_fill" transform="translate(-465.6 -205.036)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path23_fill" transform="translate(-465.6 -178.636)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path24_fill" transform="translate(-526.8 -291.036)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path25_fill" transform="translate(-526.8 -285.536)" fill="#D3E0DE" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path26_fill" transform="translate(-526.8 -289.736)" fill="#D3E0DE" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path27_fill" transform="translate(-527 -287.836)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path28_fill" transform="translate(-526.8 -270.936)" fill="#D3E0DE" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path29_fill" transform="translate(-472.6 -162.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path30_fill" transform="translate(-462 -197.736)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path31_fill" transform="translate(-484.5 -280.236)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path32_fill" transform="translate(-478.1 -280.236)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path33_fill" transform="translate(-470.8 -280.236)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path34_fill" transform="translate(-464.3 -280.036)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path35_fill" transform="translate(-456.3 -280.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path36_fill" transform="translate(-449.5 -280.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path37_fill" transform="translate(-443.1 -280.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path38_fill" transform="translate(-436.8 -280.236)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path39_fill" transform="translate(-429.5 -280.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path40_fill" transform="translate(-422.4 -280.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path41_fill" transform="translate(-388.8 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path42_fill" transform="translate(-402.6 -268.436)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path43_fill" transform="translate(-416.4 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path44_fill" transform="translate(-430.2 -268.436)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path45_fill" transform="translate(-444 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path41_fill" transform="translate(-457.8 -268.436)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path42_fill" transform="translate(-471.6 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path43_fill" transform="translate(-485.4 -268.436)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path44_fill" transform="translate(-499.2 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path45_fill" transform="translate(-513 -268.436)" fill="#B0CAC8" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path41_fill" transform="translate(-526.8 -268.436)" fill="#F3E7C1" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path46_stroke" transform="translate(-499.2 -280.836)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path47_stroke" transform="translate(-408.4 -280.836)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path48_fill" transform="translate(-526.7 -238.336)" fill="#D7D7D9" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="boutique-1" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path49_fill" transform="translate(-677.3 -289.936)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path50_fill" transform="translate(-677.3 -259.736)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path50_fill" transform="translate(-677.3 -269.736)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path51_fill" transform="translate(-677.3 -264.436)" fill="#C2C2C5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path52_fill" transform="translate(-646.1 -254.536)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path53_fill" transform="translate(-556.3 -230.636)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path54_fill" transform="translate(-556.3 -171.036)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path55_fill" transform="translate(-572.1 -254.536)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path56_fill" transform="translate(-674.2 -254.536)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path57_fill" transform="translate(-661.7 -228.836)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path58_fill" transform="matrix(-1.83697e-16 1 -1 -1.83697e-16 -630 -226.02)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path59_fill" transform="translate(-620.5 -227.336)" fill="#E1E1E3" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path60_fill" transform="translate(-620.5 -227.336)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path61_fill" transform="translate(-622.3 -229.336)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path62_fill" transform="translate(-661.7 -165.836)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path63_fill" transform="translate(-677.3 -273.736)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path64_fill" transform="translate(-684.5 -292.836)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path65_fill" transform="translate(-653.559 -207.436)" fill="#939498" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path66_fill" transform="translate(-658.7 -226.036)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path67_fill" transform="translate(-661.7 -162.836)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path68_fill" transform="translate(-674.2 -230.636)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path69_fill" transform="translate(-674.2 -171.036)" fill="#6B6C72" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path70_fill" transform="translate(-605.9 -209.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path71_fill" transform="translate(-600.3 -209.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path72_fill" transform="translate(-595.3 -209.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path73_fill" transform="translate(-590.7 -209.236)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path74_fill" transform="translate(-586.1 -209.136)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path75_fill" transform="translate(-581.4 -210.936)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path76_fill" transform="translate(-606.2 -200.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path77_fill" transform="translate(-602.5 -200.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path78_fill" transform="translate(-598 -200.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path79_fill" transform="translate(-593.6 -200.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path80_fill" transform="translate(-589.2 -200.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path81_fill" transform="translate(-585.4 -200.636)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path82_fill" transform="translate(-581.3 -200.636)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path83_fill" transform="translate(-606.2 -214.936)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path84_fill" transform="translate(-606.2 -190.536)" fill="#47494F" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 308 0L 308 237L 0 237L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 44 0L 44 4L 0 4L 0 0Z"/>
+<path id="path2_fill" d="M 0 0L 169 0L 169 126L 0 126L 0 0Z"/>
+<path id="path3_fill" d="M 0 0L 169 0L 169 6L 0 6L 0 0Z"/>
+<path id="path4_fill" d="M 0 0L 169 0L 169 5L 0 5L 0 0Z"/>
+<path id="path5_fill" d="M 0 0L 38 0L 38 66L 0 66L 0 0Z"/>
+<path id="path6_fill" d="M 1.58334 29.3823C 0.65973 29.3823 -8.05325e-06 28.7206 -8.05325e-06 27.7941L -8.05325e-06 1.58823C -8.05325e-06 0.661756 0.65973 1.61564e-05 1.58334 1.61564e-05C 2.50695 1.61564e-05 3.16665 0.661756 3.16665 1.58823L 3.16665 27.7941C 3.16665 28.7206 2.50695 29.3823 1.58334 29.3823Z"/>
+<path id="path7_fill" d="M 0 0L 48 0L 48 4L 0 4L 0 0Z"/>
+<path id="path8_fill" d="M 0 0L 316 0L 316 21L 0 21L 0 0Z"/>
+<path id="path9_fill" d="M 0 0L 38 0L 38 36.9098L 0 36.9098L 0 0Z"/>
+<path id="path10_stroke_2x" d="M 0 0L 0 -3L -3 -3L -3 0L 0 0ZM 38 0L 41 0L 41 -3L 38 -3L 38 0ZM 38 36.9098L 38 39.9098L 41 39.9098L 41 36.9098L 38 36.9098ZM 0 36.9098L -3 36.9098L -3 39.9098L 0 39.9098L 0 36.9098ZM 0 3L 38 3L 38 -3L 0 -3L 0 3ZM 35 0L 35 36.9098L 41 36.9098L 41 0L 35 0ZM 38 33.9098L 0 33.9098L 0 39.9098L 38 39.9098L 38 33.9098ZM 3 36.9098L 3 0L -3 0L -3 36.9098L 3 36.9098Z"/>
+<path id="path11_fill" d="M 151.8 -1.2207e-05L 1.2207e-05 -1.2207e-05L 1.2207e-05 111.4L 151.8 111.4L 151.8 -1.2207e-05Z"/>
+<path id="path12_fill" d="M 6.10352e-06 62.2L 6.10352e-06 17.1C 6.10352e-06 7.70001 7.70001 5.68434e-14 17.1 5.68434e-14C 26.5 5.68434e-14 34.2 7.70001 34.2 17.1L 34.2 62.2L 6.10352e-06 62.2Z"/>
+<path id="path13_fill" d="M 30.1 57.3L 1.2207e-05 57.3L 1.2207e-05 15.1C 1.2207e-05 6.79999 6.69999 -1.2207e-05 15.1 -1.2207e-05C 23.4 -1.2207e-05 30.2 6.69999 30.2 15.1L 30.2 57.3L 30.1 57.3Z"/>
+<path id="path14_fill" d="M 6.10352e-06 15.1L 6.10352e-06 18L 23.9 2.90001C 21.8 1.40001 19 -1.2207e-05 15 -1.2207e-05C 6.70001 -1.2207e-05 6.10352e-06 6.79999 6.10352e-06 15.1Z"/>
+<path id="path15_fill" d="M -1.2207e-05 62.2L -1.2207e-05 17.1C -1.2207e-05 7.70001 7.7 5.68434e-14 17.1 5.68434e-14C 26.5 5.68434e-14 34.2 7.70001 34.2 17.1L 34.2 62.2L -1.2207e-05 62.2Z"/>
+<path id="path16_fill" d="M 30.1 57.3L -6.10352e-06 57.3L -6.10352e-06 15.1C -6.10352e-06 6.79999 6.7 -1.2207e-05 15.1 -1.2207e-05C 23.4 -1.2207e-05 30.2 6.69999 30.2 15.1L 30.2 57.3L 30.1 57.3Z"/>
+<path id="path17_fill" d="M -1.2207e-05 15.1L -1.2207e-05 18L 23.9 2.90001C 21.8 1.40001 19 -1.2207e-05 15 -1.2207e-05C 6.79999 -1.2207e-05 -1.2207e-05 6.79999 -1.2207e-05 15.1Z"/>
+<path id="path18_fill" d="M 66 -6.10352e-06L 6.10352e-06 -6.10352e-06L 6.10352e-06 36.8L 66 36.8L 66 -6.10352e-06Z"/>
+<path id="path19_fill" d="M 32.2 6.10352e-06L 0 6.10352e-06L 0 64.6L 32.2 64.6L 32.2 6.10352e-06Z"/>
+<path id="path20_fill" d="M 1.2207e-05 56.5L 1.2207e-05 3C 1.2207e-05 1.4 1.30001 0 3.00001 0L 23.6 0C 25.2 0 26.6 1.3 26.6 3L 26.6 56.5C 26.6 58.1 25.3 59.5 23.6 59.5L 3.00001 59.5C 1.40001 59.5 1.2207e-05 58.2 1.2207e-05 56.5Z"/>
+<path id="path21_fill" d="M 1.2207e-05 3.39999L 1.2207e-05 15.7L 21.9 0L 2.59999 0C 1.19999 0.1 1.2207e-05 1.59999 1.2207e-05 3.39999Z"/>
+<path id="path22_fill" d="M 29.5 1.2207e-05L -6.10352e-06 1.2207e-05L -6.10352e-06 3.09999L 29.5 3.09999L 29.5 1.2207e-05Z"/>
+<path id="path23_fill" d="M 29.5 6.10352e-06L -6.10352e-06 6.10352e-06L -6.10352e-06 17.3L 29.5 17.3L 29.5 6.10352e-06Z"/>
+<path id="path24_fill" d="M 151.8 -3.05176e-06L 1.2207e-05 -3.05176e-06L 1.2207e-05 21L 151.8 21L 151.8 -3.05176e-06Z"/>
+<path id="path25_fill" d="M 151.8 1.2207e-05L 1.2207e-05 1.2207e-05L 1.2207e-05 2.00001L 151.8 2.00001L 151.8 1.2207e-05Z"/>
+<path id="path26_fill" d="M 151.8 0L 1.2207e-05 0L 1.2207e-05 1.89999L 151.8 1.89999L 151.8 0Z"/>
+<path id="path27_fill" d="M 151.8 -6.10352e-06L 0 -6.10352e-06L 0 2.30001L 151.8 2.30001L 151.8 -6.10352e-06Z"/>
+<path id="path28_fill" d="M 151.8 -1.2207e-05L 1.2207e-05 -1.2207e-05L 1.2207e-05 11L 151.8 11L 151.8 -1.2207e-05Z"/>
+<path id="path29_fill" d="M 43.5 1.2207e-05L -6.10352e-06 1.2207e-05L -6.10352e-06 3.00001L 43.5 3.00001L 43.5 1.2207e-05Z"/>
+<path id="path30_fill" d="M 2.10001 4.20001C 3.2598 4.20001 4.20001 3.2598 4.20001 2.10001C 4.20001 0.940208 3.2598 0 2.10001 0C 0.940208 0 0 0.940208 0 2.10001C 0 3.2598 0.940208 4.20001 2.10001 4.20001Z"/>
+<path id="path31_fill" d="M 0 2.89999C 0 1.19999 1.29999 0 2.89999 0C 3.39999 0 3.90001 0.199994 4.20001 0.399994L 4.39999 0L 4.79999 0L 4.79999 2L 4.39999 2C 4.09999 1 3.49999 0.399994 2.79999 0.399994C 1.99999 0.399994 1.20001 1.20001 1.20001 2.70001C 1.20001 4.30001 2 5.10001 3 5.10001C 3.8 5.10001 4.30001 4.69999 4.70001 3.89999L 5.10001 4.10001C 4.70001 5.00001 3.99999 5.70001 2.79999 5.70001C 1.09999 5.80001 0 4.59999 0 2.89999Z"/>
+<path id="path32_fill" d="M -6.10352e-06 5.20001C 0.699994 5.20001 0.800012 5.09999 0.800012 4.79999L 0.800012 0.799988C 0.800012 0.499988 0.699994 0.499994 -6.10352e-06 0.399994L -6.10352e-06 -5.68434e-14L 2.70001 -5.68434e-14L 2.70001 0.399994C 2.10001 0.399994 1.99999 0.499988 1.99999 0.799988L 1.99999 2.5L 4.20001 2.5L 4.20001 0.799988C 4.20001 0.499988 4.09999 0.499994 3.49999 0.399994L 3.49999 -5.68434e-14L 6.20001 -5.68434e-14L 6.20001 0.399994C 5.50001 0.399994 5.39999 0.499988 5.39999 0.799988L 5.39999 4.79999C 5.39999 5.09999 5.50001 5.10001 6.20001 5.20001L 6.20001 5.60001L 3.49999 5.60001L 3.49999 5.20001C 4.09999 5.20001 4.20001 5.09999 4.20001 4.79999L 4.20001 3L 1.99999 3L 1.99999 4.89999C 1.99999 5.19999 2.10001 5.19999 2.70001 5.29999L 2.70001 5.70001L -6.10352e-06 5.70001L -6.10352e-06 5.20001Z"/>
+<path id="path33_fill" d="M 0.0999878 5.20001C 0.799988 5.20001 0.900006 5.09999 0.900006 4.79999L 0.900006 0.799988C 0.900006 0.499988 0.799988 0.499994 0.0999878 0.399994L 0.0999878 -5.68434e-14L 4.8 -5.68434e-14L 4.8 1.79999L 4.40001 1.79999C 4.10001 0.899988 3.90001 0.399994 2.90001 0.399994L 2.00001 0.399994L 2.00001 2.39999L 2.3 2.39999C 2.9 2.39999 3.1 2.40001 3.3 1.60001L 3.59999 1.60001L 3.59999 3.79999L 3.3 3.79999C 3 2.99999 2.9 2.89999 2.3 2.89999L 2.00001 2.89999L 2.00001 5L 2.8 5C 4 5 4.19999 4.39999 4.59999 3.39999L 5.00001 3.39999L 4.90001 5.39999L 1.2207e-05 5.39999L 1.2207e-05 5.20001L 0.0999878 5.20001Z"/>
+<path id="path34_fill" d="M 1.2207e-05 5.09999L 3.3 0.400006L 2.09999 0.400006C 1.29999 0.400006 1.09999 0.900006 0.699994 1.90001L 0.3 1.90001L 0.400006 1.2207e-05L 4.8 1.2207e-05L 4.8 0.3L 1.50001 5.00001L 2.8 5.00001C 3.6 5.00001 3.9 4.40001 4.3 3.40001L 4.69999 3.40001L 4.59999 5.40001L 0.0999878 5.40001L 1.2207e-05 5.09999Z"/>
+<path id="path35_fill" d="M 3.50001 3.60001L 1.69999 3.60001L 1.40001 4.29999C 1.20001 4.89999 1.20001 5.09999 1.90001 5.19999L 1.90001 5.60001L 1.2207e-05 5.60001L 1.2207e-05 5.19999C 0.500012 5.09999 0.700006 4.89999 0.900006 4.19999L 2.50001 6.10352e-06L 3.40001 6.10352e-06L 5.00001 4.60001C 5.10001 5.00001 5.30001 5.09999 5.90001 5.19999L 5.90001 5.60001L 3.09999 5.60001L 3.09999 5.19999C 3.79999 5.19999 3.9 5.00001 3.8 4.60001L 3.50001 3.60001ZM 3.3 3.10001L 2.59999 1.19999L 2.50001 1.19999L 1.8 3.10001L 3.3 3.10001Z"/>
+<path id="path36_fill" d="M 1.89999 4.79999C 1.89999 5.09999 2.10001 5.09999 2.70001 5.19999L 2.70001 5.60001L 0 5.60001L 0 5.19999C 0.7 5.19999 0.799988 5.09999 0.799988 4.79999L 0.799988 0.799994C 0.799988 0.499994 0.7 0.5 0 0.4L 0 6.10352e-06L 2.70001 6.10352e-06C 4.40001 6.10352e-06 4.89999 0.599994 4.89999 1.29999C 4.89999 1.99999 4.49999 2.49999 3.39999 2.69999C 4.49999 2.69999 4.69999 3.19999 4.79999 3.79999L 4.89999 4.4C 4.99999 4.9 5.10001 5.00001 5.70001 5.10001L 5.70001 5.50001C 5.50001 5.50001 5.30001 5.50001 5.10001 5.50001C 3.90001 5.50001 3.70001 5.20001 3.70001 4.50001L 3.70001 3.9C 3.70001 3.2 3.40001 2.9 2.60001 2.9L 2.20001 2.9L 2.20001 4.79999L 1.89999 4.79999ZM 2.39999 2.60001C 3.39999 2.60001 3.60001 2.20001 3.60001 1.50001C 3.60001 0.900006 3.29999 0.500006 2.39999 0.500006L 2 0.500006L 2 2.60001L 2.39999 2.60001Z"/>
+<path id="path37_fill" d="M 0.999994 5.10001C 1.69999 5.10001 1.89999 4.99999 1.89999 4.69999L 1.89999 0.4L 1.70001 0.4C 1.00001 0.4 0.699988 0.9 0.399988 1.9L -6.10352e-06 1.9L 0.1 6.10352e-06L 4.99999 6.10352e-06L 5.1 1.9L 4.70001 1.9C 4.40001 0.9 4.09999 0.4 3.39999 0.4L 3.20001 0.4L 3.20001 4.69999C 3.20001 4.99999 3.4 5.00001 4.1 5.10001L 4.1 5.50001L 1.20001 5.50001L 1.20001 5.10001L 0.999994 5.10001Z"/>
+<path id="path38_fill" d="M 1.2207e-05 5.20001C 0.700012 5.20001 0.8 5.09999 0.8 4.79999L 0.8 0.799988C 0.8 0.499988 0.700012 0.499994 1.2207e-05 0.399994L 1.2207e-05 -5.68434e-14L 2.69999 -5.68434e-14L 2.69999 0.399994C 2.09999 0.399994 2.00001 0.499988 2.00001 0.799988L 2.00001 2.5L 4.19999 2.5L 4.19999 0.799988C 4.19999 0.499988 4.10001 0.499994 3.50001 0.399994L 3.50001 -5.68434e-14L 6.19999 -5.68434e-14L 6.19999 0.399994C 5.49999 0.399994 5.40001 0.499988 5.40001 0.799988L 5.40001 4.79999C 5.40001 5.09999 5.49999 5.10001 6.19999 5.20001L 6.19999 5.60001L 3.50001 5.60001L 3.50001 5.20001C 4.10001 5.20001 4.19999 5.09999 4.19999 4.79999L 4.19999 3L 2.00001 3L 2.00001 4.89999C 2.00001 5.19999 2.09999 5.19999 2.69999 5.29999L 2.69999 5.70001L 1.2207e-05 5.70001L 1.2207e-05 5.20001Z"/>
+<path id="path39_fill" d="M 0.799988 3.69999L 0.799988 0.799994C 0.799988 0.499994 0.7 0.5 0 0.4L 0 6.10352e-06L 2.70001 6.10352e-06L 2.70001 0.4C 2.10001 0.4 2 0.499994 2 0.799994L 2 3.60001C 2 4.60001 2.49999 5.00001 3.39999 5.00001C 3.79999 5.00001 4.09999 4.89999 4.29999 4.69999C 4.59999 4.39999 4.70001 4.1 4.70001 3.4L 4.70001 1.50001C 4.70001 0.700006 4.49999 0.5 3.79999 0.4L 3.79999 6.10352e-06L 6 6.10352e-06L 6 0.4C 5.3 0.5 5.20001 0.700006 5.20001 1.50001L 5.20001 3.69999C 5.20001 4.79999 4.50001 5.60001 3.10001 5.60001C 1.60001 5.70001 0.799988 4.99999 0.799988 3.69999Z"/>
+<path id="path40_fill" d="M 1.9 4.79999C 1.9 5.09999 2.09999 5.09999 2.69999 5.19999L 2.69999 5.60001L 6.10352e-06 5.60001L 6.10352e-06 5.19999C 0.700006 5.19999 0.799994 5.09999 0.799994 4.79999L 0.799994 0.799994C 0.799994 0.499994 0.700006 0.5 6.10352e-06 0.4L 6.10352e-06 6.10352e-06L 2.69999 6.10352e-06C 4.39999 6.10352e-06 4.9 0.599994 4.9 1.29999C 4.9 1.99999 4.5 2.49999 3.4 2.69999C 4.5 2.69999 4.69999 3.19999 4.79999 3.79999L 4.9 4.4C 5 4.9 5.09999 5.00001 5.69999 5.10001L 5.69999 5.50001C 5.49999 5.50001 5.30001 5.50001 5.10001 5.50001C 3.90001 5.50001 3.69999 5.20001 3.69999 4.50001L 3.69999 3.9C 3.69999 3.2 3.40001 2.9 2.60001 2.9L 1.9 2.9L 1.9 4.79999ZM 2.4 2.60001C 3.4 2.60001 3.60001 2.20001 3.60001 1.50001C 3.60001 0.900006 3.3 0.500006 2.4 0.500006L 1.9 0.500006L 1.9 2.60001L 2.4 2.60001Z"/>
+<path id="path41_fill" d="M 13.8 -1.2207e-05L 1.2207e-05 -1.2207e-05C 1.2207e-05 -1.2207e-05 1.2207e-05 31.2 1.2207e-05 31.5C 1.2207e-05 34.4 3.10001 36.7 6.90001 36.7C 10.7 36.7 13.8 34.4 13.8 31.5C 13.8 31.2 13.8 -1.2207e-05 13.8 -1.2207e-05Z"/>
+<path id="path42_fill" d="M 13.8 -1.2207e-05L -6.10352e-06 -1.2207e-05C -6.10352e-06 -1.2207e-05 -6.10352e-06 31.2 -6.10352e-06 31.5C -6.10352e-06 34.4 3.09999 36.7 6.89999 36.7C 10.7 36.7 13.8 34.4 13.8 31.5C 13.8 31.2 13.8 -1.2207e-05 13.8 -1.2207e-05Z"/>
+<path id="path43_fill" d="M 13.8 -1.2207e-05L 6.10352e-06 -1.2207e-05C 6.10352e-06 -1.2207e-05 6.10352e-06 31.2 6.10352e-06 31.5C 6.10352e-06 34.4 3.1 36.7 6.9 36.7C 10.7 36.7 13.8 34.4 13.8 31.5C 13.8 31.2 13.8 -1.2207e-05 13.8 -1.2207e-05Z"/>
+<path id="path44_fill" d="M 13.8 -1.2207e-05L -1.2207e-05 -1.2207e-05C -1.2207e-05 -1.2207e-05 -1.2207e-05 31.2 -1.2207e-05 31.5C -1.2207e-05 34.4 3.10001 36.7 6.90001 36.7C 10.7 36.7 13.8 34.4 13.8 31.5C 13.8 31.2 13.8 -1.2207e-05 13.8 -1.2207e-05Z"/>
+<path id="path45_fill" d="M 13.8 -1.2207e-05L 0 -1.2207e-05C 0 -1.2207e-05 0 31.2 0 31.5C 0 34.4 3.09999 36.7 6.89999 36.7C 10.7 36.7 13.8 34.4 13.8 31.5C 13.8 31.2 13.8 -1.2207e-05 13.8 -1.2207e-05Z"/>
+<path id="path46_stroke" d="M 5.95599 3.30001C 5.95599 4.76688 4.76687 5.956 3.30001 5.956L 3.30001 7.244C 5.47822 7.244 7.24399 5.47822 7.24399 3.30001L 5.95599 3.30001ZM 3.30001 5.956C 1.83313 5.956 0.643988 4.76687 0.643988 3.30001L -0.644012 3.30001C -0.644012 5.47823 1.1218 7.244 3.30001 7.244L 3.30001 5.956ZM 0.643988 3.30001C 0.643988 1.83314 1.83314 0.643994 3.30001 0.643994L 3.30001 -0.644006C 1.1218 -0.644006 -0.644012 1.1218 -0.644012 3.30001L 0.643988 3.30001ZM 3.30001 0.643994C 4.76687 0.643994 5.95599 1.83314 5.95599 3.30001L 7.24399 3.30001C 7.24399 1.12181 5.47823 -0.644006 3.30001 -0.644006L 3.30001 0.643994Z"/>
+<path id="path47_stroke" d="M 5.95601 3.30001C 5.95601 4.76687 4.76687 5.956 3.29999 5.956L 3.29999 7.244C 5.4782 7.244 7.24401 5.47823 7.24401 3.30001L 5.95601 3.30001ZM 3.29999 5.956C 1.83313 5.956 0.644006 4.76688 0.644006 3.30001L -0.643994 3.30001C -0.643994 5.47822 1.12178 7.244 3.29999 7.244L 3.29999 5.956ZM 0.644006 3.30001C 0.644006 1.83314 1.83313 0.643994 3.29999 0.643994L 3.29999 -0.644006C 1.12178 -0.644006 -0.643994 1.12181 -0.643994 3.30001L 0.644006 3.30001ZM 3.29999 0.643994C 4.76686 0.643994 5.95601 1.83314 5.95601 3.30001L 7.24401 3.30001C 7.24401 1.1218 5.47821 -0.644006 3.29999 -0.644006L 3.29999 0.643994Z"/>
+<path id="path48_fill" d="M 151.8 -6.10352e-06L 138 -6.10352e-06L -1.2207e-05 -6.10352e-06L -1.2207e-05 4.39999C -1.2207e-05 7.19999 3.19999 8.80001 6.99999 8.80001C 10.5 8.80001 13.4 6.80001 13.9 4.20001C 13.9 4.00001 13.9 3.8 14 3.6C 14 3.8 14 4.00001 13.9 4.20001C 14.4 6.80001 17.3 8.80001 20.8 8.80001C 24.3 8.80001 27.2 6.80001 27.7 4.20001C 27.7 4.00001 27.8 3.8 27.8 3.6C 27.8 3.8 27.8 4.00001 27.7 4.20001C 28.2 6.80001 31.1 8.80001 34.6 8.80001C 38.1 8.80001 41 6.80001 41.5 4.20001C 41.5 4.00001 41.5 3.8 41.6 3.6C 41.6 3.8 41.6 4.00001 41.5 4.20001C 42 6.80001 44.9 8.80001 48.4 8.80001C 51.9 8.80001 54.8 6.80001 55.3 4.20001C 55.3 4.00001 55.4 3.8 55.4 3.6C 55.4 3.8 55.4 4.00001 55.3 4.20001C 55.8 6.80001 58.7 8.80001 62.2 8.80001C 65.7 8.80001 68.6 6.80001 69.1 4.20001C 69.1 4.00001 69.1 3.8 69.2 3.6C 69.2 3.8 69.2 4.00001 69.1 4.20001C 69.6 6.80001 72.5 8.80001 76 8.80001C 79.5 8.80001 82.4 6.80001 82.9 4.20001C 82.9 4.00001 82.9 3.8 83 3.6C 83 3.8 83 4.00001 82.9 4.20001C 83.4 6.80001 86.3 8.80001 89.8 8.80001C 93.3 8.80001 96.2 6.80001 96.7 4.20001C 96.7 4.00001 96.8 3.8 96.8 3.6C 96.8 3.8 96.8 4.00001 96.7 4.20001C 97.2 6.80001 100.1 8.80001 103.6 8.80001C 107.1 8.80001 110 6.80001 110.5 4.20001C 110.5 4.00001 110.6 3.8 110.6 3.6C 110.6 3.8 110.6 4.00001 110.5 4.20001C 111 6.80001 113.9 8.80001 117.4 8.80001C 120.9 8.80001 123.8 6.80001 124.3 4.20001C 124.3 4.00001 124.4 3.8 124.4 3.6C 124.4 3.8 124.4 4.00001 124.3 4.20001C 124.8 6.80001 127.7 8.80001 131.2 8.80001C 134.7 8.80001 137.6 6.80001 138.1 4.20001C 138.1 4.00001 138.2 3.8 138.2 3.6C 138.2 3.8 138.2 4.00001 138.1 4.20001C 138.6 6.80001 141.5 8.80001 145 8.80001C 148.8 8.80001 152 6.39999 152 3.49999C 152 3.29999 152 2.80001 152 2.80001L 152 -6.10352e-06L 151.8 -6.10352e-06Z"/>
+<path id="path49_fill" d="M 133.6 -3.05176e-06L 6.10352e-06 -3.05176e-06L 6.10352e-06 130.6L 133.6 130.6L 133.6 -3.05176e-06Z"/>
+<path id="path50_fill" d="M 133.6 -6.10352e-06L 6.10352e-06 -6.10352e-06L 6.10352e-06 1.6L 133.6 1.6L 133.6 -6.10352e-06Z"/>
+<path id="path51_fill" d="M 133.6 1.2207e-05L 6.10352e-06 1.2207e-05L 6.10352e-06 2.69999L 133.6 2.69999L 133.6 1.2207e-05Z"/>
+<path id="path52_fill" d="M 71 6.10352e-06L -1.2207e-05 6.10352e-06L -1.2207e-05 21.1L 71 21.1L 71 6.10352e-06Z"/>
+<path id="path53_fill" d="M 9.10001 0L -2.44141e-05 0L -2.44141e-05 56.8L 9.10001 56.8L 9.10001 0Z"/>
+<path id="path54_fill" d="M 9.10001 6.10352e-06L -2.44141e-05 6.10352e-06L -2.44141e-05 8.4L 9.10001 8.4L 9.10001 6.10352e-06Z"/>
+<path id="path55_fill" d="M 25 6.10352e-06L -1.2207e-05 6.10352e-06L -1.2207e-05 21.1L 25 21.1L 25 6.10352e-06Z"/>
+<path id="path56_fill" d="M 25 6.10352e-06L 1.2207e-05 6.10352e-06L 1.2207e-05 21.1L 25 21.1L 25 6.10352e-06Z"/>
+<path id="path57_fill" d="M 34.8 -1.2207e-05L 1.2207e-05 -1.2207e-05L 1.2207e-05 61.9L 34.8 61.9L 34.8 -1.2207e-05Z"/>
+<path id="path58_fill" d="M 57 1.2207e-05L 6.10352e-06 1.2207e-05L 6.10352e-06 28.8L 57 28.8L 57 1.2207e-05Z"/>
+<path id="path59_fill" d="M 56.5 -1.2207e-05L -6.10352e-06 -1.2207e-05L -6.10352e-06 58.4L 56.5 58.4L 56.5 -1.2207e-05Z"/>
+<path id="path60_fill" d="M 38.5 -1.2207e-05L -6.10352e-06 -1.2207e-05L -6.10352e-06 24.5L 38.5 -1.2207e-05Z"/>
+<path id="path61_fill" d="M 6.10352e-06 62.5L 6.10352e-06 -1.2207e-05L 60.3 -1.2207e-05L 60.3 62.5L 6.10352e-06 62.5ZM 58.3 1.99999L 1.9 1.99999L 1.9 60.3L 58.3 60.3L 58.3 1.99999Z"/>
+<path id="path62_fill" d="M 34.8 -1.2207e-05L 1.2207e-05 -1.2207e-05L 1.2207e-05 5.99999L 34.8 5.99999L 34.8 -1.2207e-05Z"/>
+<path id="path63_fill" d="M 133.6 -6.10352e-06L 6.10352e-06 -6.10352e-06L 6.10352e-06 3.89999L 133.6 3.89999L 133.6 -6.10352e-06Z"/>
+<path id="path64_fill" d="M 148.1 3.05176e-06L -6.10352e-06 3.05176e-06L -6.10352e-06 3.9L 148.1 3.9L 148.1 3.05176e-06Z"/>
+<path id="path65_fill" d="M 1.20001 22.2C 0.500006 22.2 -6.10352e-06 21.7 -6.10352e-06 21L -6.10352e-06 1.19999C -6.10352e-06 0.499994 0.500006 1.2207e-05 1.20001 1.2207e-05C 1.90001 1.2207e-05 2.39999 0.499994 2.39999 1.19999L 2.39999 21C 2.39999 21.7 1.90001 22.2 1.20001 22.2Z"/>
+<path id="path66_fill" d="M 28.8 6.10352e-06L 1.2207e-05 6.10352e-06L 1.2207e-05 18.2L 28.8 6.10352e-06Z"/>
+<path id="path67_fill" d="M 34.8 -1.2207e-05L 1.2207e-05 -1.2207e-05L 1.2207e-05 3.09999L 34.8 3.09999L 34.8 -1.2207e-05Z"/>
+<path id="path68_fill" d="M 9.09999 0L 1.2207e-05 0L 1.2207e-05 56.8L 9.09999 56.8L 9.09999 0Z"/>
+<path id="path69_fill" d="M 9.09999 6.10352e-06L 1.2207e-05 6.10352e-06L 1.2207e-05 8.4L 9.09999 8.4L 9.09999 6.10352e-06Z"/>
+<path id="path70_fill" d="M 0 0L 1.40002 0L 2.20001 2.60001L 3 0L 4.40002 0L 4.40002 6.39999L 3.40002 6.39999L 3.40002 1.70001L 2.59998 4.39999L 1.79999 4.39999L 1 1.70001L 1 6.39999L 0 6.39999L 0 0Z"/>
+<path id="path71_fill" d="M 1.19999 0L 2.80002 0L 4.10001 6.39999L 2.99998 6.39999L 2.69999 4.79999L 1.4 4.79999L 1.10001 6.39999L -2.44141e-05 6.39999L 1.19999 0ZM 2.30002 3.89999L 1.80002 1.20001L 1.30002 3.89999L 2.30002 3.89999Z"/>
+<path id="path72_fill" d="M -2.44141e-05 0L 1.69999 0C 2.79999 0 3.4 0.599994 3.4 1.89999C 3.4 2.79999 3.10001 3.40001 2.60001 3.60001L 3.49998 6.5L 2.30002 6.5L 1.60001 3.89999L 1.10001 3.89999L 1.10001 6.5L -2.44141e-05 6.5L -2.44141e-05 0ZM 1.69999 2.89999C 2.09999 2.89999 2.30002 2.59999 2.30002 1.89999C 2.30002 1.29999 2.09999 0.899994 1.69999 0.899994L 1.19999 0.899994L 1.19999 2.89999L 1.69999 2.89999Z"/>
+<path id="path73_fill" d="M 1.2207e-05 4.99999L 1.2207e-05 1.6C 1.2207e-05 0.6 0.8 -6.10352e-06 1.8 -6.10352e-06C 2.7 -6.10352e-06 3.50001 0.599994 3.50001 1.49999L 3.50001 2.20001L 2.50001 2.20001L 2.50001 1.6C 2.50001 1.2 2.29998 0.999994 1.89998 0.999994C 1.49998 0.999994 1.3 1.30001 1.3 1.70001L 1.3 4.99999C 1.3 5.39999 1.49998 5.70001 1.89998 5.70001C 2.29998 5.70001 2.50001 5.5 2.50001 5.1L 2.50001 4.49999L 3.50001 4.49999L 3.50001 5.20001C 3.50001 6.20001 2.8 6.70001 1.8 6.70001C 0.7 6.60001 1.2207e-05 6.09999 1.2207e-05 4.99999Z"/>
+<path id="path74_fill" d="M -1.2207e-05 0L 1.10002 0L 1.10002 2.70001L 2.29998 2.70001L 2.29998 0L 3.40001 0L 3.40001 6.39999L 2.29998 6.39999L 2.29998 3.70001L 1.10002 3.70001L 1.10002 6.39999L -1.2207e-05 6.39999L -1.2207e-05 0Z"/>
+<path id="path75_fill" d="M 0.0999756 1.8L 3 1.8L 3 2.8L 1.20001 2.8L 1.20001 4.50001L 2.70001 4.50001L 2.70001 5.50001L 1.20001 5.50001L 1.20001 7.40001L 3 7.40001L 3 8.40001L 0 8.40001L 0 1.8L 0.0999756 1.8ZM 1.79999 1.2207e-05L 2.90002 1.2207e-05L 2 1.3L 1.20001 1.3L 1.79999 1.2207e-05Z"/>
+<path id="path76_fill" d="M 1.2207e-05 6.10352e-06L 3.00001 6.10352e-06L 3.00001 1.00001L 1.20002 1.00001L 1.20002 2.69999L 2.70002 2.69999L 2.70002 3.69999L 1.20002 3.69999L 1.20002 5.60001L 3.00001 5.60001L 3.00001 6.60001L 1.2207e-05 6.60001L 1.2207e-05 6.10352e-06Z"/>
+<path id="path77_fill" d="M 1.19998 3.19999L 2.44141e-05 6.10352e-06L 1.19998 6.10352e-06L 1.89999 1.9L 2.6 6.10352e-06L 3.69998 6.10352e-06L 2.50002 3.10001L 3.80001 6.4L 2.6 6.4L 1.89999 4.4L 1.19998 6.4L 0.1 6.4L 1.19998 3.19999Z"/>
+<path id="path78_fill" d="M 2.44141e-05 6.10352e-06L 1.80001 6.10352e-06C 2.90001 6.10352e-06 3.39999 0.7 3.39999 1.9C 3.39999 3.2 2.90001 4.00001 1.80001 4.00001L 1.19998 4.00001L 1.19998 6.4L 0.1 6.4L 0.1 6.10352e-06L 2.44141e-05 6.10352e-06ZM 1.6 3.00001C 2 3.00001 2.19998 2.6 2.19998 1.9C 2.19998 1.2 2 0.9 1.6 0.9L 1.1 0.9L 1.1 3.00001L 1.6 3.00001Z"/>
+<path id="path79_fill" d="M -1.2207e-05 6.10352e-06L 1.7 6.10352e-06C 2.8 6.10352e-06 3.40001 0.6 3.40001 1.9C 3.40001 2.8 3.10002 3.40001 2.60002 3.60001L 3.49999 6.50001L 2.29998 6.50001L 1.60002 3.9L 1.10002 3.9L 1.10002 6.50001L -1.2207e-05 6.50001L -1.2207e-05 6.10352e-06ZM 1.60002 2.9C 2.00002 2.9 2.2 2.6 2.2 1.9C 2.2 1.3 2.00002 0.9 1.60002 0.9L 1.10002 0.9L 1.10002 2.9L 1.60002 2.9Z"/>
+<path id="path80_fill" d="M 0.0999878 6.10352e-06L 3.00001 6.10352e-06L 3.00001 1.00001L 1.20002 1.00001L 1.20002 2.69999L 2.70002 2.69999L 2.70002 3.69999L 1.20002 3.69999L 1.20002 5.60001L 3.00001 5.60001L 3.00001 6.60001L 1.2207e-05 6.60001L 1.2207e-05 6.10352e-06L 0.0999878 6.10352e-06Z"/>
+<path id="path81_fill" d="M 0 4.79999L 1.09998 4.79999C 1.09998 5.19999 1.30001 5.70001 1.70001 5.70001C 2.10001 5.70001 2.20001 5.3 2.20001 5C 2.20001 4.6 1.99998 4.3 1.59998 4L 1 3.29999C 0.4 2.79999 0.0999756 2.20001 0.0999756 1.60001C 0.0999756 0.700006 0.600012 0 1.70001 0C 2.50001 0 3.20001 0.400012 3.20001 1.70001L 2.20001 1.70001C 2.10001 1.20001 1.99998 0.799988 1.59998 0.799988C 1.29998 0.799988 1.09998 1.09999 1.09998 1.39999C 1.09998 1.79999 1.39999 2.09999 1.79999 2.39999L 2.40002 3C 3.00002 3.6 3.29999 4.09999 3.29999 4.79999C 3.29999 5.69999 2.70001 6.5 1.70001 6.5C 0.600012 6.6 0 5.89999 0 4.79999Z"/>
+<path id="path82_fill" d="M -2.44141e-05 4.79999L 1.10001 4.79999C 1.10001 5.19999 1.29999 5.70001 1.69999 5.70001C 2.09999 5.70001 2.19999 5.3 2.19999 5C 2.19999 4.6 2.00001 4.3 1.60001 4L 0.999976 3.29999C 0.499976 2.79999 0.100012 2.20001 0.100012 1.60001C 0.100012 0.700006 0.599988 0 1.69999 0C 2.49999 0 3.19999 0.400012 3.19999 1.70001L 2.19999 1.70001C 2.09999 1.20001 2.00001 0.799988 1.60001 0.799988C 1.30001 0.799988 1.10001 1.09999 1.10001 1.39999C 1.10001 1.79999 1.40002 2.09999 1.80002 2.39999L 2.4 3C 3 3.6 3.30002 4.09999 3.30002 4.79999C 3.30002 5.69999 2.70001 6.5 1.60001 6.5C 0.600012 6.6 -2.44141e-05 5.89999 -2.44141e-05 4.79999Z"/>
+<path id="path83_fill" d="M 28 1.2207e-05L 1.2207e-05 1.2207e-05L 1.2207e-05 1.90001L 28 1.90001L 28 1.2207e-05Z"/>
+<path id="path84_fill" d="M 28 6.10352e-06L 1.2207e-05 6.10352e-06L 1.2207e-05 1.9L 28 1.9L 28 6.10352e-06Z"/>
+</defs>
+</svg>
