@@ -1,0 +1,25 @@
+<svg width="58" height="59" viewBox="0 0 58 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>logo-cube</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(3238 -47)" figma:type="canvas">
+<mask id="mask0_alpha" mask-type="alpha">
+<path d="M -3238 47.9885L -3180 47.9885L -3180 105.989L -3238 105.989L -3238 47.9885Z" fill="#FFFFFF"/>
+</mask>
+<g id="logo-cube" style="mix-blend-mode:normal;" mask="url(#mask0_alpha)" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Group" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-3237 48.9413)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Vector" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(-3222.1 62.9413)" fill="#F26722" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 56.1 56.1L 0 56.1L 0 0L 56.1 0L 56.1 56.1ZM 6.79999 49.3L 49.3 49.3L 49.3 6.79999L 6.79999 6.79999L 6.79999 49.3Z"/>
+<path id="path1_fill" d="M 24.4 13C 25.7 12 26.9 10.5 26.9 7.5C 26.9 2.6 23.2 0 15.8 0L 0.6 0L 2.44141e-05 0.600006L 2.44141e-05 27.3L 0.6 27.9L 16.8 27.9C 23.8 27.9 27.9 24.8 27.9 19.5C 27.9 16.5 26.2 14.2 24.4 13ZM 16.1 10.6L 6.39999 10.6L 6.39999 5.60001L 16.1 5.60001C 19.7 5.60001 20.4 6.60001 20.4 8.10001C 20.4 9.60001 19.7 10.6 16.1 10.6ZM 6.39999 16.2L 16.2 16.2C 20.8 16.2 21.4 17.7 21.4 19.3C 21.4 21.6 19.9 22.5 16.2 22.5L 6.39999 22.5L 6.39999 16.2Z"/>
+</defs>
+</svg>
